@@ -1,6 +1,6 @@
 [
   {
-    "Day": "",
+    "Day": "Tuesday",
     "Ticket": 547657,
     "Name": "jack",
     "Assignee": "Rainn",
@@ -10,7 +10,7 @@
     "Time": "3:00 PM"
   },
   {
-    "Day": "",
+    "Day": "Friday",
     "Ticket": 65756756,
     "Name": "Test Person",
     "Assignee": "Jaden",
@@ -20,7 +20,7 @@
     "Time": "12:59 PM"
   },
   {
-    "Day": "",
+    "Day": "Saturday",
     "Ticket": 567567,
     "Name": "Ujalia, Jill",
     "Assignee": "Josh",
@@ -30,7 +30,7 @@
     "Time": "2:00 PM"
   },
   {
-    "Day": "",
+    "Day": "Sunday",
     "Ticket": 65756756,
     "Name": "test 1",
     "Assignee": "Jill",
@@ -40,7 +40,7 @@
     "Time": "1:00 PM"
   },
   {
-    "Day": "",
+    "Day": "Monday",
     "Ticket": 65765765,
     "Name": "test 2",
     "Assignee": "Any Student Tech",
@@ -50,7 +50,7 @@
     "Time": "12:59 PM"
   },
   {
-    "Day": "",
+    "Day": "Tuesday",
     "Ticket": 567657657,
     "Name": "Ujalia, Jill",
     "Assignee": "Jill",
