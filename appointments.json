@@ -1,62 +1,82 @@
 [
   {
-    "Day": "Tuesday",
     "Ticket": 547657,
     "Name": "jack",
     "Assignee": "Rainn",
     "Room": 270,
     "Task": "Need help in installing SPSS",
     "Date": "8/19",
-    "Time": "3:00 PM"
+    "Time": "3:00 PM",
+    "Day": "Tuesday"
   },
   {
-    "Day": "Friday",
     "Ticket": 65756756,
     "Name": "Test Person",
     "Assignee": "Jaden",
     "Room": 177,
     "Task": "acrobat issue",
     "Date": "8/8",
-    "Time": "12:59 PM"
+    "Time": "12:59 PM",
+    "Day": "Friday"
   },
   {
-    "Day": "Saturday",
     "Ticket": 567567,
     "Name": "Ujalia, Jill",
     "Assignee": "Josh",
     "Room": 470,
     "Task": "Install  SAS",
     "Date": "8/9",
-    "Time": "2:00 PM"
+    "Time": "2:00 PM",
+    "Day": "Saturday"
   },
   {
-    "Day": "Sunday",
     "Ticket": 65756756,
     "Name": "test 1",
     "Assignee": "Jill",
     "Room": 570,
     "Task": "Windows 11 upgrade",
     "Date": "8/10",
-    "Time": "1:00 PM"
+    "Time": "1:00 PM",
+    "Day": "Sunday"
   },
   {
-    "Day": "Monday",
     "Ticket": 65765765,
     "Name": "test 2",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Install adobe",
     "Date": "8/11",
-    "Time": "12:59 PM"
+    "Time": "12:59 PM",
+    "Day": "Monday"
   },
   {
-    "Day": "Friday",
     "Ticket": "",
     "Name": "het",
     "Assignee": "Lopez, Antonio",
     "Room": "",
     "Task": "",
     "Date": "8/15",
-    "Time": "7:00 PM"
+    "Time": "7:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "",
+    "Name": "jil",
+    "Assignee": "Ujalia, Jill",
+    "Room": "",
+    "Task": "",
+    "Date": "8/18",
+    "Time": "2:40 PM",
+    "Day": "Monday"
+  },
+  {
+    "Ticket": "",
+    "Name": "ultra",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "8/15",
+    "Time": "9:20 PM",
+    "Day": "Friday"
   }
 ]
