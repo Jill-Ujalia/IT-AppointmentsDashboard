@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "Day": "",
+    "Ticket": 547657,
+    "Name": "jack",
+    "Assignee": "Rainn",
+    "Room": 270,
+    "Task": "Need help in installing SPSS",
+    "Date": "8/19",
+    "Time": "3:00 PM"
+  },
+  {
+    "Day": "",
+    "Ticket": 65756756,
+    "Name": "Test Person",
+    "Assignee": "Jaden",
+    "Room": 177,
+    "Task": "acrobat issue",
+    "Date": "8/8",
+    "Time": "12:59 PM"
+  },
+  {
+    "Day": "",
+    "Ticket": 567567,
+    "Name": "Ujalia, Jill",
+    "Assignee": "Josh",
+    "Room": 470,
+    "Task": "Install  SAS",
+    "Date": "8/9",
+    "Time": "2:00 PM"
+  },
+  {
+    "Day": "",
+    "Ticket": 65756756,
+    "Name": "test 1",
+    "Assignee": "Jill",
+    "Room": 570,
+    "Task": "Windows 11 upgrade",
+    "Date": "8/10",
+    "Time": "1:00 PM"
+  },
+  {
+    "Day": "",
+    "Ticket": 65765765,
+    "Name": "test 2",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install adobe",
+    "Date": "8/11",
+    "Time": "12:59 PM"
+  },
+  {
+    "Day": "",
+    "Ticket": 567657657,
+    "Name": "Ujalia, Jill",
+    "Assignee": "Jill",
+    "Room": 450,
+    "Task": "",
+    "Date": "8/12",
+    "Time": "1:00 PM"
+  }
+]
