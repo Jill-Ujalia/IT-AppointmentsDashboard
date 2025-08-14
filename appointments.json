@@ -50,103 +50,103 @@
     "Time": "12:59 PM"
   },
   {
-    "Day": "Tuesday",
-    "Ticket": 567657657,
-    "Name": "Ujalia, Jill",
-    "Assignee": "Jill",
-    "Room": 450,
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
     "Task": "",
-    "Date": "8/12",
-    "Time": "1:00 PM"
+    "Date": "",
+    "Time": ""
   },
   {
-    "Day": "Wednesday",
-    "Ticket": 473800900.2,
-    "Name": "Test Person",
-    "Assignee": "Jaden",
-    "Room": 798.666666666667,
-    "Task": "acrobat issue",
-    "Date": "8/13",
-    "Time": "12:59 PM"
-  },
-  {
-    "Day": "Thursday",
-    "Ticket": 580700900.2,
-    "Name": "Ujalia, Jill",
-    "Assignee": "Josh",
-    "Room": 995.166666666667,
-    "Task": "Install  SAS",
-    "Date": "8/14",
-    "Time": "12:59 PM"
-  },
-  {
-    "Day": "Friday",
-    "Ticket": 687600900.2,
-    "Name": "test 3",
-    "Assignee": "Jill",
-    "Room": 1191.66666666667,
-    "Task": "Windows 11 upgrade",
-    "Date": "8/15",
-    "Time": "12:59 PM"
-  },
-  {
-    "Day": "Saturday",
-    "Ticket": 794500900.2,
-    "Name": "test 4",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install adobe",
-    "Date": "8/16",
-    "Time": "12:59 PM"
-  },
-  {
-    "Day": "Sunday",
-    "Ticket": 901400900.2,
-    "Name": "Ujalia, Jill",
-    "Assignee": "Jill",
-    "Room": 451,
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
     "Task": "",
-    "Date": "8/17",
-    "Time": "12:59 PM"
+    "Date": "",
+    "Time": ""
   },
   {
-    "Day": "Monday",
-    "Ticket": 1008300900.2,
-    "Name": "Test Person",
-    "Assignee": "Jaden",
-    "Room": 1388.16666666667,
-    "Task": "acrobat issue",
-    "Date": "8/18",
-    "Time": "12:59 PM"
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
   },
   {
-    "Day": "Tuesday",
-    "Ticket": 1115200900.2,
-    "Name": "Ujalia, Jill",
-    "Assignee": "Josh",
-    "Room": 1584.66666666667,
-    "Task": "Install  SAS",
-    "Date": "8/19",
-    "Time": "12:59 PM"
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
   },
   {
-    "Day": "Wednesday",
-    "Ticket": 1222100900.2,
-    "Name": "test 5",
-    "Assignee": "Jill",
-    "Room": 1781.16666666667,
-    "Task": "Windows 11 upgrade",
-    "Date": "8/20",
-    "Time": "12:59 PM"
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
   },
   {
-    "Day": "Thursday",
-    "Ticket": 1329000900.2,
-    "Name": "test 6",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install adobe",
-    "Date": "8/21",
-    "Time": "12:59 PM"
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
+  },
+  {
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
+  },
+  {
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
+  },
+  {
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
+  },
+  {
+    "Day": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "",
+    "Time": ""
   }
 ]
