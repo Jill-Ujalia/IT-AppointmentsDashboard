@@ -22,6 +22,17 @@
     "Day": "Monday"
   },
   {
+    "Booking ID": "FgZbd9GWOrdDu9XPWjIHWpsAAATuLjRGAAAAANEXoz9oj1NFitk1Uck1+fsHAAZbd9GWOrdDu9XPWjIHWpsAAAAAAQ0AAAZbd9GWOrdDu9XPWjIHWpsAAATu468AAE4=",
+    "Ticket": "",
+    "Name": "Ujalia, Jill",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Date": "8/18",
+    "Time": "2:45 PM",
+    "Day": "Monday"
+  },
+  {
     "Booking ID": "",
     "Ticket": "1828450",
     "Name": "Lisa Kumor",
@@ -55,14 +66,14 @@
     "Day": "Friday"
   },
   {
-    "Booking ID": "FgZbd9GWOrdDu9XPWjIHWpsAAATuLjRGAAAAANEXoz9oj1NFitk1Uck1+fsHAAZbd9GWOrdDu9XPWjIHWpsAAAAAAQ0AAAZbd9GWOrdDu9XPWjIHWpsAAATu468AAE4=",
+    "Booking ID": "FgZbd9GWOrdDu9XPWjIHWpsAAATuKpBGAAAAANEXoz9oj1NFitk1Uck1+fsHAAZbd9GWOrdDu9XPWjIHWpsAAAAAAQ0AAAZbd9GWOrdDu9XPWjIHWpsAAATu464AAE4=",
     "Ticket": "",
-    "Name": "Ujalia, Jill",
+    "Name": "jujal@uic.edu",
     "Assignee": "",
-    "Room": "",
-    "Task": "",
-    "Date": "8/18",
-    "Time": "2:45 PM",
-    "Day": "Monday"
+    "Room": "180",
+    "Task": "install github on pc",
+    "Date": "8/19",
+    "Time": "3:15 PM",
+    "Day": "Tuesday"
   }
 ]
