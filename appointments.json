@@ -6,9 +6,9 @@
     "Assignee": "Any Student Tech",
     "Room": "246",
     "Task": "Post-NCS  for 2 new students",
-    "Date": "8/15",
+    "Date": "8/18",
     "Time": "9:30 AM",
-    "Day": "Friday"
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
@@ -20,17 +20,6 @@
     "Date": "8/18",
     "Time": "10:00 AM",
     "Day": "Monday"
-  },
-  {
-    "Booking ID": "FgZbd9GWOrdDu9XPWjIHWpsAAATuLjRGAAAAANEXoz9oj1NFitk1Uck1+fsHAAZbd9GWOrdDu9XPWjIHWpsAAAAAAQ0AAAZbd9GWOrdDu9XPWjIHWpsAAATu468AAE4=",
-    "Ticket": "",
-    "Name": "Ujalia, Jill",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
-    "Date": "8/16",
-    "Time": "2:45 PM",
-    "Day": "Saturday"
   },
   {
     "Booking ID": "",
@@ -64,16 +53,5 @@
     "Date": "8/22",
     "Time": "8:00 AM",
     "Day": "Friday"
-  },
-  {
-    "Booking ID": "FgZbd9GWOrdDu9XPWjIHWpsAAATuKpBGAAAAANEXoz9oj1NFitk1Uck1+fsHAAZbd9GWOrdDu9XPWjIHWpsAAAAAAQ0AAAZbd9GWOrdDu9XPWjIHWpsAAATu464AAE4=",
-    "Ticket": "",
-    "Name": "jujal@uic.edu",
-    "Assignee": "",
-    "Room": "180",
-    "Task": "install github on pc",
-    "Date": "8/19",
-    "Time": "3:15 PM",
-    "Day": "Tuesday"
   }
 ]
