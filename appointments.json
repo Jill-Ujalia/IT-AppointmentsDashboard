@@ -53,5 +53,16 @@
     "Date": "8/22",
     "Time": "8:00 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1855049",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Return Orange Loaner Laptop",
+    "Date": "8/18",
+    "Time": "5:00 PM",
+    "Day": "Monday"
   }
 ]
