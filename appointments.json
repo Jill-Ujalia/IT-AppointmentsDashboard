@@ -6,6 +6,7 @@
     "Assignee": "Any Student Tech",
     "Room": "246",
     "Task": "Post-NCS  for 2 new students",
+    "Completed?": "",
     "Date": "8/18",
     "Time": "9:30 AM",
     "Day": "Monday"
@@ -17,6 +18,7 @@
     "Assignee": "Any Student Tech",
     "Room": "2N",
     "Task": "Make sure Examplify and PointSolutions is on latest version",
+    "Completed?": "",
     "Date": "8/18",
     "Time": "10:00 AM",
     "Day": "Monday"
@@ -28,6 +30,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Red/Blue Loaner Drop-Off",
+    "Completed?": "",
     "Date": "8/19",
     "Time": "1:45 PM",
     "Day": "Tuesday"
@@ -39,6 +42,7 @@
     "Assignee": "Any Student Tech",
     "Room": "246",
     "Task": "Post-NCS  for 1 new student",
+    "Completed?": "",
     "Date": "8/20",
     "Time": "9:30 AM",
     "Day": "Wednesday"
@@ -50,6 +54,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
     "Task": "Open Recording Studio",
+    "Completed?": "",
     "Date": "8/22",
     "Time": "8:00 AM",
     "Day": "Friday"
@@ -61,6 +66,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Return Orange Loaner Laptop",
+    "Completed?": "",
     "Date": "8/18",
     "Time": "5:00 PM",
     "Day": "Monday"
