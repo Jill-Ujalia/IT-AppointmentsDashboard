@@ -87,36 +87,12 @@
     "Booking ID": "",
     "Ticket": "1856365",
     "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
+    "Assignee": "Jaden",
     "Room": "Remote",
     "Task": "Install STATA",
     "Completed?": "",
     "Date": "8/23",
     "Time": "2:30 PM",
     "Day": "Saturday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856366",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install STATA",
-    "Completed?": "",
-    "Date": "8/24",
-    "Time": "2:30 PM",
-    "Day": "Sunday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856367",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install STATA",
-    "Completed?": "",
-    "Date": "8/25",
-    "Time": "2:30 PM",
-    "Day": "Monday"
   }
 ]
