@@ -82,5 +82,17 @@
     "Date": "8/22",
     "Time": "1:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1856365",
+    "Name": "Ibrahim Warsi",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install STATA and SPSS",
+    "Completed?": "",
+    "Date": "8/23",
+    "Time": "2:30 PM",
+    "Day": "Saturday"
   }
 ]
