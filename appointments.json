@@ -25,18 +25,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1828450",
-    "Name": "Lisa Kumor",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Red/Blue Loaner Drop-Off",
-    "Status": "On Hold",
-    "Date": "8/19",
-    "Time": "1:45 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1827516",
     "Name": "Kathy Cleary",
     "Assignee": "Any Student Tech",
@@ -121,30 +109,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1856975",
-    "Name": "Alexis Coffee",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "",
-    "Date": "8/19",
-    "Time": "1:41 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856975",
-    "Name": "Alexis Coffee",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "",
-    "Date": "8/19",
-    "Time": "9:05 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1856365",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
@@ -165,6 +129,18 @@
     "Status": "",
     "Date": "8/19",
     "Time": "1:30 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1828450",
+    "Name": "Lisa Kumor",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Red/Blue Loaner Drop-Off",
+    "Status": "On Hold",
+    "Date": "8/19",
+    "Time": "1:45 PM",
     "Day": "Tuesday"
   }
 ]
