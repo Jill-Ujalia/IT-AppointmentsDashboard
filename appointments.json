@@ -133,14 +133,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1856975",
-    "Name": "Alexis Coffee",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
     "Completed?": "",
-    "Date": "8/19",
-    "Time": "9:05 AM",
-    "Day": "Tuesday"
+    "Date": "",
+    "Time": "",
+    "Day": ""
   }
 ]
