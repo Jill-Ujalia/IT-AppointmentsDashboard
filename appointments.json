@@ -130,5 +130,17 @@
     "Date": "8/19",
     "Time": "10:25 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1856975",
+    "Name": "Alexis Coffee",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Completed?": "",
+    "Date": "8/19",
+    "Time": "9:05 AM",
+    "Day": "Tuesday"
   }
 ]
