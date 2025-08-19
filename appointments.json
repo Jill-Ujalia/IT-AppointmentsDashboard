@@ -3,10 +3,10 @@
     "Booking ID": "",
     "Ticket": "1827516",
     "Name": "Kathy Cleary",
-    "Assignee": "Any Student Tech",
+    "Assignee": " ",
     "Room": "246",
     "Task": "Post-NCS  for 2 new students",
-    "Status": "Overdue",
+    "Status": "Completed",
     "Date": "8/18",
     "Time": "9:30 AM",
     "Day": "Monday"
@@ -42,7 +42,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Return Orange Loaner Laptop",
-    "Status": "",
+    "Status": "Cancelled",
     "Date": "8/18",
     "Time": "5:00 PM",
     "Day": "Monday"
@@ -54,7 +54,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Install Mendley",
-    "Status": "",
+    "Status": "Completed",
     "Date": "8/19",
     "Time": "1:30 PM",
     "Day": "Tuesday"
