@@ -25,36 +25,12 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1827516",
-    "Name": "Kathy Cleary",
-    "Assignee": "Any Student Tech",
-    "Room": "246",
-    "Task": "Post-NCS  for 1 new student",
-    "Status": "Completed",
-    "Date": "8/20",
-    "Time": "9:30 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1844188",
-    "Name": "Abigail Elmes",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Cancelled",
-    "Date": "8/22",
-    "Time": "8:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1856365",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Install STATA",
-    "Status": "",
+    "Status": "Completed",
     "Date": "8/18",
     "Time": "2:30 PM",
     "Day": "Monday"
@@ -70,42 +46,6 @@
     "Date": "8/18",
     "Time": "5:00 PM",
     "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1855742",
-    "Name": "Nyssa Krull",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "",
-    "Date": "8/22",
-    "Time": "1:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856975",
-    "Name": "Alexis Coffee",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "",
-    "Date": "8/20",
-    "Time": "12:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1740028",
-    "Name": "Quinnie",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
-    "Status": "",
-    "Date": "8/21",
-    "Time": "9:00 AM",
-    "Day": "Thursday"
   },
   {
     "Booking ID": "",
@@ -126,7 +66,7 @@
     "Assignee": "Rainn",
     "Room": "281A",
     "Task": "Troublehoot webcam and network",
-    "Status": "",
+    "Status": "Completed",
     "Date": "8/19",
     "Time": "1:30 PM",
     "Day": "Tuesday"
@@ -137,11 +77,35 @@
     "Name": "Lisa Kumor",
     "Assignee": "Any Student Tech",
     "Room": "ITU",
-    "Task": "Red/Blue Loaner Drop-Off",
-    "Status": "On Hold",
+    "Task": "Red/Blue Loaner Drop-Off ",
+    "Status": "Cancelled",
     "Date": "8/19",
     "Time": "1:45 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1827516",
+    "Name": "Kathy Cleary",
+    "Assignee": "Any Student Tech",
+    "Room": "246",
+    "Task": "Post-NCS  for 1 new student",
+    "Status": "Completed",
+    "Date": "8/20",
+    "Time": "9:30 AM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1856975",
+    "Name": "Alexis Coffee",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Status": "",
+    "Date": "8/20",
+    "Time": "12:00 PM",
+    "Day": "Wednesday"
   },
   {
     "Booking ID": "",
@@ -154,5 +118,41 @@
     "Date": "8/20",
     "Time": "2:00 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1740028",
+    "Name": "Quinnie",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
+    "Status": "",
+    "Date": "8/21",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1844188",
+    "Name": "Abigail Elmes",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Status": "Cancelled",
+    "Date": "8/22",
+    "Time": "8:00 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1855742",
+    "Name": "Nyssa Krull",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Status": "",
+    "Date": "8/22",
+    "Time": "1:00 PM",
+    "Day": "Friday"
   }
 ]
