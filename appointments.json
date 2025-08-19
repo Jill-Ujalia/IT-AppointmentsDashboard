@@ -109,6 +109,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1740028",
+    "Name": "Quinnie",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
+    "Completed?": "",
+    "Date": "8/21",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1856976",
     "Name": "Alexis Coffee",
     "Assignee": "Any Student Tech",
