@@ -114,7 +114,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Download Taguette",
-    "Status": "Completed",
+    "Status": "",
     "Date": "8/20",
     "Time": "2:00 PM",
     "Day": "Wednesday"
@@ -190,5 +190,29 @@
     "Date": "8/21",
     "Time": "11:00 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1849132",
+    "Name": "Siwar Hamdi",
+    "Assignee": "Any Student Tech",
+    "Room": "134-3",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "8/26",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1848303",
+    "Name": "Jeanie Tan",
+    "Assignee": "Any Student Tech",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "8/26",
+    "Time": "1:00 PM",
+    "Day": "Tuesday"
   }
 ]
