@@ -126,7 +126,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Red/Blue Loaner Drop-Off ",
-    "Status": "Cancelled",
+    "Status": "Completed",
     "Date": "8/20",
     "Time": "4:00 PM",
     "Day": "Wednesday"
@@ -182,7 +182,7 @@
   {
     "Booking ID": "",
     "Ticket": "1843563",
-    "Name": "Alessandra Eistaquio ",
+    "Name": "Alessandra Eistaquio",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Windows 11 Upgrade",
