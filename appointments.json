@@ -126,7 +126,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Red/Blue Loaner Drop-Off ",
-    "Status": "Completed",
+    "Status": "Cancelled",
     "Date": "8/20",
     "Time": "4:00 PM",
     "Day": "Wednesday"
@@ -194,7 +194,7 @@
   {
     "Booking ID": "",
     "Ticket": "1849132",
-    "Name": "Siwar Hamdi ",
+    "Name": "Siwar Hamdi",
     "Assignee": "Any Student Tech",
     "Room": "134-3",
     "Task": "Podium Training",
