@@ -102,7 +102,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
     "Task": "Open Recording Studio",
-    "Status": "",
+    "Status": "In Progress",
     "Date": "8/20",
     "Time": "12:00 PM",
     "Day": "Wednesday"
@@ -114,9 +114,21 @@
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Download Taguette",
-    "Status": "",
+    "Status": "On Hold",
     "Date": "8/20",
     "Time": "2:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1828450",
+    "Name": "Lisa Kumor",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Red/Blue Loaner Drop-Off ",
+    "Status": "Overdue",
+    "Date": "8/20",
+    "Time": "4:00 PM",
     "Day": "Wednesday"
   },
   {
@@ -138,7 +150,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
     "Task": "Open Recording Studio",
-    "Status": "Cancelled",
+    "Status": "",
     "Date": "8/22",
     "Time": "8:00 AM",
     "Day": "Friday"
@@ -153,6 +165,18 @@
     "Status": "",
     "Date": "8/22",
     "Time": "1:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1860891",
+    "Name": "Kibum Kim",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Loaner Laptop Drop Off (Teal)",
+    "Status": "",
+    "Date": "8/29",
+    "Time": "9:45 AM",
     "Day": "Friday"
   }
 ]
