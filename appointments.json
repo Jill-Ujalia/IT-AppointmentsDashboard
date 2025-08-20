@@ -126,7 +126,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Red/Blue Loaner Drop-Off ",
-    "Status": "",
+    "Status": "Cancelled",
     "Date": "8/20",
     "Time": "4:00 PM",
     "Day": "Wednesday"
@@ -138,7 +138,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
-    "Status": "",
+    "Status": "Overdue",
     "Date": "8/21",
     "Time": "9:00 AM",
     "Day": "Thursday"
