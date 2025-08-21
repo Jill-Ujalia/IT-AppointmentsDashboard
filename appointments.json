@@ -147,7 +147,7 @@
     "Booking ID": "",
     "Ticket": "1740028",
     "Name": "Quinnie",
-    "Assignee": "Any Student Tech",
+    "Assignee": "Jill",
     "Room": "ITU",
     "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
     "Status": "",
@@ -210,7 +210,7 @@
     "Assignee": "Any Student Tech",
     "Room": "134-3",
     "Task": "Podium Training",
-    "Status": "",
+    "Status": "In Progress",
     "Date": "8/26",
     "Time": "12:30 PM",
     "Day": "Tuesday"
