@@ -150,7 +150,7 @@
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
-    "Status": "In Progress",
+    "Status": "",
     "Date": "8/21",
     "Time": "9:00 AM",
     "Day": "Thursday"
@@ -162,7 +162,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
     "Task": "Open Recording Studio",
-    "Status": "In Progress",
+    "Status": "",
     "Date": "8/22",
     "Time": "8:00 AM",
     "Day": "Friday"
@@ -174,7 +174,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
     "Task": "Open Recording Studio",
-    "Status": "",
+    "Status": "In Progress",
     "Date": "8/22",
     "Time": "1:00 PM",
     "Day": "Friday"
