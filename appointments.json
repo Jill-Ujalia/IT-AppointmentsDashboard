@@ -157,7 +157,7 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1844188",
+    "Ticket": "1842070",
     "Name": "Abigail Elmes",
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
@@ -222,7 +222,7 @@
     "Assignee": "Any Student Tech",
     "Room": "134-3",
     "Task": "Podium Training",
-    "Status": "",
+    "Status": "Completed",
     "Date": "8/26",
     "Time": "1:00 PM",
     "Day": "Tuesday"
