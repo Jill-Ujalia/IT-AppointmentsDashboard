@@ -150,7 +150,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Recording Studio",
     "Task": "Open Recording Studio",
-    "Status": "Delayed",
+    "Status": "In Progress",
     "Date": "8/22",
     "Time": "8:00 AM",
     "Day": "Friday"
@@ -258,7 +258,7 @@
     "Assignee": "Himanshu",
     "Room": "ITU",
     "Task": "Windows Upgrade, Adobe Issue",
-    "Status": "Delayed",
+    "Status": "In Progress",
     "Date": "8/22",
     "Time": "8:30 AM",
     "Day": "Friday"
