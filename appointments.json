@@ -183,12 +183,24 @@
     "Booking ID": "",
     "Ticket": "1863207",
     "Name": "Ruchi Roy",
-    "Assignee": "Himanshu",
+    "Assignee": "Jaden",
     "Room": "ITU",
     "Task": "Windows Upgrade, Adobe Issue",
     "Status": "In Progress",
     "Date": "8/22",
     "Time": "8:30 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1856365",
+    "Name": "Ibrahim Warsi",
+    "Assignee": "Jill",
+    "Room": "Remote",
+    "Task": "Install JDK",
+    "Status": "Completed",
+    "Date": "8/22",
+    "Time": "11:20 AM",
     "Day": "Friday"
   },
   {
