@@ -265,66 +265,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1828456",
-    "Name": "Test",
-    "Assignee": "Test",
-    "Room": "Test",
-    "Task": "Test",
-    "Status": "",
-    "Date": "8/21",
-    "Time": "2:13 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1828457",
-    "Name": "Test",
-    "Assignee": "Test",
-    "Room": "Test",
-    "Task": "Test",
-    "Status": "",
-    "Date": "8/21",
-    "Time": "2:23 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1828458",
-    "Name": "Test",
-    "Assignee": "Test",
-    "Room": "Test",
-    "Task": "Test",
-    "Status": "",
-    "Date": "8/21",
-    "Time": "2:37 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1828459",
-    "Name": "Test",
-    "Assignee": "Test",
-    "Room": "Test",
-    "Task": "Test",
-    "Status": "",
-    "Date": "8/21",
-    "Time": "2:47 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1828460",
-    "Name": "Test",
-    "Assignee": "Test",
-    "Room": "Test",
-    "Task": "Test",
-    "Status": "",
-    "Date": "8/22",
-    "Time": "8:40 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1828461",
     "Name": "Test",
     "Assignee": "Test",
@@ -332,7 +272,7 @@
     "Task": "Test",
     "Status": "",
     "Date": "8/22",
-    "Time": "8:38 AM",
+    "Time": "8:45 AM",
     "Day": "Friday"
   }
 ]
