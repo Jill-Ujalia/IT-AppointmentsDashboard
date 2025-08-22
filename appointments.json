@@ -193,18 +193,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1828461",
-    "Name": "Test Ticket",
-    "Assignee": "Test",
-    "Room": "Test",
-    "Task": "Test",
-    "Status": "",
-    "Date": "8/22",
-    "Time": "11:02 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1855742",
     "Name": "Nyssa Krull",
     "Assignee": "Any Student Tech",
