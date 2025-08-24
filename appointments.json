@@ -1,150 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1827516",
-    "Name": "Kathy Cleary",
-    "Assignee": "Any Student Tech",
-    "Room": "246",
-    "Task": "Post-NCS  for 2 new students",
-    "Status": "Completed",
-    "Date": "8/18",
-    "Time": "9:30 AM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1848691",
-    "Name": "Mary Kopale",
-    "Assignee": "Any Student Tech",
-    "Room": "2N",
-    "Task": "Make sure Examplify and PointSolutions is on latest version",
-    "Status": "Completed",
-    "Date": "8/18",
-    "Time": "10:00 AM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856365",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install STATA",
-    "Status": "Completed",
-    "Date": "8/18",
-    "Time": "2:30 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1855049",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return Orange Loaner Laptop",
-    "Status": "Cancelled",
-    "Date": "8/18",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856365",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install Mendley",
-    "Status": "Completed",
-    "Date": "8/19",
-    "Time": "1:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1799672",
-    "Name": "Todd Lee",
-    "Assignee": "Rainn",
-    "Room": "281A",
-    "Task": "Troublehoot webcam and network",
-    "Status": "Completed",
-    "Date": "8/19",
-    "Time": "1:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1828450",
-    "Name": "Lisa Kumor",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Red/Blue Loaner Drop-Off ",
-    "Status": "Cancelled",
-    "Date": "8/19",
-    "Time": "1:45 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1827516",
-    "Name": "Kathy Cleary",
-    "Assignee": "Any Student Tech",
-    "Room": "246",
-    "Task": "Post-NCS  for 1 new student",
-    "Status": "Completed",
-    "Date": "8/20",
-    "Time": "9:30 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856975",
-    "Name": "Alexis Coffee",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Completed",
-    "Date": "8/20",
-    "Time": "12:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1818475",
-    "Name": "Kanya Shah",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Download Taguette",
-    "Status": "Completed",
-    "Date": "8/20",
-    "Time": "2:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1828450",
-    "Name": "Lisa Kumor",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Red/Blue Loaner Drop-Off ",
-    "Status": "Completed",
-    "Date": "8/20",
-    "Time": "4:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1740028",
-    "Name": "Quinnie",
-    "Assignee": "Jill",
-    "Room": "ITU",
-    "Task": "Loaner Macbook drop off - set up VPN (See Ticket)",
-    "Status": "Completed",
-    "Date": "8/21",
-    "Time": "9:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1843563",
     "Name": "Alessandra Eistaquio",
     "Assignee": "Jaden",
@@ -154,66 +10,6 @@
     "Date": "8/21",
     "Time": "11:00 AM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1863206",
-    "Name": "Ruchi Roy",
-    "Assignee": "Himanshu",
-    "Room": "ITU",
-    "Task": "Windows Upgrade, Adobe Issue",
-    "Status": "Cancelled",
-    "Date": "8/21",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1842070",
-    "Name": "Abigail Elmes",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Completed",
-    "Date": "8/22",
-    "Time": "8:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1863207",
-    "Name": "Ruchi Roy",
-    "Assignee": "Jaden",
-    "Room": "ITU",
-    "Task": "Windows Upgrade, Adobe Issue",
-    "Status": "Completed",
-    "Date": "8/22",
-    "Time": "8:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1856365",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Jill",
-    "Room": "Remote",
-    "Task": "Install JDK",
-    "Status": "Completed",
-    "Date": "8/22",
-    "Time": "11:20 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1855742",
-    "Name": "Nyssa Krull",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Completed",
-    "Date": "8/22",
-    "Time": "1:00 PM",
-    "Day": "Friday"
   },
   {
     "Booking ID": "",
@@ -241,6 +37,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1864221",
+    "Name": "Ibrahim Warsi",
+    "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "8/25",
+    "Time": "11:00 AM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1849132",
     "Name": "Siwar Hamdi",
     "Assignee": "Any Student Tech",
@@ -265,18 +73,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1848303",
-    "Name": "Jeanie Tan",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/2",
-    "Time": "12:50 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1857175",
     "Name": "Jacob Lee",
     "Assignee": "Any Student Tech",
@@ -286,30 +82,6 @@
     "Date": "8/26",
     "Time": "4:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1860891",
-    "Name": "Kibum Kim",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Drop Off (Teal)",
-    "Status": "",
-    "Date": "8/29",
-    "Time": "9:51 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1864221",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "8/25",
-    "Time": "11:00 AM",
-    "Day": "Monday"
   },
   {
     "Booking ID": "",
@@ -346,5 +118,29 @@
     "Date": "8/28",
     "Time": "1:00 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1860891",
+    "Name": "Kibum Kim",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Loaner Laptop Drop Off (Teal)",
+    "Status": "",
+    "Date": "8/29",
+    "Time": "9:51 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1848303",
+    "Name": "Jeanie Tan",
+    "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "9/2",
+    "Time": "12:50 PM",
+    "Day": "Tuesday"
   }
 ]
