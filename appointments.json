@@ -319,8 +319,20 @@
     "Room": "B32",
     "Task": "Podium Training",
     "Status": "",
-    "Date": "8/26",
-    "Time": "12:50 PM",
-    "Day": "Tuesday"
+    "Date": "8/27",
+    "Time": "1:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1867852",
+    "Name": "Arthur Acuna",
+    "Assignee": "Any Student Tech",
+    "Room": "B32",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "8/27",
+    "Time": "1:45 PM",
+    "Day": "Wednesday"
   }
 ]
