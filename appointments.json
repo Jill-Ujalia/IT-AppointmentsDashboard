@@ -145,6 +145,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1869595",
+    "Name": "Tania Kaur",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Examplify Login Issue",
+    "Status": "",
+    "Date": "8/25",
+    "Time": "1:30 PM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1865924",
     "Name": "Marcin",
     "Assignee": "Jaden",
