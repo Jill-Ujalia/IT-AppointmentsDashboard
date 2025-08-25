@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1864221",
-    "Name": "Ibrahim Warsi",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "8/25",
-    "Time": "3:30 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1849132",
     "Name": "Siwar Hamdi",
     "Assignee": "Any Student Tech",
@@ -142,6 +130,18 @@
     "Date": "8/28",
     "Time": "4:00 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1864221",
+    "Name": "Ibrahim Warsi",
+    "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "8/25",
+    "Time": "3:30 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
