@@ -20,7 +20,7 @@
     "Task": "Podium Training",
     "Status": "",
     "Date": "8/25",
-    "Time": "11:00 AM",
+    "Time": "3:30 PM",
     "Day": "Monday"
   },
   {
@@ -133,18 +133,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1869765",
-    "Name": "Stephanie Jones",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Laptop Loan - Red Gray",
-    "Status": "",
-    "Date": "8/25",
-    "Time": "11:30 AM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1869595",
     "Name": "Tania Kaur",
     "Assignee": "Any Student Tech",
@@ -166,6 +154,18 @@
     "Date": "8/28",
     "Time": "4:00 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1869765",
+    "Name": "Stephanie Jones",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Loan - Red Gray",
+    "Status": "Completed",
+    "Date": "8/25",
+    "Time": "11:30 AM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
