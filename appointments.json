@@ -121,6 +121,30 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1863207",
+    "Name": "Mathew Thambi",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Loan - Orange",
+    "Status": "",
+    "Date": "8/25",
+    "Time": "11:30 AM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1863208",
+    "Name": "Stephanie Jones",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Loan - Red Gray",
+    "Status": "",
+    "Date": "8/26",
+    "Time": "5:30 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1865924",
     "Name": "Marcin",
     "Assignee": "Jaden",
