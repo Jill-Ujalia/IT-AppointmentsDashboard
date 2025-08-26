@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1857175",
-    "Name": "Jacob Lee",
-    "Assignee": "Himanshu",
-    "Room": "134-3",
-    "Task": "Podium Training",
-    "Status": "In Progress",
-    "Date": "8/26",
-    "Time": "4:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1865997",
     "Name": "Yelisbeth Santa Villafane",
     "Assignee": "Any Student Tech",
@@ -130,6 +118,18 @@
     "Date": "8/27",
     "Time": "4:20 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1857175",
+    "Name": "Jacob Lee",
+    "Assignee": "Himanshu",
+    "Room": "134-3",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "8/26",
+    "Time": "4:00 PM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
