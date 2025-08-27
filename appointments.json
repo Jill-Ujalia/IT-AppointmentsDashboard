@@ -31,9 +31,9 @@
     "Room": "B32",
     "Task": "Podium Training",
     "Status": "",
-    "Date": "8/27",
-    "Time": "1:45 PM",
-    "Day": "Wednesday"
+    "Date": "9/5",
+    "Time": "9:30 AM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
@@ -142,6 +142,18 @@
     "Date": "9/4",
     "Time": "9:30 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
   },
   {
     "Booking ID": "",
