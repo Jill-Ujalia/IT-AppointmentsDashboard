@@ -68,7 +68,7 @@
     "Task": "Podium Training",
     "Status": "",
     "Date": "9/2",
-    "Time": "12:50 PM",
+    "Time": "2:30 PM",
     "Day": "Tuesday"
   },
   {
@@ -118,6 +118,18 @@
     "Date": "8/27",
     "Time": "4:20 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1866304",
+    "Name": "Deeya",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "8/29",
+    "Time": "8:00 AM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
