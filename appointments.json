@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1792162",
-    "Name": "Marvel He",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post NCS and data transfer",
-    "Status": "Delayed",
-    "Date": "8/28",
-    "Time": "8:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1867852",
     "Name": "Arthur Acuna",
     "Assignee": "Any Student Tech",
@@ -129,6 +117,18 @@
     "Status": "",
     "Date": "8/28",
     "Time": "10:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1792162",
+    "Name": "Marvel He",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post NCS and data transfer",
+    "Status": "Completed",
+    "Date": "8/28",
+    "Time": "8:00 AM",
     "Day": "Thursday"
   },
   {
