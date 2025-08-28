@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1865731",
-    "Name": "Charles McPherson",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Red/Blue Loaner Drop-Off ",
-    "Status": "Delayed",
-    "Date": "8/22",
-    "Time": "5:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1792162",
     "Name": "Marvel He",
     "Assignee": "Any Student Tech",
@@ -142,6 +130,18 @@
     "Date": "8/28",
     "Time": "10:00 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1865731",
+    "Name": "Charles McPherson",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Red/Blue Loaner Drop-Off ",
+    "Status": "Completed",
+    "Date": "8/22",
+    "Time": "5:00 PM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
