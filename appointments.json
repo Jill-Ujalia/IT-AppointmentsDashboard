@@ -61,18 +61,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1869116",
-    "Name": "Tsering Tashi",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "8/28",
-    "Time": "4:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1866304",
     "Name": "Deeya",
     "Assignee": "Any Student Tech",
@@ -118,6 +106,18 @@
     "Date": "9/2",
     "Time": "10:00 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1869116",
+    "Name": "Tsering Tashi",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "8/28",
+    "Time": "4:00 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
