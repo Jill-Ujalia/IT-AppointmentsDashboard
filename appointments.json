@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "1866304",
+    "Name": "Deeya",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Podium Training",
+    "Status": "Delayed",
+    "Date": "8/29",
+    "Time": "8:00 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1867852",
     "Name": "Arthur Acuna",
     "Assignee": "Any Student Tech",
@@ -94,18 +106,6 @@
     "Date": "9/2",
     "Time": "10:00 AM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1866304",
-    "Name": "Deeya",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Podium Training",
-    "Status": "Cancelled",
-    "Date": "8/29",
-    "Time": "8:00 AM",
-    "Day": "Friday"
   },
   {
     "Booking ID": "",
