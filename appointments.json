@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1860891",
-    "Name": "Kibum Kim",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Drop Off (Teal)",
-    "Status": "Delayed",
-    "Date": "8/29",
-    "Time": "9:51 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1867852",
     "Name": "Arthur Acuna",
     "Assignee": "Any Student Tech",
@@ -106,6 +94,18 @@
     "Date": "9/2",
     "Time": "10:00 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1860891",
+    "Name": "Kibum Kim",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Loaner Laptop Drop Off (Teal)",
+    "Status": "Completed",
+    "Date": "8/29",
+    "Time": "9:51 AM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
