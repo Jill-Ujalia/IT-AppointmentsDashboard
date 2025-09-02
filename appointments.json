@@ -25,18 +25,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1848303",
-    "Name": "Jeanie Tan",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/2",
-    "Time": "2:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1869800",
     "Name": "Mathew Thambi",
     "Assignee": "Any Student Tech",
@@ -82,6 +70,18 @@
     "Date": "9/5",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1848303",
+    "Name": "Jeanie Tan",
+    "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/2",
+    "Time": "2:30 PM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
