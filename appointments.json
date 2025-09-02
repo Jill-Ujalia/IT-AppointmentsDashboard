@@ -49,18 +49,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1883119",
-    "Name": "Lana Salih",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Inspect Device Logs For Mentioned Examsoft Issues",
-    "Status": "",
-    "Date": "9/2",
-    "Time": "3:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1880043",
     "Name": "Shudhita Singh",
     "Assignee": "Any Student Tech",
@@ -76,7 +64,7 @@
     "Ticket": "1848303",
     "Name": "Jeanie Tan",
     "Assignee": "Any Student Tech",
-    "Room": "B36",
+    "Room": "B32",
     "Task": "Podium Training",
     "Status": "Completed",
     "Date": "9/2",
