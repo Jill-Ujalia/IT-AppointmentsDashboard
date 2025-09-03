@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1886464",
-    "Name": "Thilini Rathnaweera",
-    "Assignee": "Jaden",
-    "Room": "Remote",
-    "Task": "Install Solidworks",
-    "Status": "In Progress",
-    "Date": "9/3",
-    "Time": "1:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1882582",
     "Name": "Charles Gaber/ Kathy Cleary",
     "Assignee": "Any Student Tech",
@@ -117,6 +105,18 @@
     "Status": "",
     "Date": "9/3",
     "Time": "2:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1886464",
+    "Name": "Thilini Rathnaweera",
+    "Assignee": "Jaden",
+    "Room": "Remote",
+    "Task": "Install Solidworks",
+    "Status": "Completed",
+    "Date": "9/3",
+    "Time": "1:00 PM",
     "Day": "Wednesday"
   },
   {
