@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1877659",
-    "Name": "Annika Pickard",
-    "Assignee": "Noah",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "In Progress",
-    "Date": "9/3",
-    "Time": "2:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1866304",
     "Name": "Deeya",
     "Assignee": "Jaden",
@@ -118,6 +106,18 @@
     "Date": "9/4",
     "Time": "5:00 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1877659",
+    "Name": "Annika Pickard",
+    "Assignee": "Noah",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "Completed",
+    "Date": "9/3",
+    "Time": "2:30 PM",
+    "Day": "Wednesday"
   },
   {
     "Booking ID": "",
