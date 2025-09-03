@@ -13,6 +13,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1870857",
+    "Name": "James Franke",
+    "Assignee": "Any Student Tech",
+    "Room": "134-3",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "9/4",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1867852",
     "Name": "Arthur Acuna",
     "Assignee": "Any Student Tech",
