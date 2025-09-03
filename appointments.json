@@ -13,6 +13,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1877659",
+    "Name": "Annika Pickard",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "In Progress",
+    "Date": "9/3",
+    "Time": "2:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1882582",
     "Name": "Charles Gaber/ Kathy Cleary",
     "Assignee": "Any Student Tech",
@@ -90,19 +102,7 @@
     "Assignee": "Jaden",
     "Room": "134-1",
     "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/3",
-    "Time": "2:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1877659",
-    "Name": "Annika Pickard",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "",
+    "Status": "Completed",
     "Date": "9/3",
     "Time": "2:30 PM",
     "Day": "Wednesday"
