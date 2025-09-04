@@ -39,7 +39,7 @@
     "Booking ID": "",
     "Ticket": "1870857",
     "Name": "James Franke",
-    "Assignee": "Any Student Tech",
+    "Assignee": "Jill",
     "Room": "134-3",
     "Task": "Podium Training",
     "Status": "",
@@ -81,18 +81,6 @@
     "Status": "",
     "Date": "9/4",
     "Time": "2:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1873263",
-    "Name": "Cecilia Ezeanya",
-    "Assignee": "Jill",
-    "Room": "134-1",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/4",
-    "Time": "9:30 AM",
     "Day": "Thursday"
   },
   {
@@ -141,6 +129,18 @@
     "Status": "",
     "Date": "9/4",
     "Time": "10:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1873263",
+    "Name": "Cecilia Ezeanya",
+    "Assignee": "Jill",
+    "Room": "134-1",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/4",
+    "Time": "9:30 AM",
     "Day": "Thursday"
   },
   {
