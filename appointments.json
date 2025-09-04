@@ -13,6 +13,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1888959",
+    "Name": "Thilini Rathnaweera",
+    "Assignee": "Closer",
+    "Room": "Remote",
+    "Task": "Windows 11 Upgrade",
+    "Status": "In Progress",
+    "Date": "9/4",
+    "Time": "5:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1887883",
     "Name": "Deeya",
     "Assignee": "Jaden",
@@ -82,18 +94,6 @@
     "Date": "9/9",
     "Time": "3:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1888959",
-    "Name": "Thilini Rathnaweera",
-    "Assignee": "Closer",
-    "Room": "Remote",
-    "Task": "Windows 11 Upgrade",
-    "Status": "",
-    "Date": "9/4",
-    "Time": "5:00 PM",
-    "Day": "Thursday"
   },
   {
     "Booking ID": "",
