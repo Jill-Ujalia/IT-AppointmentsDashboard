@@ -37,18 +37,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1870857",
-    "Name": "James Franke",
-    "Assignee": "Jill",
-    "Room": "134-3",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/4",
-    "Time": "10:30 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1867852",
     "Name": "Arthur Acuna",
     "Assignee": "Josh",
@@ -58,18 +46,6 @@
     "Date": "9/5",
     "Time": "9:30 AM",
     "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1869800",
-    "Name": "Mathew Thambi",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Laptop Loan - Orange",
-    "Status": "",
-    "Date": "8/25",
-    "Time": "5:30 PM",
-    "Day": "Monday"
   },
   {
     "Booking ID": "",
@@ -118,6 +94,18 @@
     "Date": "9/10",
     "Time": "1:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1870857",
+    "Name": "James Franke",
+    "Assignee": "Jill",
+    "Room": "134-3",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/4",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
