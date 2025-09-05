@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1888959",
-    "Name": "Thilini Rathnaweera",
-    "Assignee": "Closer",
-    "Room": "Remote",
-    "Task": "Windows 11 Upgrade",
-    "Status": "In Progress",
-    "Date": "9/4",
-    "Time": "5:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1887883",
     "Name": "Deeya",
     "Assignee": "Jaden",
@@ -58,18 +46,6 @@
     "Date": "9/9",
     "Time": "4:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1867852",
-    "Name": "Arthur Acuna",
-    "Assignee": "Josh",
-    "Room": "B32",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/5",
-    "Time": "9:30 AM",
-    "Day": "Friday"
   },
   {
     "Booking ID": "",
@@ -129,6 +105,30 @@
     "Status": "",
     "Date": "9/5",
     "Time": "1:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1888959",
+    "Name": "Thilini Rathnaweera",
+    "Assignee": "Closer",
+    "Room": "Remote",
+    "Task": "Windows 11 Upgrade",
+    "Status": "Completed",
+    "Date": "9/4",
+    "Time": "5:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1867852",
+    "Name": "Arthur Acuna",
+    "Assignee": "Rainn",
+    "Room": "B32",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/5",
+    "Time": "9:30 AM",
     "Day": "Friday"
   },
   {
