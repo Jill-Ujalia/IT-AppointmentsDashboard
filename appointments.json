@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1887883",
-    "Name": "Deeya",
-    "Assignee": "Jaden",
-    "Room": "134-1",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/5",
-    "Time": "3:30 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1882582",
     "Name": "Charles Gaber/ Kathy Cleary",
     "Assignee": "Any Student Tech",
@@ -97,18 +85,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1892366",
-    "Name": "thilini Rathnaweera",
-    "Assignee": "Jaden",
-    "Room": "Remote",
-    "Task": "Install Origin",
-    "Status": "",
-    "Date": "9/5",
-    "Time": "3:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1888743",
     "Name": "Jacqueline Kieltyka",
     "Assignee": "Any Student Tech",
@@ -118,6 +94,42 @@
     "Date": "9/8",
     "Time": "1:00 PM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1887883",
+    "Name": "Deeya",
+    "Assignee": "Jaden",
+    "Room": "134-1",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/5",
+    "Time": "3:30 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1892366",
+    "Name": "thilini Rathnaweera",
+    "Assignee": "Jaden",
+    "Room": "Remote",
+    "Task": "Install Origin",
+    "Status": "Completed",
+    "Date": "9/5",
+    "Time": "3:00 PM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
