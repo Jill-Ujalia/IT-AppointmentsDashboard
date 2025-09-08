@@ -97,18 +97,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1895312",
-    "Name": "Ariel Ruiz",
-    "Assignee": "Any Student Tech",
-    "Room": "333",
-    "Task": "Check powerbank and ethernet connection",
-    "Status": "",
-    "Date": "9/8",
-    "Time": "2:30 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1895854",
     "Name": "Steve Lee",
     "Assignee": "Any Student Tech",
@@ -130,6 +118,18 @@
     "Date": "9/9",
     "Time": "9:30 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1895312",
+    "Name": "Ariel Ruiz",
+    "Assignee": "Any Student Tech",
+    "Room": "333",
+    "Task": "Check powerbank and ethernet connection",
+    "Status": "Completed",
+    "Date": "9/8",
+    "Time": "2:30 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
