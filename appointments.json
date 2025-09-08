@@ -97,18 +97,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1888743",
-    "Name": "Jacqueline Kieltyka",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Set up printer on laptop",
-    "Status": "",
-    "Date": "9/8",
-    "Time": "1:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "",
     "Name": "",
     "Assignee": "",
@@ -142,6 +130,18 @@
     "Date": "9/9",
     "Time": "10:00 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1888743",
+    "Name": "Jacqueline Kieltyka",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Set up printer on laptop",
+    "Status": "Completed",
+    "Date": "9/8",
+    "Time": "1:00 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
