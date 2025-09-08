@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1869173",
-    "Name": "Tyler Kalanquin",
-    "Assignee": "Rainn",
-    "Room": "B32",
-    "Task": "Podium Training",
-    "Status": "Delayed",
-    "Date": "9/4",
-    "Time": "2:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1895199",
     "Name": "Katherine Sarna",
     "Assignee": "Any Student Tech",
@@ -154,6 +142,18 @@
     "Date": "9/9",
     "Time": "10:00 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1869173",
+    "Name": "Tyler Kalanquin",
+    "Assignee": "Rainn",
+    "Room": "B32",
+    "Task": "Podium Training",
+    "Status": "Cancelled",
+    "Date": "9/4",
+    "Time": "2:30 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
