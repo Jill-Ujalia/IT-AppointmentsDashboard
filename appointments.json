@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1895199",
-    "Name": "Katherine Sarna",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Recording Studio",
-    "Status": "In Progress",
-    "Date": "9/8",
-    "Time": "12:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1869173",
     "Name": "Tyler Kalanquin",
     "Assignee": "Any Student Tech",
@@ -130,6 +118,18 @@
     "Date": "9/9",
     "Time": "10:00 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1895199",
+    "Name": "Katherine Sarna",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Recording Studio",
+    "Status": "Completed",
+    "Date": "9/8",
+    "Time": "12:00 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
