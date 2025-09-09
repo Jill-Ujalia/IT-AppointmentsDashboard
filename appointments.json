@@ -61,18 +61,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1887063",
-    "Name": "Bajeel Syeda",
-    "Assignee": "Himanshu",
-    "Room": "Remote",
-    "Task": "Remote session to see why she can't access pages",
-    "Status": "",
-    "Date": "9/9",
-    "Time": "4:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1889395",
     "Name": "Margaret Hill",
     "Assignee": "Any Student Tech",
@@ -94,6 +82,18 @@
     "Date": "9/11",
     "Time": "11:00 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1887063",
+    "Name": "Bajeel Syeda",
+    "Assignee": "Himanshu",
+    "Room": "Remote",
+    "Task": "Remote session to see why she can't access pages",
+    "Status": "Completed",
+    "Date": "9/9",
+    "Time": "4:00 PM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
