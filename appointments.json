@@ -73,18 +73,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1887978",
-    "Name": "Marko Bogosavljevic",
-    "Assignee": "Rainn",
-    "Room": "B32",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/9",
-    "Time": "3:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1889395",
     "Name": "Margaret Hill",
     "Assignee": "Any Student Tech",
@@ -94,6 +82,18 @@
     "Date": "9/11",
     "Time": "2:30 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1887978",
+    "Name": "Marko Bogosavljevic",
+    "Assignee": "Rainn",
+    "Room": "B32",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/9",
+    "Time": "3:00 PM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
