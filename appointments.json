@@ -49,6 +49,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1900304",
+    "Name": "Victor Olavarria",
+    "Assignee": "Any Student Tech",
+    "Room": "177",
+    "Task": "Assist In Setting Up For Meeting",
+    "Status": "",
+    "Date": "9/25",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1882582",
     "Name": "Charles Gaber/ Kathy Cleary",
     "Assignee": "Any Student Tech",
@@ -69,6 +81,18 @@
     "Status": "",
     "Date": "9/11",
     "Time": "2:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1900594",
+    "Name": "Paola Rosas",
+    "Assignee": "Any Student Tech",
+    "Room": "2N",
+    "Task": "Zoom/Rockford Setup",
+    "Status": "",
+    "Date": "9/11",
+    "Time": "1:15 PM",
     "Day": "Thursday"
   },
   {
