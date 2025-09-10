@@ -37,18 +37,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1888394",
-    "Name": "Sodam Kim",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/10",
-    "Time": "1:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1900304",
     "Name": "Victor Olavarria",
     "Assignee": "Any Student Tech",
@@ -106,6 +94,18 @@
     "Date": "9/11",
     "Time": "11:00 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1888394",
+    "Name": "Sodam Kim",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/10",
+    "Time": "1:30 PM",
+    "Day": "Wednesday"
   },
   {
     "Booking ID": "",
