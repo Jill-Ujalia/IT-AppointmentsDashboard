@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1889395",
-    "Name": "Margaret Hill",
-    "Assignee": "Rainn",
-    "Room": "B32",
-    "Task": "Podium Training",
-    "Status": "In Progress",
-    "Date": "9/11",
-    "Time": "2:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1901953",
     "Name": "Tariq Kesbeh",
     "Assignee": "Any Student Tech",
@@ -93,6 +81,18 @@
     "Status": "",
     "Date": "9/11",
     "Time": "3:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1889395",
+    "Name": "Margaret Hill",
+    "Assignee": "Rainn",
+    "Room": "B32",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/11",
+    "Time": "2:30 PM",
     "Day": "Thursday"
   },
   {
