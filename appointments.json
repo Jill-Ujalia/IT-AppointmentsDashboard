@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1900379",
-    "Name": "Kibum Kim",
-    "Assignee": "Jill",
-    "Room": "Remote",
-    "Task": "Install Mplus",
-    "Status": "In Progress",
-    "Date": "9/11",
-    "Time": "9:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1901953",
     "Name": "Tariq Kesbeh",
     "Assignee": "Any Student Tech",
@@ -129,6 +117,18 @@
     "Status": "",
     "Date": "9/11",
     "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1900379",
+    "Name": "Kibum Kim",
+    "Assignee": "Jill",
+    "Room": "Remote",
+    "Task": "Install Mplus",
+    "Status": "Completed",
+    "Date": "9/11",
+    "Time": "9:00 AM",
     "Day": "Thursday"
   },
   {
