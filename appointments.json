@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "1888152",
+    "Name": "Edidiong Udofa",
+    "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "9/12",
+    "Time": "1:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1890935",
     "Name": "Leah Joseph",
     "Assignee": "Any Student Tech",
@@ -8,7 +20,7 @@
     "Task": "Blue (previously red/green) Loaner Drop-Off",
     "Status": "",
     "Date": "9/17",
-    "Time": "12:00 AM",
+    "Time": "12:00 PM",
     "Day": "Wednesday"
   },
   {
