@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1880043",
-    "Name": "Shudhita Singh",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Drop Off (Red)",
-    "Status": "Delayed",
-    "Date": "9/11",
-    "Time": "5:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1901953",
     "Name": "Tariq Kesbeh",
     "Assignee": "Any Student Tech",
@@ -73,12 +61,24 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1880043",
+    "Name": "Shudhita Singh",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Loaner Laptop Drop Off (Red)",
+    "Status": "Completed",
+    "Date": "9/11",
+    "Time": "5:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1903126",
     "Name": "Rosalyn Vellurattil",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
-    "Status": "",
+    "Assignee": "Tony",
+    "Room": "Remote",
+    "Task": "SCCM Removal",
+    "Status": "Completed",
     "Date": "9/12",
     "Time": "10:00 AM",
     "Day": "Friday"
