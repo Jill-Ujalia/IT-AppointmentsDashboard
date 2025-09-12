@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1888152",
-    "Name": "Edidiong Udofa",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "9/12",
-    "Time": "1:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1890935",
     "Name": "Leah Joseph",
     "Assignee": "Any Student Tech",
@@ -58,6 +46,18 @@
     "Date": "9/15",
     "Time": "9:00 AM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1888152",
+    "Name": "Edidiong Udofa",
+    "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "9/12",
+    "Time": "1:00 PM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
