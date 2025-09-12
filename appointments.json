@@ -73,18 +73,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1903400",
-    "Name": "Himanshu Panchal",
-    "Assignee": "LM",
-    "Room": "B36",
-    "Task": "Test Out HDMI From a Windows Laptop",
-    "Status": "",
-    "Date": "9/11",
-    "Time": "5:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1903126",
     "Name": "Rosalyn Vellurattil",
     "Assignee": "",
@@ -94,6 +82,18 @@
     "Date": "9/12",
     "Time": "10:00 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1903400",
+    "Name": "Himanshu Panchal",
+    "Assignee": "LM",
+    "Room": "B36",
+    "Task": "Test Out HDMI From a Windows Laptop",
+    "Status": "Completed",
+    "Date": "9/11",
+    "Time": "5:30 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
