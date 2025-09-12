@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1901953",
-    "Name": "Tariq Kesbeh",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Troubleshoot Citrix access issue from Chrome (.ica file extension)",
-    "Status": "In Progress",
-    "Date": "9/12",
-    "Time": "12:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1890935",
     "Name": "Leah Joseph",
     "Assignee": "Any Student Tech",
@@ -46,6 +34,18 @@
     "Date": "9/15",
     "Time": "9:00 AM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1901953",
+    "Name": "Tariq Kesbeh",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Troubleshoot Citrix access issue from Chrome (.ica file extension)",
+    "Status": "Completed",
+    "Date": "9/12",
+    "Time": "12:00 PM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
