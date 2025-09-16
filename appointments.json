@@ -85,18 +85,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1906989",
-    "Name": "Pariksha Thapa",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Box Drive Installation",
-    "Status": "",
-    "Date": "9/15",
-    "Time": "1:30 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1901375",
     "Name": "Nivan Khair",
     "Assignee": "Any Student Tech",
@@ -106,6 +94,18 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1906989",
+    "Name": "Pariksha Thapa",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Box Drive Installation",
+    "Status": "Completed",
+    "Date": "9/15",
+    "Time": "1:30 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
