@@ -1,15 +1,15 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1890934",
-    "Name": "Leah Joseph",
+    "Ticket": "1882582",
+    "Name": "Charles Gaber/ Kathy Cleary",
     "Assignee": "Any Student Tech",
     "Room": "ITU",
-    "Task": "Blue (previously red/green) Loaner Drop-Off",
-    "Status": "",
-    "Date": "9/16",
-    "Time": "12:00 PM",
-    "Day": "Tuesday"
+    "Task": "5 Laptops Ready",
+    "Status": "Delayed",
+    "Date": "9/15",
+    "Time": "9:00 AM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
@@ -82,18 +82,6 @@
     "Date": "9/18",
     "Time": "3:00 PM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1882582",
-    "Name": "Charles Gaber/ Kathy Cleary",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "5 Laptops Ready",
-    "Status": "",
-    "Date": "9/15",
-    "Time": "9:00 AM",
-    "Day": "Monday"
   },
   {
     "Booking ID": "",
