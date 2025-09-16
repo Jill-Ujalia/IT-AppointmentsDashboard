@@ -61,18 +61,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1874278",
-    "Name": "Alcina Tejada",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post NCS Ashanti Roberts",
-    "Status": "",
-    "Date": "9/15",
-    "Time": "2:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1903119",
     "Name": "Casey VonDeBur",
     "Assignee": "Any Student Tech",
@@ -94,6 +82,18 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1874278",
+    "Name": "Alcina Tejada",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post NCS Ashanti Roberts",
+    "Status": "Completed",
+    "Date": "9/15",
+    "Time": "2:00 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
