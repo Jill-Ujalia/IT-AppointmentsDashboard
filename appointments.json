@@ -27,13 +27,13 @@
     "Booking ID": "",
     "Ticket": "1905381",
     "Name": "Ingrid Brauer",
-    "Assignee": "Jaden",
+    "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Update Acrobat Reader",
     "Status": "",
-    "Date": "9/15",
-    "Time": "2:00 PM",
-    "Day": "Monday"
+    "Date": "9/17",
+    "Time": "9:00 AM",
+    "Day": "Wednesday"
   },
   {
     "Booking ID": "",
@@ -49,6 +49,30 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1874278",
+    "Name": "Alcina Tejada",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post NCS Ashanti Roberts",
+    "Status": "",
+    "Date": "9/15",
+    "Time": "2:00 PM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1903119",
+    "Name": "Casey VonDeBur",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "SCCM Removal",
+    "Status": "",
+    "Date": "9/18",
+    "Time": "3:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1882582",
     "Name": "Charles Gaber/ Kathy Cleary",
     "Assignee": "Any Student Tech",
@@ -58,6 +82,30 @@
     "Date": "9/15",
     "Time": "9:00 AM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1906989",
+    "Name": "Pariksha Thapa",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Box Drive Installation",
+    "Status": "",
+    "Date": "9/15",
+    "Time": "1:30 PM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1901375",
+    "Name": "Nivan Khair",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "SCCM Removal",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
   },
   {
     "Booking ID": "",
