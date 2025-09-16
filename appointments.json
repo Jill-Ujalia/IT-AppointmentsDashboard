@@ -49,18 +49,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1901375",
-    "Name": "Nivan Khair",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "SCCM Removal",
-    "Status": "",
-    "Date": "9/16",
-    "Time": "10:30 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1907868",
     "Name": " Cele Abad-Zapatero",
     "Assignee": "Any Student Tech",
@@ -70,6 +58,18 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1901375",
+    "Name": "Nivan Khair",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "SCCM Removal",
+    "Status": "Completed",
+    "Date": "9/16",
+    "Time": "10:30 AM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
