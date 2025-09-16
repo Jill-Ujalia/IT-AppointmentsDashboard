@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1882582",
-    "Name": "Charles Gaber/ Kathy Cleary",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "5 Laptops Ready",
-    "Status": "Delayed",
-    "Date": "9/15",
-    "Time": "9:00 AM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1890935",
     "Name": "Leah Joseph",
     "Assignee": "Any Student Tech",
@@ -82,6 +70,18 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1882582",
+    "Name": "Charles Gaber/ Kathy Cleary",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "5 Laptops Ready",
+    "Status": "Completed",
+    "Date": "9/15",
+    "Time": "9:00 AM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
