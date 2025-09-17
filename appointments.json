@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1905381",
-    "Name": "Ingrid Brauer",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update Acrobat Reader",
-    "Status": "",
-    "Date": "9/17",
-    "Time": "9:00 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1900304",
     "Name": "Victor Olavarria",
     "Assignee": "Any Student Tech",
@@ -69,6 +57,18 @@
     "Status": "",
     "Date": "9/24",
     "Time": "5:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1905381",
+    "Name": "Ingrid Brauer",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update Acrobat Reader",
+    "Status": "Completed",
+    "Date": "9/17",
+    "Time": "9:00 AM",
     "Day": "Wednesday"
   },
   {
