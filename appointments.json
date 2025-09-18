@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1890935",
-    "Name": "Leah Joseph",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Blue (previously red/green) Loaner Drop-Off",
-    "Status": "",
-    "Date": "9/17",
-    "Time": "12:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1900304",
     "Name": "Victor Olavarria",
     "Assignee": "Any Student Tech",
@@ -33,6 +21,30 @@
     "Status": "",
     "Date": "9/24",
     "Time": "5:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "9/19",
+    "Time": "11:00 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1890935",
+    "Name": "Leah Joseph",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Blue (previously red/green) Loaner Drop-Off",
+    "Status": "Completed",
+    "Date": "9/17",
+    "Time": "12:00 PM",
     "Day": "Wednesday"
   },
   {
