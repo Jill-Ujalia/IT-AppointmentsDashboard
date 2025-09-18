@@ -25,18 +25,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1903119",
-    "Name": "Casey VonDeBur",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "SCCM Removal",
-    "Status": "",
-    "Date": "9/18",
-    "Time": "3:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1911323",
     "Name": "Judith Prince",
     "Assignee": "LM",
@@ -58,6 +46,18 @@
     "Date": "9/17",
     "Time": "2:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1903119",
+    "Name": "Casey VonDeBur",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "SCCM Removal",
+    "Status": "Completed",
+    "Date": "9/18",
+    "Time": "3:00 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
