@@ -37,18 +37,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1908119",
-    "Name": "Yan Mao",
-    "Assignee": "Any Student Tech",
-    "Room": "176",
-    "Task": "Unlock Recording Studio for Pharmacy Resident",
-    "Status": "",
-    "Date": "9/18",
-    "Time": "1:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1911323",
     "Name": "Judith Prince",
     "Assignee": "LM",
@@ -70,6 +58,18 @@
     "Date": "9/17",
     "Time": "2:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1908119",
+    "Name": "Yan Mao",
+    "Assignee": "Any Student Tech",
+    "Room": "176",
+    "Task": "Unlock Recording Studio for Pharmacy Resident",
+    "Status": "Completed",
+    "Date": "9/18",
+    "Time": "1:00 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
