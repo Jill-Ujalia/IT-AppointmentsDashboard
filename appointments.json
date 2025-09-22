@@ -13,6 +13,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1843586",
+    "Name": "CT Che",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Windows 11 Upgrade - CT Che",
+    "Status": "",
+    "Date": "9/25",
+    "Time": "10:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1900304",
     "Name": "Victor Olavarria",
     "Assignee": "Any Student Tech",
