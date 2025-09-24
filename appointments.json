@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1920957",
-    "Name": "Amanda Eades",
-    "Assignee": "Any Student Tech",
-    "Room": "176",
-    "Task": "Unlock Recording Studio and assist user with setup and needs",
-    "Status": "In Progress",
-    "Date": "9/24",
-    "Time": "1:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1920818",
     "Name": "Alcina Tejada",
     "Assignee": "LM",
