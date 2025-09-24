@@ -3,7 +3,7 @@
     "Booking ID": "",
     "Ticket": "1920818",
     "Name": "Alcina Tejada",
-    "Assignee": "LM - Gabe",
+    "Assignee": "LM",
     "Room": "145",
     "Task": "Lock up 145 Confernce room",
     "Status": "",
@@ -70,5 +70,41 @@
     "Date": "9/25",
     "Time": "9:00 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921073",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "",
+    "Date": "10/14",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921073",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "",
+    "Date": "10/21",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921073",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "",
+    "Date": "10/28",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
   }
 ]
