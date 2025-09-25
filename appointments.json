@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1900304",
-    "Name": "Victor Olavarria",
-    "Assignee": "Any Student Tech",
-    "Room": "177",
-    "Task": "Assist In Setting Up For Meeting",
-    "Status": "Delayed",
-    "Date": "9/25",
-    "Time": "9:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1843586",
     "Name": "CT Che",
     "Assignee": "Any Student Tech",
