@@ -1,26 +1,14 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1923590",
-    "Name": "Abdullah Abdelaziz",
+    "Ticket": "1926654",
+    "Name": "Tasha Carter",
     "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update listed softwares",
+    "Room": "ITU",
+    "Task": "Return Brown/Yellow Laptop",
     "Status": "",
     "Date": "9/26",
-    "Time": "11:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1923639",
-    "Name": "Birgit Jaki",
-    "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Set up a call with Rockford(Check Ticket)",
-    "Status": "",
-    "Date": "9/26",
-    "Time": "1:30 PM",
+    "Time": "5:00 PM",
     "Day": "Friday"
   },
   {
@@ -94,5 +82,29 @@
     "Date": "9/29",
     "Time": "1:00 PM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1923590",
+    "Name": "Abdullah Abdelaziz",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update listed softwares",
+    "Status": "Completed",
+    "Date": "9/26",
+    "Time": "11:00 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1923639",
+    "Name": "Birgit Jaki",
+    "Assignee": "Any Student Tech",
+    "Room": "B32",
+    "Task": "Set up a call with Rockford(Check Ticket)",
+    "Status": "Completed",
+    "Date": "9/26",
+    "Time": "1:30 PM",
+    "Day": "Friday"
   }
 ]
