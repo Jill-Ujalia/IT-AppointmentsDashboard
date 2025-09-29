@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1922898",
-    "Name": "Nyssa Krull",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "In Progress",
-    "Date": "9/29",
-    "Time": "1:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -46,6 +34,30 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1792186",
+    "Name": "David Brand",
+    "Assignee": "Any Student Tech",
+    "Room": "OSA",
+    "Task": "Start OneDrive backup on old Laptop",
+    "Status": "",
+    "Date": "9/30",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1922898",
+    "Name": "Nyssa Krull",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Status": "Completed",
+    "Date": "9/29",
+    "Time": "1:00 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
