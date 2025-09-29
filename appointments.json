@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1924488",
-    "Name": "Sunday Osamika",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner charger return",
-    "Status": "",
-    "Date": "9/29",
-    "Time": "2:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -61,50 +49,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1926654",
-    "Name": "Tasha Carter",
+    "Ticket": "1924488",
+    "Name": "Sunday Osamika",
     "Assignee": "Any Student Tech",
     "Room": "ITU",
-    "Task": "Return Brown/Yellow Laptop",
+    "Task": "Loaner charger return",
     "Status": "Completed",
-    "Date": "9/26",
-    "Time": "5:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1916483",
-    "Name": "Tasha Carter",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Remove leftover antivirus files",
-    "Status": "Completed",
-    "Date": "9/26",
-    "Time": "3:30 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1923590",
-    "Name": "Abdullah Abdelaziz",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update listed softwares",
-    "Status": "Completed",
-    "Date": "9/26",
-    "Time": "11:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1923639",
-    "Name": "Birgit Jaki",
-    "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Set up a call with Rockford(Check Ticket)",
-    "Status": "Completed",
-    "Date": "9/26",
-    "Time": "1:30 PM",
-    "Day": "Friday"
+    "Date": "9/29",
+    "Time": "2:00 PM",
+    "Day": "Monday"
   }
 ]
