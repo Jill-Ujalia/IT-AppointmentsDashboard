@@ -37,6 +37,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1874104",
+    "Name": "Chih-Jia Chao",
+    "Assignee": "Any Student Tech",
+    "Room": "B32",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "10/1",
+    "Time": "3:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1792186",
     "Name": "David Brand",
     "Assignee": "Any Student Tech",
@@ -46,29 +58,5 @@
     "Date": "9/30",
     "Time": "12:30 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1922898",
-    "Name": "Nyssa Krull",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Completed",
-    "Date": "9/29",
-    "Time": "1:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1924488",
-    "Name": "Sunday Osamika",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner charger return",
-    "Status": "Completed",
-    "Date": "9/29",
-    "Time": "2:00 PM",
-    "Day": "Monday"
   }
 ]
