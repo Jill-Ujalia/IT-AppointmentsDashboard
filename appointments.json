@@ -58,5 +58,17 @@
     "Date": "10/1",
     "Time": "3:00 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1930892",
+    "Name": "Amrita Salvi",
+    "Assignee": "Joshua",
+    "Room": "MBRB 3206",
+    "Task": "Troubleshoot Printing Issue (See ticket)",
+    "Status": "",
+    "Date": "10/1",
+    "Time": "11:00 AM",
+    "Day": "Wednesday"
   }
 ]
