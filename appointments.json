@@ -25,6 +25,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1932964",
+    "Name": "Jackie Wasynczuk",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Status": "",
+    "Date": "10/10",
+    "Time": "10:00 AM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1932515",
     "Name": "Mercy Obarewon",
     "Assignee": "Any Student Tech",
@@ -73,18 +85,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1930892",
-    "Name": "Amrita Salvi",
-    "Assignee": "Josh",
-    "Room": "MBRB 3206",
-    "Task": "Troubleshoot Printing Issue (See ticket)",
-    "Status": "",
-    "Date": "10/1",
-    "Time": "11:00 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1907275",
     "Name": "Laura Bloem",
     "Assignee": "Any Student Tech",
@@ -93,6 +93,18 @@
     "Status": "",
     "Date": "10/1",
     "Time": "1:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1930892",
+    "Name": "Amrita Salvi",
+    "Assignee": "Josh",
+    "Room": "MBRB 3206",
+    "Task": "Troubleshoot Printing Issue (See ticket)",
+    "Status": "Completed",
+    "Date": "10/1",
+    "Time": "11:00 AM",
     "Day": "Wednesday"
   }
 ]
