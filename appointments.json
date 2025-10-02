@@ -25,18 +25,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1929049",
-    "Name": "Daniel Lantvit",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Printer issue",
-    "Status": "",
-    "Date": "10/2",
-    "Time": "11:45 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -82,5 +70,17 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1929049",
+    "Name": "Daniel Lantvit",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Printer issue",
+    "Status": "Completed",
+    "Date": "10/2",
+    "Time": "11:45 AM",
+    "Day": "Thursday"
   }
 ]
