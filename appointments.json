@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1935476",
-    "Name": "Zeba Saiyad",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Green Charger Loan",
-    "Status": "",
-    "Date": "10/2",
-    "Time": "5:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1935056",
     "Name": "Surrey Walton",
     "Assignee": "Any Student Tech",
@@ -82,6 +70,18 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1935476",
+    "Name": "Zeba Saiyad",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Green Charger Loan",
+    "Status": "Completed",
+    "Date": "10/2",
+    "Time": "5:00 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
