@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "1792186",
+    "Name": "David Brand",
+    "Assignee": "Any Student Tech",
+    "Room": "OSA",
+    "Task": "Start OneDrive backup on old Laptop",
+    "Status": "Delayed",
+    "Date": "10/2",
+    "Time": "1:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1935476",
     "Name": "Zeba Saiyad",
     "Assignee": "Any Student Tech",
@@ -9,18 +21,6 @@
     "Status": "In Progress",
     "Date": "10/2",
     "Time": "5:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1792186",
-    "Name": "David Brand",
-    "Assignee": "Any Student Tech",
-    "Room": "OSA",
-    "Task": "Start OneDrive backup on old Laptop",
-    "Status": "",
-    "Date": "10/2",
-    "Time": "1:00 PM",
     "Day": "Thursday"
   },
   {
