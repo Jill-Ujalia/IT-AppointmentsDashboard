@@ -13,6 +13,30 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1935056",
+    "Name": "Surrey Walton",
+    "Assignee": "Any Student Tech",
+    "Room": "264",
+    "Task": "Cannot print pdf's from Acrobat",
+    "Status": "",
+    "Date": "10/7",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1929049",
+    "Name": "Daniel Lantvit",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Printer issue",
+    "Status": "",
+    "Date": "10/2",
+    "Time": "11:45 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -58,41 +82,5 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1932515",
-    "Name": "Mercy Obarewon",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Charger Loan Return",
-    "Status": "Completed",
-    "Date": "10/1",
-    "Time": "5:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1907275",
-    "Name": "Laura Bloem",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Connect to VPN, Update Password and Other Tasks (See Ticket)",
-    "Status": "Completed",
-    "Date": "10/1",
-    "Time": "1:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1930892",
-    "Name": "Amrita Salvi",
-    "Assignee": "Josh",
-    "Room": "MBRB 3206",
-    "Task": "Troubleshoot Printing Issue (See ticket)",
-    "Status": "Completed",
-    "Date": "10/1",
-    "Time": "11:00 AM",
-    "Day": "Wednesday"
   }
 ]
