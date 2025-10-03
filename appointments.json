@@ -37,6 +37,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1936054",
+    "Name": "Naba Khan",
+    "Assignee": "Any Student Tech",
+    "Room": "TBD",
+    "Task": "Dean Forum Prep",
+    "Status": "",
+    "Date": "10/6",
+    "Time": "11:00 AM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1932964",
     "Name": "Jackie Wasynczuk",
     "Assignee": "Any Student Tech",
@@ -70,29 +82,5 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1935476",
-    "Name": "Zeba Saiyad",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Green Charger Loan",
-    "Status": "Completed",
-    "Date": "10/2",
-    "Time": "5:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1929049",
-    "Name": "Daniel Lantvit",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Printer issue",
-    "Status": "Completed",
-    "Date": "10/2",
-    "Time": "11:45 AM",
-    "Day": "Thursday"
   }
 ]
