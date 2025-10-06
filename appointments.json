@@ -37,18 +37,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1936054",
-    "Name": "Naba Khan",
-    "Assignee": "Any Student Tech",
-    "Room": "TBD",
-    "Task": "Dean Forum Prep",
-    "Status": "",
-    "Date": "10/6",
-    "Time": "11:00 AM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1932964",
     "Name": "Jackie Wasynczuk",
     "Assignee": "Any Student Tech",
@@ -94,5 +82,17 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1936054",
+    "Name": "Naba Khan",
+    "Assignee": "Any Student Tech",
+    "Room": "TBD",
+    "Task": "Dean Forum Prep",
+    "Status": "Completed",
+    "Date": "10/6",
+    "Time": "11:00 AM",
+    "Day": "Monday"
   }
 ]
