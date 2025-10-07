@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1935056",
-    "Name": "Surrey Walton",
-    "Assignee": "Any Student Tech",
-    "Room": "264",
-    "Task": "Cannot print pdf's from Acrobat",
-    "Status": "",
-    "Date": "10/7",
-    "Time": "10:00 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -97,14 +85,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1936054",
-    "Name": "Naba Khan",
+    "Ticket": "1935056",
+    "Name": "Surrey Walton",
     "Assignee": "Any Student Tech",
-    "Room": "TBD",
-    "Task": "Dean Forum Prep",
+    "Room": "264",
+    "Task": "Cannot print pdf's from Acrobat",
     "Status": "Completed",
-    "Date": "10/6",
-    "Time": "11:00 AM",
-    "Day": "Monday"
+    "Date": "10/7",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
   }
 ]
