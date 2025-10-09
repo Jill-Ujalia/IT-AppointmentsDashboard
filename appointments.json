@@ -82,5 +82,17 @@
     "Date": "10/13",
     "Time": "5:00 PM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1945908",
+    "Name": "Hilary Lien",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help map a folder",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
   }
 ]
