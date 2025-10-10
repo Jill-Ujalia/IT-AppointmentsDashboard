@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1932964",
-    "Name": "Jackie Wasynczuk",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Delayed",
-    "Date": "10/10",
-    "Time": "10:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -70,6 +58,18 @@
     "Date": "10/13",
     "Time": "5:00 PM",
     "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1932964",
+    "Name": "Jackie Wasynczuk",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording Studio",
+    "Status": "Completed",
+    "Date": "10/10",
+    "Time": "10:00 AM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
