@@ -61,6 +61,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1949640",
+    "Name": "Toni Martinford",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Charger Loan",
+    "Status": "",
+    "Date": "10/13",
+    "Time": "5:00 PM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1930892",
     "Name": "Amrita Salvi",
     "Assignee": "Any Student Tech",
@@ -70,29 +82,5 @@
     "Date": "10/16",
     "Time": "11:00 AM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1932964",
-    "Name": "Jackie Wasynczuk",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording Studio",
-    "Status": "Completed",
-    "Date": "10/10",
-    "Time": "10:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1945908",
-    "Name": "Hilary Lien",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Help map a folder",
-    "Status": "Completed",
-    "Date": "10/10",
-    "Time": "2:00 PM",
-    "Day": "Friday"
   }
 ]
