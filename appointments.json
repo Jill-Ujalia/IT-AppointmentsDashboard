@@ -49,18 +49,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1949640",
-    "Name": "Toni Martinford",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Laptop Charger Loan",
-    "Status": "",
-    "Date": "10/13",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1930892",
     "Name": "Amrita Salvi",
     "Assignee": "Any Student Tech",
@@ -82,6 +70,18 @@
     "Date": "10/14",
     "Time": "12:20 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1949640",
+    "Name": "Toni Martinford",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Charger Loan",
+    "Status": "Completed",
+    "Date": "10/13",
+    "Time": "5:00 PM",
+    "Day": "Monday"
   },
   {
     "Booking ID": "",
