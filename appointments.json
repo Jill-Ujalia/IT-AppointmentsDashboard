@@ -82,5 +82,17 @@
     "Date": "10/16",
     "Time": "11:00 AM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1919806",
+    "Name": "Beatrice Drambarean",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Resident Seminar Assistance",
+    "Status": "",
+    "Date": "10/14",
+    "Time": "12:20 PM",
+    "Day": "Tuesday"
   }
 ]
