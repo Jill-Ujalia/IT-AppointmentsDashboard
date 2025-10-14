@@ -82,17 +82,5 @@
     "Date": "10/16",
     "Time": "11:00 AM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1947501",
-    "Name": "Angela Kong",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Upgrade laptop to Win11",
-    "Status": "",
-    "Date": "10/14",
-    "Time": "9:30 AM",
-    "Day": "Tuesday"
   }
 ]
