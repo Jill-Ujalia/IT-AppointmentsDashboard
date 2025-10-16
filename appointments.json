@@ -13,42 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1921072",
-    "Name": "test",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "10/16",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1921072",
-    "Name": "test",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "10/16",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1921072",
-    "Name": "test",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "10/16",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -70,18 +34,6 @@
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1930892",
-    "Name": "Amrita Salvi",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3206",
-    "Task": "Help locate the netowrk hub",
-    "Status": "",
-    "Date": "10/16",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
   },
   {
     "Booking ID": "",
@@ -142,5 +94,53 @@
     "Date": "11/25",
     "Time": "12:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921072",
+    "Name": "test",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "10/16",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921072",
+    "Name": "test",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "10/16",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921072",
+    "Name": "test",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "10/16",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1930892",
+    "Name": "Amrita Salvi",
+    "Assignee": "Any Student Tech",
+    "Room": "MBRB 3206",
+    "Task": "Help locate the netowrk hub",
+    "Status": "Completed",
+    "Date": "10/16",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
   }
 ]
