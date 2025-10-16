@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "1921072",
+    "Name": "test",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "",
+    "Date": "10/20",
+    "Time": "12:30 PM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1921073",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -94,29 +106,5 @@
     "Date": "11/25",
     "Time": "12:30 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1953634",
-    "Name": "Kathy Cleary",
-    "Assignee": "Jaden",
-    "Room": "287A",
-    "Task": "Check Win11 Elgibility on the two PC's",
-    "Status": "Completed",
-    "Date": "10/15",
-    "Time": "1:15 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1952285",
-    "Name": "Daniel Touchette",
-    "Assignee": "Tony",
-    "Room": "Remote ",
-    "Task": "Panopto Troubleshooting",
-    "Status": "Completed",
-    "Date": "10/15",
-    "Time": "2:00 PM",
-    "Day": "Wednesday"
   }
 ]
