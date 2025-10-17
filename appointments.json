@@ -109,6 +109,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1955468",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Gabe & Himanshu",
+    "Room": "180",
+    "Task": "Research Day ",
+    "Status": "",
+    "Date": "10/30",
+    "Time": "12:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1921072",
     "Name": "test",
     "Assignee": "Any Student Tech",
