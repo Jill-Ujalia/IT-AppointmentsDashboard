@@ -104,7 +104,7 @@
     "Task": "Open Recording studio and assist client",
     "Status": "",
     "Date": "10/22",
-    "Time": "12:00 PM",
+    "Time": "1:30 PM",
     "Day": "Wednesday"
   },
   {
@@ -118,17 +118,5 @@
     "Date": "10/30",
     "Time": "12:00 PM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1921072",
-    "Name": "test",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "10/17",
-    "Time": "12:30 PM",
-    "Day": "Friday"
   }
 ]
