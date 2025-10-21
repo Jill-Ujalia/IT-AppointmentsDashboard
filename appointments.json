@@ -43,18 +43,6 @@
     "Room": "Remote",
     "Task": "PharmD Interviews",
     "Status": "",
-    "Date": "10/21",
-    "Time": "12:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1921073",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
     "Date": "10/28",
     "Time": "12:30 PM",
     "Day": "Tuesday"
@@ -166,5 +154,17 @@
     "Date": "10/22",
     "Time": "12:45 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1921073",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "10/21",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
   }
 ]
