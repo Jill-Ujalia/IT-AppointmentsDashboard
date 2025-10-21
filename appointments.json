@@ -121,18 +121,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1962786",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Drop off YLW-BRN loaner laptop",
-    "Status": "",
-    "Date": "10/21",
-    "Time": "5:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1958266",
     "Name": "Christie Denton",
     "Assignee": "Jaden",
@@ -166,6 +154,18 @@
     "Date": "10/22",
     "Time": "12:45 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1962786",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Drop off YLW-BRN loaner laptop",
+    "Status": "Completed",
+    "Date": "10/21",
+    "Time": "5:30 PM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
