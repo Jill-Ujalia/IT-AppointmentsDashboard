@@ -127,9 +127,9 @@
     "Room": "Recording Studio",
     "Task": "Open Recording studio and assist client",
     "Status": "",
-    "Date": "10/22",
-    "Time": "1:30 PM",
-    "Day": "Wednesday"
+    "Date": "10/23",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
@@ -150,33 +150,9 @@
     "Assignee": "Jaden",
     "Room": "ITU",
     "Task": "Assist with laptop issues",
-    "Status": "",
+    "Status": "Completed",
     "Date": "10/22",
     "Time": "12:45 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1962786",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Drop off YLW-BRN loaner laptop",
-    "Status": "Completed",
-    "Date": "10/21",
-    "Time": "5:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1921073",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "10/21",
-    "Time": "12:30 PM",
-    "Day": "Tuesday"
   }
 ]
