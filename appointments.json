@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1964297",
-    "Name": "Jill Wilson",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Set up OneDrive",
-    "Status": "",
-    "Date": "10/22",
-    "Time": "2:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1926730",
     "Name": "Blake Max",
     "Assignee": "Any Student Tech",
@@ -142,6 +130,18 @@
     "Date": "10/30",
     "Time": "12:00 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1964297",
+    "Name": "Jill Wilson",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Set up OneDrive",
+    "Status": "Completed",
+    "Date": "10/22",
+    "Time": "2:00 PM",
+    "Day": "Wednesday"
   },
   {
     "Booking ID": "",
