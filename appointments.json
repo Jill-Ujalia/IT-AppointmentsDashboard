@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1958266",
-    "Name": "Christie Denton",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "Open Recording studio and assist client",
-    "Status": "In Progress",
-    "Date": "10/23",
-    "Time": "9:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1966329",
     "Name": "Ebony Buchanan",
     "Assignee": "Any Student Tech",
@@ -142,5 +130,17 @@
     "Date": "10/24",
     "Time": "10:00 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1958266",
+    "Name": "Christie Denton",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "Open Recording studio and assist client",
+    "Status": "Completed",
+    "Date": "10/23",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
   }
 ]
