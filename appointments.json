@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1966329",
-    "Name": "Ebony Buchanan",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update Firefox",
-    "Status": "",
-    "Date": "10/23",
-    "Time": "1:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1954378",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -130,6 +118,18 @@
     "Date": "10/24",
     "Time": "10:00 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1966329",
+    "Name": "Ebony Buchanan",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update Firefox",
+    "Status": "Completed",
+    "Date": "10/23",
+    "Time": "1:30 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
