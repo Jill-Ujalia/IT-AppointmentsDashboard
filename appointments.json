@@ -109,14 +109,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1961411",
-    "Name": "Kathy Cleary",
+    "Ticket": "1971791",
+    "Name": "Julia Kang",
     "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Call client, do remote session to update 7zip, reassign ticket to security, do not close ticket",
-    "Status": "Completed",
-    "Date": "10/24",
-    "Time": "10:00 AM",
-    "Day": "Friday"
+    "Room": "ITU",
+    "Task": "Loaner Return",
+    "Status": "",
+    "Date": "10/27",
+    "Time": "3:00 PM",
+    "Day": "Monday"
   }
 ]
