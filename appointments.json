@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "1955468",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Gabe & Jaden",
+    "Room": "180",
+    "Task": "Research Day ",
+    "Status": "In Progress",
+    "Date": "10/30",
+    "Time": "12:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -93,18 +105,6 @@
     "Status": "",
     "Date": "10/30",
     "Time": "3:50 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1955468",
-    "Name": "Lindsey McQuade",
-    "Assignee": "Gabe & Jaden",
-    "Room": "180",
-    "Task": "Research Day ",
-    "Status": "",
-    "Date": "10/30",
-    "Time": "12:00 PM",
     "Day": "Thursday"
   },
   {
