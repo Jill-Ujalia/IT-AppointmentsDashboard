@@ -25,18 +25,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1977829",
-    "Name": "Julia Kang",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Purple Loaner Drop-Off",
-    "Status": "",
-    "Date": "10/30",
-    "Time": "4:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1954378",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -85,18 +73,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1977882",
-    "Name": "Merlin Thomas",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Bring back lenovo charger",
-    "Status": "",
-    "Date": "10/30",
-    "Time": "3:50 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1978337",
     "Name": "Birgit Jaki",
     "Assignee": "Any Student Tech",
@@ -106,6 +82,30 @@
     "Date": "10/31",
     "Time": "10:20 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1977829",
+    "Name": "Julia Kang",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Purple Loaner Drop-Off",
+    "Status": "Completed",
+    "Date": "10/30",
+    "Time": "4:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1977882",
+    "Name": "Merlin Thomas",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Bring back lenovo charger",
+    "Status": "Completed",
+    "Date": "10/30",
+    "Time": "3:50 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
