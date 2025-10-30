@@ -73,38 +73,26 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1921073",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "10/29",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1957082",
-    "Name": "Jackie Wasynczuk",
+    "Ticket": "1976420",
+    "Name": "Christopher Korfiatis",
     "Assignee": "Any Student Tech",
     "Room": "176",
     "Task": "Unlock Recording Studio and assist user with setup and needs",
     "Status": "",
     "Date": "10/29",
-    "Time": "9:30 AM",
+    "Time": "1:30 PM",
     "Day": "Wednesday"
   },
   {
     "Booking ID": "",
-    "Ticket": "1921073",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "10/28",
-    "Time": "12:30 PM",
-    "Day": "Tuesday"
+    "Ticket": "1976598",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Closer",
+    "Room": "216 & 270",
+    "Task": "Leave Rooms Unlocked",
+    "Status": "",
+    "Date": "10/29",
+    "Time": "6:00 PM",
+    "Day": "Wednesday"
   }
 ]
