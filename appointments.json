@@ -1,14 +1,14 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1955468",
-    "Name": "Lindsey McQuade",
-    "Assignee": "Gabe & Jaden",
-    "Room": "180",
-    "Task": "Research Day ",
+    "Ticket": "1975146",
+    "Name": "Amrita Salvi",
+    "Assignee": "Himanshu",
+    "Room": "MBRB 3206",
+    "Task": "Troubleshoot Ethernet connection issue",
     "Status": "In Progress",
     "Date": "10/30",
-    "Time": "12:00 PM",
+    "Time": "3:00 PM",
     "Day": "Thursday"
   },
   {
@@ -22,18 +22,6 @@
     "Date": "12/5",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1975146",
-    "Name": "Amrita Salvi",
-    "Assignee": "Himanshu",
-    "Room": "MBRB 3206",
-    "Task": "Troubleshoot Ethernet connection issue",
-    "Status": "",
-    "Date": "10/30",
-    "Time": "3:00 PM",
-    "Day": "Thursday"
   },
   {
     "Booking ID": "",
@@ -118,5 +106,17 @@
     "Date": "10/31",
     "Time": "10:20 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1955468",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Gabe & Jaden",
+    "Room": "180",
+    "Task": "Research Day ",
+    "Status": "Completed",
+    "Date": "10/30",
+    "Time": "12:00 PM",
+    "Day": "Thursday"
   }
 ]
