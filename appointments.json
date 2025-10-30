@@ -13,6 +13,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1975146",
+    "Name": "Amrita Salvi",
+    "Assignee": "Himanshu",
+    "Room": "MBRB 3206",
+    "Task": "Troubleshoot Ethernet connection issue",
+    "Status": "",
+    "Date": "10/30",
+    "Time": "3:00 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1977829",
     "Name": "Julia Kang",
     "Assignee": "Any Student Tech",
