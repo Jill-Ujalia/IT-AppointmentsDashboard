@@ -106,5 +106,17 @@
     "Date": "10/30",
     "Time": "12:00 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1978337",
+    "Name": "Birgit Jaki",
+    "Assignee": "Any Student Tech",
+    "Room": "B32",
+    "Task": "Assist with zoom connection to Rockford",
+    "Status": "",
+    "Date": "10/31",
+    "Time": "10:20 AM",
+    "Day": "Friday"
   }
 ]
