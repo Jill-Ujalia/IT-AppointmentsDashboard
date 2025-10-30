@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1975146",
-    "Name": "Amrita Salvi",
-    "Assignee": "Himanshu",
-    "Room": "MBRB 3206",
-    "Task": "Troubleshoot Ethernet connection issue",
-    "Status": "In Progress",
-    "Date": "10/30",
-    "Time": "3:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -82,6 +70,18 @@
     "Date": "10/31",
     "Time": "10:20 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1975146",
+    "Name": "Amrita Salvi",
+    "Assignee": "Himanshu",
+    "Room": "MBRB 3206",
+    "Task": "Troubleshoot Ethernet connection issue",
+    "Status": "Completed",
+    "Date": "10/30",
+    "Time": "3:00 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
