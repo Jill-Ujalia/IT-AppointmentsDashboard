@@ -61,62 +61,26 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1969400",
+    "Name": "Christopher Gummert",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "",
+    "Date": "11/4",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1978337",
     "Name": "Birgit Jaki",
     "Assignee": "Any Student Tech",
     "Room": "B32",
     "Task": "Assist with zoom connection to Rockford",
-    "Status": "",
+    "Status": "Completed",
     "Date": "10/31",
     "Time": "10:20 AM",
     "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1975146",
-    "Name": "Amrita Salvi",
-    "Assignee": "Himanshu",
-    "Room": "MBRB 3206",
-    "Task": "Troubleshoot Ethernet connection issue",
-    "Status": "Completed",
-    "Date": "10/30",
-    "Time": "3:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1977829",
-    "Name": "Julia Kang",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Purple Loaner Drop-Off",
-    "Status": "Completed",
-    "Date": "10/30",
-    "Time": "4:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1977882",
-    "Name": "Merlin Thomas",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Bring back lenovo charger",
-    "Status": "Completed",
-    "Date": "10/30",
-    "Time": "3:50 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1955468",
-    "Name": "Lindsey McQuade",
-    "Assignee": "Gabe & Jaden",
-    "Room": "180",
-    "Task": "Research Day ",
-    "Status": "Completed",
-    "Date": "10/30",
-    "Time": "12:00 PM",
-    "Day": "Thursday"
   }
 ]
