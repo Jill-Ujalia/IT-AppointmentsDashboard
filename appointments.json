@@ -94,5 +94,17 @@
     "Date": "10/5",
     "Time": "5:00 PM",
     "Day": "Sunday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1974921",
+    "Name": "Taylor Huang",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install Software",
+    "Status": "",
+    "Date": "11/3",
+    "Time": "2:00 PM",
+    "Day": "Monday"
   }
 ]
