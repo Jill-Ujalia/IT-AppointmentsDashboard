@@ -73,14 +73,26 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1978337",
-    "Name": "Birgit Jaki",
+    "Ticket": "1983277",
+    "Name": "Afsara Saleh",
     "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Assist with zoom connection to Rockford",
-    "Status": "Completed",
-    "Date": "10/31",
-    "Time": "10:20 AM",
-    "Day": "Friday"
+    "Room": "ITU",
+    "Task": "Return HDMI",
+    "Status": "",
+    "Date": "10/4",
+    "Time": "5:00 PM",
+    "Day": "Saturday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1983289",
+    "Name": "Julia Kang",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Return Loaner Laptop",
+    "Status": "",
+    "Date": "10/5",
+    "Time": "5:00 PM",
+    "Day": "Sunday"
   }
 ]
