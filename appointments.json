@@ -61,18 +61,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1969400",
-    "Name": "Christopher Gummert",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "",
-    "Date": "11/4",
-    "Time": "10:00 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1983277",
     "Name": "Afsara Saleh",
     "Assignee": "Any Student Tech",
@@ -109,14 +97,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1974921",
-    "Name": "Taylor Huang",
+    "Ticket": "1969400",
+    "Name": "Christopher Gummert",
     "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install Software",
+    "Room": "ITU",
+    "Task": "Post-NCS",
     "Status": "Completed",
-    "Date": "11/3",
-    "Time": "2:00 PM",
-    "Day": "Monday"
+    "Date": "11/4",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
   }
 ]
