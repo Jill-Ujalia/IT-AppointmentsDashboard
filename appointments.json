@@ -61,30 +61,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1983277",
-    "Name": "Afsara Saleh",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return HDMI",
-    "Status": "",
-    "Date": "11/4",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1983289",
-    "Name": "Julia Kang",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return Loaner Laptop",
-    "Status": "",
-    "Date": "11/4",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1983960",
     "Name": "Jamie Benken",
     "Assignee": "Closer",
@@ -106,6 +82,30 @@
     "Date": "11/7",
     "Time": "10:30 AM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1983277",
+    "Name": "Afsara Saleh",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Return HDMI",
+    "Status": "Completed",
+    "Date": "11/4",
+    "Time": "5:00 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1983289",
+    "Name": "Julia Kang",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Return Loaner Laptop",
+    "Status": "Completed",
+    "Date": "11/4",
+    "Time": "5:00 PM",
+    "Day": "Tuesday"
   },
   {
     "Booking ID": "",
