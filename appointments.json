@@ -49,18 +49,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1954378",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "11/5",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1983960",
     "Name": "Jamie Benken",
     "Assignee": "Closer",
@@ -85,38 +73,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1983277",
-    "Name": "Afsara Saleh",
+    "Ticket": "1954378",
+    "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return HDMI",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
     "Status": "Completed",
-    "Date": "11/4",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1983289",
-    "Name": "Julia Kang",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return Loaner Laptop",
-    "Status": "Completed",
-    "Date": "11/4",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1969400",
-    "Name": "Christopher Gummert",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "Completed",
-    "Date": "11/4",
-    "Time": "10:00 AM",
-    "Day": "Tuesday"
+    "Date": "11/5",
+    "Time": "12:30 PM",
+    "Day": "Wednesday"
   }
 ]
