@@ -85,6 +85,18 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "1990815",
+    "Name": "Mary Kopale",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Disable CoPilot in Word and Outlook",
+    "Status": "",
+    "Date": "11/7",
+    "Time": "12:30 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1990063",
     "Name": "Julia Kang",
     "Assignee": "Any Student Tech",
