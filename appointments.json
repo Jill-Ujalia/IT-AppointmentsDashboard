@@ -78,21 +78,9 @@
     "Assignee": "Any Student Tech",
     "Room": "474",
     "Task": "Check on Display cord",
-    "Status": "",
+    "Status": "Completed",
     "Date": "11/6",
     "Time": "10:00 AM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1954378",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "11/5",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
   }
 ]
