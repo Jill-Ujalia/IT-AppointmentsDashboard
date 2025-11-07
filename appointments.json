@@ -73,18 +73,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1965992",
-    "Name": "Taylor Watterson",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS for Laptop",
-    "Status": "",
-    "Date": "11/7",
-    "Time": "10:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1990815",
     "Name": "Mary Kopale",
     "Assignee": "Any Student Tech",
@@ -93,6 +81,18 @@
     "Status": "",
     "Date": "11/7",
     "Time": "2:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1965992",
+    "Name": "Taylor Watterson",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS for Laptop",
+    "Status": "Completed",
+    "Date": "11/7",
+    "Time": "10:30 AM",
     "Day": "Friday"
   }
 ]
