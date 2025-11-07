@@ -92,31 +92,7 @@
     "Task": "Disable CoPilot in Word and Outlook",
     "Status": "",
     "Date": "11/7",
-    "Time": "12:30 PM",
+    "Time": "2:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1990063",
-    "Name": "Julia Kang",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Pick Up (Red/Teal)",
-    "Status": "Completed",
-    "Date": "11/6",
-    "Time": "1:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1987463",
-    "Name": "Ruchi Roy",
-    "Assignee": "Any Student Tech",
-    "Room": "474",
-    "Task": "Check on Display cord",
-    "Status": "Completed",
-    "Date": "11/6",
-    "Time": "10:00 AM",
-    "Day": "Thursday"
   }
 ]
