@@ -58,53 +58,5 @@
     "Date": "11/20",
     "Time": "5:30 PM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1980765",
-    "Name": "Ganesh Katta",
-    "Assignee": "Any Student Tech",
-    "Room": "349",
-    "Task": "Pick up Workstation",
-    "Status": "",
-    "Date": "11/10",
-    "Time": "1:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1990320",
-    "Name": "Maryam Khandokar",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Drop Off (Blue/Orange)",
-    "Status": "Completed",
-    "Date": "11/7",
-    "Time": "3:30 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1990815",
-    "Name": "Mary Kopale",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Disable CoPilot in Word and Outlook",
-    "Status": "Completed",
-    "Date": "11/7",
-    "Time": "2:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1965992",
-    "Name": "Taylor Watterson",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS for Laptop",
-    "Status": "Completed",
-    "Date": "11/7",
-    "Time": "10:30 AM",
-    "Day": "Friday"
   }
 ]
