@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1975146",
-    "Name": "Amrita Salvi/Alejandra Saldana",
-    "Assignee": "Himanshu",
-    "Room": "MBRB 3206",
-    "Task": "Network Testing",
-    "Status": "In Progress",
-    "Date": "11/13",
-    "Time": "2:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "2000857",
     "Name": "Nora Vazquez-Laslop",
     "Assignee": "Any Student Tech",
@@ -106,5 +94,17 @@
     "Date": "10/14",
     "Time": "10:00 AM",
     "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1975146",
+    "Name": "Amrita Salvi/Alejandra Saldana",
+    "Assignee": "Himanshu",
+    "Room": "MBRB 3206",
+    "Task": "Network Testing",
+    "Status": "Completed",
+    "Date": "11/13",
+    "Time": "2:30 PM",
+    "Day": "Thursday"
   }
 ]
