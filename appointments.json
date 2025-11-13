@@ -94,5 +94,17 @@
     "Date": "8/13",
     "Time": "5:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2001013",
+    "Name": "Hilary Lien",
+    "Assignee": "Any Student Tech",
+    "Room": "246",
+    "Task": "Assist with Box",
+    "Status": "",
+    "Date": "10/14",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
   }
 ]
