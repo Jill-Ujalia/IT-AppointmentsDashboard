@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "2000857",
-    "Name": "Nora Vazquez-Laslop",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Troubleshoot Outlook Crashing Issue on mac device",
-    "Status": "",
-    "Date": "11/14",
-    "Time": "12:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1998517",
     "Name": "Charles McPherson",
     "Assignee": "Any Student Tech",
@@ -97,14 +85,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1975146",
-    "Name": "Amrita Salvi/Alejandra Saldana",
-    "Assignee": "Himanshu",
-    "Room": "MBRB 3206",
-    "Task": "Network Testing",
+    "Ticket": "2000857",
+    "Name": "Nora Vazquez-Laslop",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Troubleshoot Outlook Crashing Issue on mac device",
     "Status": "Completed",
-    "Date": "11/13",
-    "Time": "2:30 PM",
-    "Day": "Thursday"
+    "Date": "11/14",
+    "Time": "12:00 PM",
+    "Day": "Friday"
   }
 ]
