@@ -58,17 +58,5 @@
     "Date": "11/20",
     "Time": "5:30 PM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "2001786",
-    "Name": "Taylor Huang",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return HDMI",
-    "Status": "",
-    "Date": "8/13",
-    "Time": "5:30 PM",
-    "Day": "Wednesday"
   }
 ]
