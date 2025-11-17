@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
-    "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1954378",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -61,38 +49,26 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
+    "Ticket": "1954378",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
     "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
+    "Date": "12/12",
+    "Time": "12:30 PM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
-    "Ticket": "",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
+    "Ticket": "1954378",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
     "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
-    "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
+    "Date": "12/17",
+    "Time": "12:30 PM",
+    "Day": "Wednesday"
   }
 ]
