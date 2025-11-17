@@ -73,26 +73,26 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1954380",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
     "Status": "",
-    "Date": "11/27",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
+    "Date": "",
+    "Time": "",
+    "Day": ""
   },
   {
     "Booking ID": "",
-    "Ticket": "1954381",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
     "Status": "",
-    "Date": "11/28",
-    "Time": "12:30 PM",
-    "Day": "Friday"
+    "Date": "",
+    "Time": "",
+    "Day": ""
   }
 ]
