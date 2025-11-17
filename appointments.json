@@ -70,5 +70,17 @@
     "Date": "12/17",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2005930",
+    "Name": "Leenah Ehsan",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Apple Charger loan",
+    "Status": "",
+    "Date": "11/17",
+    "Time": "5:00 PM",
+    "Day": "Monday"
   }
 ]
