@@ -79,20 +79,8 @@
     "Room": "246",
     "Task": "Assist with Box",
     "Status": "",
-    "Date": "10/14",
-    "Time": "10:00 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "2000857",
-    "Name": "Nora Vazquez-Laslop",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Troubleshoot Outlook Crashing Issue on mac device",
-    "Status": "Completed",
     "Date": "11/14",
-    "Time": "12:00 PM",
+    "Time": "10:00 AM",
     "Day": "Friday"
   }
 ]
