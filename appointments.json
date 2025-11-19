@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "1954378",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "11/19",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1983960",
     "Name": "Jamie Benken",
     "Assignee": "Closer",
@@ -80,6 +68,18 @@
     "Task": "PharmD Interviews",
     "Status": "",
     "Date": "12/17",
+    "Time": "12:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1954378",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "11/19",
     "Time": "12:30 PM",
     "Day": "Wednesday"
   }
