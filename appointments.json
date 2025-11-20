@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "2010969",
+    "Name": "Ebony Buchanan",
+    "Assignee": "Jill",
+    "Room": "ITU",
+    "Task": "Low Storage",
+    "Status": "In Progress",
+    "Date": "11/20",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
