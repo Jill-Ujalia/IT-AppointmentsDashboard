@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "2010969",
-    "Name": "Ebony Buchanan",
-    "Assignee": "Jill",
-    "Room": "ITU",
-    "Task": "Low Storage on Laptop",
-    "Status": "In Progress",
-    "Date": "11/20",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "2009568",
     "Name": "Dawn Magiera",
     "Assignee": "Jill",
@@ -106,6 +94,18 @@
     "Date": "12/17",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010969",
+    "Name": "Ebony Buchanan",
+    "Assignee": "Jill",
+    "Room": "ITU",
+    "Task": "Low Storage on Laptop",
+    "Status": "Completed",
+    "Date": "11/20",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
