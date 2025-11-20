@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "2009568",
-    "Name": "Dawn Magiera",
-    "Assignee": "Jill",
-    "Room": "134-2",
-    "Task": "IT Support - Event Setup",
-    "Status": "In Progress",
-    "Date": "11/20",
-    "Time": "11:30 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -94,6 +82,18 @@
     "Date": "12/17",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2009568",
+    "Name": "Dawn Magiera",
+    "Assignee": "Jill",
+    "Room": "134-2",
+    "Task": "IT Support - Event Setup",
+    "Status": "Completed",
+    "Date": "11/20",
+    "Time": "11:30 AM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
