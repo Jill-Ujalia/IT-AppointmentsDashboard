@@ -61,27 +61,27 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
+    "Ticket": "0",
+    "Name": "test",
+    "Assignee": "test",
+    "Room": "test",
+    "Task": "test",
     "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
+    "Date": "11/28",
+    "Time": "12:29 PM",
+    "Day": "Friday"
   },
   {
     "Booking ID": "",
-    "Ticket": "",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
+    "Ticket": "0",
+    "Name": "test",
+    "Assignee": "test",
+    "Room": "test",
+    "Task": "test",
     "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
+    "Date": "11/29",
+    "Time": "12:29 PM",
+    "Day": "Saturday"
   },
   {
     "Booking ID": "",
