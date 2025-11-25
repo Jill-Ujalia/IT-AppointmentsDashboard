@@ -142,5 +142,17 @@
     "Date": "11/20",
     "Time": "4:15 PM",
     "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1973518",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Dan is dropping off YLW-BRN loaner laptop",
+    "Status": "",
+    "Date": "12/5",
+    "Time": "5:00 PM",
+    "Day": "Friday"
   }
 ]
