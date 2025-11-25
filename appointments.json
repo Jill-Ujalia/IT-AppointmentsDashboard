@@ -13,6 +13,102 @@
   },
   {
     "Booking ID": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010102",
+    "Name": "Renata Smith",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with printer mapping using SU",
+    "Status": "",
+    "Date": "11/25",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010103",
+    "Name": "Renata Smith",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with printer mapping using SU",
+    "Status": "",
+    "Date": "11/26",
+    "Time": "10:00 AM",
+    "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010104",
+    "Name": "Renata Smith",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with printer mapping using SU",
+    "Status": "",
+    "Date": "11/27",
+    "Time": "9:59 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010105",
+    "Name": "Renata Smith",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with printer mapping using SU",
+    "Status": "",
+    "Date": "11/28",
+    "Time": "10:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010106",
+    "Name": "Renata Smith",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with printer mapping using SU",
+    "Status": "",
+    "Date": "11/29",
+    "Time": "9:59 AM",
+    "Day": "Saturday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2010107",
+    "Name": "Renata Smith",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with printer mapping using SU",
+    "Status": "",
+    "Date": "11/30",
+    "Time": "9:59 AM",
+    "Day": "Sunday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
+  },
+  {
+    "Booking ID": "",
     "Ticket": "2010102",
     "Name": "Renata Smith",
     "Assignee": "Any Student Tech",
@@ -82,29 +178,5 @@
     "Date": "11/20",
     "Time": "4:15 PM",
     "Day": "Thursday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "2015058",
-    "Name": "Taneisha Griggs",
-    "Assignee": "any Student Tech",
-    "Room": "ITU",
-    "Task": "Charger Loan",
-    "Status": "Completed",
-    "Date": "11/24",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "2015136",
-    "Name": "Mary Kopale",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Zoom Meeting Support",
-    "Status": "Completed",
-    "Date": "11/24",
-    "Time": "12:15 PM",
-    "Day": "Monday"
   }
 ]
