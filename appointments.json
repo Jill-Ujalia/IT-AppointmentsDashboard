@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "1954378",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "11/25",
-    "Time": "12:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -46,5 +34,17 @@
     "Date": "12/17",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "1954378",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "11/25",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
   }
 ]
