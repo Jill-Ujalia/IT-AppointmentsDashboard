@@ -1,6 +1,18 @@
 [
   {
     "Booking ID": "",
+    "Ticket": "2008319",
+    "Name": "Malaika Argade",
+    "Assignee": "Any Student Tech",
+    "Room": "493",
+    "Task": "Printer Map/Static IP test",
+    "Status": "",
+    "Date": "12/1",
+    "Time": "12:00 PM",
+    "Day": "Monday"
+  },
+  {
+    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -34,17 +46,5 @@
     "Date": "12/17",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "1954378",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "11/25",
-    "Time": "12:30 PM",
-    "Day": "Tuesday"
   }
 ]
