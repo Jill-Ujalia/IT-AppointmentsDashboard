@@ -13,18 +13,6 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "2020874",
-    "Name": "Shudhita Singh",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Laptop Return (Purple)",
-    "Status": "",
-    "Date": "12/1",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -34,6 +22,18 @@
     "Date": "12/5",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2020874",
+    "Name": "Shudhita Singh",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Return (Purple)",
+    "Status": "",
+    "Date": "12/11",
+    "Time": "5:00 PM",
+    "Day": "Thursday"
   },
   {
     "Booking ID": "",
