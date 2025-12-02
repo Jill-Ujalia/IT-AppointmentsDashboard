@@ -73,26 +73,14 @@
   },
   {
     "Booking ID": "",
-    "Ticket": "2008319",
-    "Name": "Malaika Argade",
+    "Ticket": "2022202",
+    "Name": "Marcy Kalata",
     "Assignee": "Any Student Tech",
-    "Room": "493",
-    "Task": "Printer Map/Static IP test",
-    "Status": "Completed",
-    "Date": "12/1",
-    "Time": "3:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Booking ID": "",
-    "Ticket": "2022016",
-    "Name": "Ryan Johnson",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Microsoft Surface Charger Loan",
-    "Status": "Completed",
-    "Date": "12/1",
-    "Time": "3:30 PM",
-    "Day": "Monday"
+    "Room": "184E6",
+    "Task": "Run Windows and driver updates",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
   }
 ]
