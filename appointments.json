@@ -1,18 +1,6 @@
 [
   {
     "Booking ID": "",
-    "Ticket": "2021588",
-    "Name": "Varanya Chaiyaperm",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Zoom Lecture Assistance",
-    "Status": "",
-    "Date": "12/3",
-    "Time": "11:20 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Booking ID": "",
     "Ticket": "2021975",
     "Name": "Tristesse Burton",
     "Assignee": "Any Student Tech",
@@ -82,5 +70,17 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Booking ID": "",
+    "Ticket": "2021588",
+    "Name": "Varanya Chaiyaperm",
+    "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "Zoom Lecture Assistance",
+    "Status": "Completed",
+    "Date": "12/3",
+    "Time": "11:20 AM",
+    "Day": "Wednesday"
   }
 ]
