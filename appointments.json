@@ -11,17 +11,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2027286",
-    "Name": "Khalil Abuawad",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Drop Off (Red)",
-    "Status": "",
-    "Date": "12/4",
-    "Time": "3:00 PM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -96,6 +85,17 @@
     "Status": "Completed",
     "Date": "12/4",
     "Time": "10:30 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2027286",
+    "Name": "Khalil Abuawad",
+    "Assignee": "Rainn",
+    "Room": "ITU",
+    "Task": "Loaner Laptop Drop Off (Red)",
+    "Status": "Completed",
+    "Date": "12/4",
+    "Time": "3:00 PM",
     "Day": "Thursday"
   }
 ]
