@@ -11,17 +11,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "",
-    "Name": " Jennifer Pham ",
-    "Assignee": "Any Student Tech",
-    "Room": "176",
-    "Task": "Open Recording studio",
-    "Status": "",
-    "Date": "12/4",
-    "Time": "10:30 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2027286",
     "Name": "Khalil Abuawad",
     "Assignee": "Any Student Tech",
@@ -97,5 +86,16 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "",
+    "Name": " Jennifer Pham ",
+    "Assignee": "Any Student Tech",
+    "Room": "176",
+    "Task": "Open Recording studio",
+    "Status": "Completed",
+    "Date": "12/4",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
   }
 ]
