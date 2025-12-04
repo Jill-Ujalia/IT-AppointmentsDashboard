@@ -1,6 +1,5 @@
 [
   {
-    "Booking ID": "",
     "Ticket": "2021975",
     "Name": "Tristesse Burton",
     "Assignee": "Any Student Tech",
@@ -12,7 +11,17 @@
     "Day": "Wednesday"
   },
   {
-    "Booking ID": "",
+    "Ticket": "",
+    "Name": " Jennifer Pham ",
+    "Assignee": "Any Student Tech",
+    "Room": "176",
+    "Task": "Open Recording studio",
+    "Status": "",
+    "Date": "12/4",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2027286",
     "Name": "Khalil Abuawad",
     "Assignee": "Any Student Tech",
@@ -24,7 +33,6 @@
     "Day": "Thursday"
   },
   {
-    "Booking ID": "",
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -36,7 +44,6 @@
     "Day": "Friday"
   },
   {
-    "Booking ID": "",
     "Ticket": "2020874",
     "Name": "Shudhita Singh",
     "Assignee": "Any Student Tech",
@@ -48,7 +55,6 @@
     "Day": "Thursday"
   },
   {
-    "Booking ID": "",
     "Ticket": "1954378",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -60,7 +66,6 @@
     "Day": "Friday"
   },
   {
-    "Booking ID": "",
     "Ticket": "1954378",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -72,7 +77,6 @@
     "Day": "Wednesday"
   },
   {
-    "Booking ID": "",
     "Ticket": "2022202",
     "Name": "Marcy Kalata",
     "Assignee": "Any Student Tech",
