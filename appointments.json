@@ -33,6 +33,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2034802",
+    "Name": "Emily Hoffman",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Installing Citation Manager",
+    "Status": "",
+    "Date": "12/10",
+    "Time": "10:00 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2034259",
     "Name": "Shehjina Patel",
     "Assignee": "Any Student Tech",
@@ -86,6 +97,17 @@
     "Date": "12/16",
     "Time": "5:00 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2035241",
+    "Name": "Dale Rush",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "SAS Renewal",
+    "Status": "",
+    "Date": "12/17",
+    "Time": "12:15 PM",
+    "Day": "Wednesday"
   },
   {
     "Ticket": "1954378",
