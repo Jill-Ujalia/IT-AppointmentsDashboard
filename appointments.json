@@ -33,6 +33,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2034345",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "",
+    "Date": "12/11",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2020874",
     "Name": "Shudhita Singh",
     "Assignee": "Any Student Tech",
