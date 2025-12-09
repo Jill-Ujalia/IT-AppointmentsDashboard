@@ -11,6 +11,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2032591",
+    "Name": "Mary Kopale",
+    "Assignee": "Closer",
+    "Room": "134-1",
+    "Task": "Poll Everywhere Testing",
+    "Status": "",
+    "Date": "12/9",
+    "Time": "4:30 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2034259",
     "Name": "Shehjina Patel",
     "Assignee": "Any Student Tech",
@@ -18,7 +29,7 @@
     "Task": "Loaner Laptop Drop Off (Red/Teal)",
     "Status": "",
     "Date": "12/9",
-    "Time": "2:00 PM",
+    "Time": "5:00 PM",
     "Day": "Tuesday"
   },
   {
