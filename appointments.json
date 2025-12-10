@@ -11,28 +11,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2035253",
-    "Name": "Marcy Kalata",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "SAS Renewal",
-    "Status": "",
-    "Date": "12/10",
-    "Time": "1:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2036198",
-    "Name": "Marcy Kalata",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Help with Outlook",
-    "Status": "",
-    "Date": "12/10",
-    "Time": "4:00 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2034345",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -132,6 +110,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2035253",
+    "Name": "Marcy Kalata",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "SAS Renewal",
+    "Status": "Completed",
+    "Date": "12/10",
+    "Time": "1:00 PM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2034259",
     "Name": "Shehjina Patel",
     "Assignee": "Any Student Tech",
@@ -140,6 +129,17 @@
     "Status": "Completed",
     "Date": "12/10",
     "Time": "2:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2036198",
+    "Name": "Marcy Kalata",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with Outlook",
+    "Status": "Completed",
+    "Date": "12/10",
+    "Time": "4:00 PM",
     "Day": "Wednesday"
   }
 ]
