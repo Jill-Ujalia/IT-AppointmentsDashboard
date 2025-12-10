@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2035249",
-    "Name": "Marvel He",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "SAS Renewal",
-    "Status": "In Progress",
-    "Date": "12/10",
-    "Time": "9:00 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -41,6 +30,17 @@
     "Status": "",
     "Date": "12/10",
     "Time": "2:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2036198",
+    "Name": "Marcy Kalata",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Help with Outlook",
+    "Status": "",
+    "Date": "12/10",
+    "Time": "4:00 PM",
     "Day": "Wednesday"
   },
   {
@@ -119,6 +119,17 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2035249",
+    "Name": "Marvel He",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "SAS Renewal",
+    "Status": "Completed",
+    "Date": "12/10",
+    "Time": "9:00 AM",
+    "Day": "Wednesday"
   },
   {
     "Ticket": "2034802",
