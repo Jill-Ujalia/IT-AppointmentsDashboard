@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2035249",
+    "Name": "Marvel He",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "SAS Renewal",
+    "Status": "In Progress",
+    "Date": "12/10",
+    "Time": "9:00 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -9,28 +20,6 @@
     "Date": "12/5",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2032591",
-    "Name": "Mary Kopale",
-    "Assignee": "Closer",
-    "Room": "134-1",
-    "Task": "Poll Everywhere Testing",
-    "Status": "",
-    "Date": "12/9",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2035249",
-    "Name": "Marvel He",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "SAS Renewal",
-    "Status": "",
-    "Date": "12/10",
-    "Time": "9:00 AM",
-    "Day": "Wednesday"
   },
   {
     "Ticket": "2035253",
@@ -130,5 +119,16 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2034802",
+    "Name": "Emily Hoffman",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Installing Citation Manager",
+    "Status": "Completed",
+    "Date": "12/10",
+    "Time": "10:00 AM",
+    "Day": "Wednesday"
   }
 ]
