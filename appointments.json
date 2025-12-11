@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2038340",
+    "Name": "Erin Carson",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Install PollEverywhere",
+    "Status": "Delayed",
+    "Date": "12/11",
+    "Time": "1:00 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "1973518",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
@@ -19,17 +30,6 @@
     "Status": "",
     "Date": "12/11",
     "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2038340",
-    "Name": "Erin Carson",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Install PollEverywhere",
-    "Status": "",
-    "Date": "12/11",
-    "Time": "1:00 PM",
     "Day": "Thursday"
   },
   {
