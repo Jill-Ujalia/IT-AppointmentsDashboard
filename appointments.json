@@ -22,6 +22,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2038340",
+    "Name": "Erin Carson",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Install PollEverywhere",
+    "Status": "",
+    "Date": "12/11",
+    "Time": "1:00 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2020874",
     "Name": "Shudhita Singh",
     "Assignee": "Any Student Tech",
@@ -86,60 +97,5 @@
     "Date": "",
     "Time": "",
     "Day": ""
-  },
-  {
-    "Ticket": "2035249",
-    "Name": "Marvel He",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "SAS Renewal",
-    "Status": "Completed",
-    "Date": "12/10",
-    "Time": "9:00 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2034802",
-    "Name": "Emily Hoffman",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Installing Citation Manager",
-    "Status": "Completed",
-    "Date": "12/10",
-    "Time": "10:00 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2035253",
-    "Name": "Marcy Kalata",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "SAS Renewal",
-    "Status": "Completed",
-    "Date": "12/10",
-    "Time": "1:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2034259",
-    "Name": "Shehjina Patel",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Loaner Laptop Drop Off (Red/Teal)",
-    "Status": "Completed",
-    "Date": "12/10",
-    "Time": "2:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2036198",
-    "Name": "Marcy Kalata",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Help with Outlook",
-    "Status": "Completed",
-    "Date": "12/10",
-    "Time": "4:00 PM",
-    "Day": "Wednesday"
   }
 ]
