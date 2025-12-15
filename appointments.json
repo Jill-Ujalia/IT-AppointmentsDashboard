@@ -42,16 +42,5 @@
     "Date": "1/9",
     "Time": "10:30 AM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2022202",
-    "Name": "Marcy Kalata",
-    "Assignee": "Any Student Tech",
-    "Room": "184E6",
-    "Task": "Run Windows and driver updates (see ticket)",
-    "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
   }
 ]
