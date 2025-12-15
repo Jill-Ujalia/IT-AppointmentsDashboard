@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2042015",
-    "Name": "Vitor Lourenzon",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Verify he is clearing the cache on their browser correctly",
-    "Status": "In Progress",
-    "Date": "12/15/2025",
-    "Time": "1:00 PM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2027341",
     "Name": "Judith Prince",
     "Assignee": "Closer",
@@ -64,5 +53,16 @@
     "Date": "1/9/2026",
     "Time": "10:30 AM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2042015",
+    "Name": "Vitor Lourenzon",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Verify he is clearing the cache on their browser correctly",
+    "Status": "Completed",
+    "Date": "12/15/2025",
+    "Time": "1:00 PM",
+    "Day": "Monday"
   }
 ]
