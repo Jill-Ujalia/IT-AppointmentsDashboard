@@ -11,6 +11,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "2044549",
+    "Name": "Charles McPherson",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Laptop Loan - Yellow Brown",
+    "Status": "",
+    "Date": "12/16/2025",
+    "Time": "5:00 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2036640",
     "Name": "Rosalyn Vellurattil",
     "Assignee": "Any Student Tech",
@@ -64,16 +75,5 @@
     "Date": "",
     "Time": "",
     "Day": ""
-  },
-  {
-    "Ticket": "2042015",
-    "Name": "Vitor Lourenzon",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Verify he is clearing the cache on their browser correctly",
-    "Status": "Completed",
-    "Date": "12/15/2025",
-    "Time": "1:00 PM",
-    "Day": "Monday"
   }
 ]
