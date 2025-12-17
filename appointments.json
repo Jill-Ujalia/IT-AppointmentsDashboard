@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2036640",
-    "Name": "Rosalyn Vellurattil",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "In Progress",
-    "Date": "12/17/2025",
-    "Time": "9:00 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2045043",
     "Name": "Osei Omoike",
     "Assignee": "Jill & Ansh",
@@ -64,5 +53,16 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2036640",
+    "Name": "Rosalyn Vellurattil",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "Completed",
+    "Date": "12/17/2025",
+    "Time": "9:00 AM",
+    "Day": "Wednesday"
   }
 ]
