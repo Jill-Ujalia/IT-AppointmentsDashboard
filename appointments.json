@@ -1,22 +1,11 @@
 [
   {
-    "Ticket": "2035241",
-    "Name": "Dale Rush",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "SAS Renewal",
-    "Status": "In Progress",
-    "Date": "12/17/2025",
-    "Time": "12:15 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "1954378",
     "Name": "Dan Dicesare",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "PharmD Interviews",
-    "Status": "",
+    "Status": "In Progress",
     "Date": "12/17/2025",
     "Time": "12:30 PM",
     "Day": "Wednesday"
@@ -24,7 +13,7 @@
   {
     "Ticket": "2045043",
     "Name": "Osei Omoike",
-    "Assignee": "Jill & Ansh",
+    "Assignee": "Any Student Tech",
     "Room": "B32",
     "Task": "Help with Team Meeting Setup",
     "Status": "",
@@ -63,6 +52,17 @@
     "Status": "Completed",
     "Date": "12/17/2025",
     "Time": "9:00 AM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2035241",
+    "Name": "Dale Rush",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "SAS Renewal",
+    "Status": "Completed",
+    "Date": "12/17/2025",
+    "Time": "12:15 PM",
     "Day": "Wednesday"
   }
 ]
