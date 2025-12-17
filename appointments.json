@@ -11,28 +11,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2027341",
-    "Name": "Judith Prince",
-    "Assignee": "Closer",
-    "Room": "134-1",
-    "Task": "Make sure that 134-1 is left open",
-    "Status": "",
-    "Date": "12/16/2025",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2044549",
-    "Name": "Charles McPherson",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Laptop Loan - Yellow Brown",
-    "Status": "",
-    "Date": "12/16/2025",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2035241",
     "Name": "Dale Rush",
     "Assignee": "Any Student Tech",
