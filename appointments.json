@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "1954378",
-    "Name": "Dan Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "In Progress",
-    "Date": "12/17/2025",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2045043",
     "Name": "Osei Omoike",
     "Assignee": "Any Student Tech",
@@ -63,6 +52,17 @@
     "Status": "Completed",
     "Date": "12/17/2025",
     "Time": "12:15 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "1954378",
+    "Name": "Dan Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "12/17/2025",
+    "Time": "12:30 PM",
     "Day": "Wednesday"
   }
 ]
