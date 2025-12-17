@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2045043",
-    "Name": "Osei Omoike",
-    "Assignee": "Jill & Ansh",
-    "Room": "B32",
-    "Task": "Help with Team Meeting Setup",
-    "Status": "Delayed",
-    "Date": "12/17/2025",
-    "Time": "11:45 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2035241",
     "Name": "Dale Rush",
     "Assignee": "Any Student Tech",
@@ -31,6 +20,17 @@
     "Date": "12/17/2025",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2045043",
+    "Name": "Osei Omoike",
+    "Assignee": "Jill & Ansh",
+    "Room": "B32",
+    "Task": "Help with Team Meeting Setup",
+    "Status": "",
+    "Date": "12/18/2025",
+    "Time": "11:45 AM",
+    "Day": "Thursday"
   },
   {
     "Ticket": "2035261",
