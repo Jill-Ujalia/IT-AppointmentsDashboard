@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2040294",
+    "Name": "Jorge Santana",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "",
+    "Date": "12/19/2025",
+    "Time": "1:30 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
@@ -20,16 +31,5 @@
     "Date": "1/30/2026",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2045043",
-    "Name": "Osei Omoike",
-    "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Help with Team Meeting Setup",
-    "Status": "Completed",
-    "Date": "12/18/2025",
-    "Time": "11:45 AM",
-    "Day": "Thursday"
   }
 ]
