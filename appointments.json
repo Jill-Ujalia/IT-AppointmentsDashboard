@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2040294",
-    "Name": "Jorge Santana",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "",
-    "Date": "12/22/2025",
-    "Time": "1:30 PM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2051828",
     "Name": "Ruchi Roy",
     "Assignee": "Any Student Tech",
@@ -42,5 +31,16 @@
     "Date": "1/30/2026",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2040294",
+    "Name": "Jorge Santana",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "Completed",
+    "Date": "12/22/2025",
+    "Time": "1:30 PM",
+    "Day": "Monday"
   }
 ]
