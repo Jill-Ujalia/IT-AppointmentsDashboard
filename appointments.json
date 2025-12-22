@@ -11,6 +11,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2051828",
+    "Name": "Ruchi Roy",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Assist with reinstalling python and other utlities they requested(check ticket)",
+    "Status": "",
+    "Date": "12/22/2025",
+    "Time": "3:10 PM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
