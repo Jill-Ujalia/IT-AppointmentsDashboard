@@ -11,6 +11,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2042141",
+    "Name": "Varanya Chaiyaperm",
+    "Assignee": "Any Student Tech",
+    "Room": "241A",
+    "Task": "Install PC back into her office and bring back the loaner laptop",
+    "Status": "",
+    "Date": "12/23/2025",
+    "Time": "10:30 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
