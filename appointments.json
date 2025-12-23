@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2042141",
+    "Name": "Varanya Chaiyaperm",
+    "Assignee": "Any Student Tech",
+    "Room": "241A",
+    "Task": "Install PC back into her office and bring back the loaner laptop",
+    "Status": "Delayed",
+    "Date": "12/23/2025",
+    "Time": "10:30 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2051828",
     "Name": "Ruchi Roy",
     "Assignee": "Any Student Tech",
@@ -9,17 +20,6 @@
     "Date": "12/22/2025",
     "Time": "3:10 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2042141",
-    "Name": "Varanya Chaiyaperm",
-    "Assignee": "Any Student Tech",
-    "Room": "241A",
-    "Task": "Install PC back into her office and bring back the loaner laptop",
-    "Status": "",
-    "Date": "12/23/2025",
-    "Time": "10:30 AM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "2035261",
@@ -42,16 +42,5 @@
     "Date": "1/30/2026",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2040294",
-    "Name": "Jorge Santana",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Post-NCS",
-    "Status": "Completed",
-    "Date": "12/22/2025",
-    "Time": "1:30 PM",
-    "Day": "Monday"
   }
 ]
