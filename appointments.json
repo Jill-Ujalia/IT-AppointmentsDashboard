@@ -11,6 +11,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2055822",
+    "Name": "Ruchi Roy",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote ",
+    "Task": "Install VS Code and the C++ module for it.",
+    "Status": "",
+    "Date": "1/6/2026",
+    "Time": "9:30 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
