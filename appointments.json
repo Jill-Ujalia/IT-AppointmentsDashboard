@@ -11,6 +11,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2058885",
+    "Name": "Adriana Zimnicka",
+    "Assignee": "Gabe",
+    "Room": "Remote ",
+    "Task": "Install 7-Zip and Update SnapGene",
+    "Status": "",
+    "Date": "1/5/2026",
+    "Time": "11:00 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2055822",
     "Name": "Ruchi Roy",
     "Assignee": "Any Student Tech",
