@@ -6,19 +6,8 @@
     "Room": "241A",
     "Task": "Install PC back into her office and bring back the loaner laptop",
     "Status": "Delayed",
-    "Date": "1/5'; \n      //  /2026",
+    "Date": "1/5",
     "Time": "10:30 PM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "2058885",
-    "Name": "Adriana Zimnicka",
-    "Assignee": "Gabe",
-    "Room": "Remote ",
-    "Task": "Install 7-Zip and Update SnapGene",
-    "Status": "In Progress",
-    "Date": "1/5'; \n      //  /2026",
-    "Time": "11:00 AM",
     "Day": "Monday"
   },
   {
@@ -28,7 +17,7 @@
     "Room": "Remote ",
     "Task": "Install VS Code and the C++ module for it.",
     "Status": "",
-    "Date": "1/6'; \n      //  /2026",
+    "Date": "1/6",
     "Time": "9:30 AM",
     "Day": "Tuesday"
   },
@@ -39,20 +28,9 @@
     "Room": "2N",
     "Task": "IT Support for Residency Teaching Program",
     "Status": "",
-    "Date": "1/7'; \n      //  /2026",
+    "Date": "1/7",
     "Time": "2:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2032949",
-    "Name": "",
-    "Assignee": "",
-    "Room": "",
-    "Task": "",
-    "Status": "",
-    "Date": "1/8'; \n      //  /2026",
-    "Time": "9:00 AM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2035261",
@@ -61,7 +39,7 @@
     "Room": "Remote ",
     "Task": "SAS Renewal",
     "Status": "",
-    "Date": "1/9'; \n      //  /2026",
+    "Date": "1/9",
     "Time": "10:30 AM",
     "Day": "Friday"
   },
@@ -72,8 +50,19 @@
     "Room": "ITU",
     "Task": "Return Purple Loaner Laptop",
     "Status": "",
-    "Date": "1/30'; \n      //  /2026",
+    "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2058885",
+    "Name": "Adriana Zimnicka",
+    "Assignee": "Gabe",
+    "Room": "Remote ",
+    "Task": "Install 7-Zip and Update SnapGene",
+    "Status": "Completed",
+    "Date": "1/5",
+    "Time": "11:00 AM",
+    "Day": "Monday"
   }
 ]
