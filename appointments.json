@@ -5,7 +5,7 @@
     "Assignee": "Any Student Tech",
     "Room": "241A",
     "Task": "Install PC back into her office and bring back the loaner laptop",
-    "Status": "",
+    "Status": "Delayed",
     "Date": "1/5/2026",
     "Time": "10:30 AM",
     "Day": "Monday"
@@ -42,6 +42,17 @@
     "Date": "1/7/2026",
     "Time": "2:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2032949",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "1/8/2026",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
   },
   {
     "Ticket": "2035261",
