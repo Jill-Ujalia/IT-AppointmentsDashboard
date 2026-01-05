@@ -22,6 +22,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "2042351",
+    "Name": "Brianna Hudak",
+    "Assignee": "Any Student Tech",
+    "Room": "2N",
+    "Task": "IT Support for Residency Teaching Program",
+    "Status": "",
+    "Date": "1/7/2026",
+    "Time": "2:30 PM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
