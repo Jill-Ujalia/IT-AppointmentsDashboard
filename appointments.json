@@ -6,7 +6,7 @@
     "Room": "241A",
     "Task": "Install PC back into her office and bring back the loaner laptop",
     "Status": "Delayed",
-    "Date": "1/5'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "10:30 PM",
     "Day": "Monday"
   },
@@ -17,7 +17,7 @@
     "Room": "Remote ",
     "Task": "Install 7-Zip and Update SnapGene",
     "Status": "",
-    "Date": "1/5'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "11:00 AM",
     "Day": "Monday"
   },
@@ -28,7 +28,7 @@
     "Room": "Remote ",
     "Task": "Install VS Code and the C++ module for it.",
     "Status": "",
-    "Date": "1/6'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "9:30 AM",
     "Day": "Tuesday"
   },
@@ -39,7 +39,7 @@
     "Room": "2N",
     "Task": "IT Support for Residency Teaching Program",
     "Status": "",
-    "Date": "1/7'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "2:30 PM",
     "Day": "Wednesday"
   },
@@ -50,7 +50,7 @@
     "Room": "",
     "Task": "",
     "Status": "",
-    "Date": "1/8'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "9:00 AM",
     "Day": "Thursday"
   },
@@ -61,7 +61,7 @@
     "Room": "Remote ",
     "Task": "SAS Renewal",
     "Status": "",
-    "Date": "1/9'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "10:30 AM",
     "Day": "Friday"
   },
@@ -72,7 +72,7 @@
     "Room": "ITU",
     "Task": "Return Purple Loaner Laptop",
     "Status": "",
-    "Date": "1/30'; \n      //  /2026",
+    "Date": "${d.getUTCMonth() + 1}/${d.getUTCDate()}",
     "Time": "5:00 PM",
     "Day": "Friday"
   }
