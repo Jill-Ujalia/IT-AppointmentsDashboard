@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2042141",
-    "Name": "Alex Pon",
-    "Assignee": "Any Student Tech",
-    "Room": "241A",
-    "Task": "Install PC back into her office and bring back the loaner laptop",
-    "Status": "",
-    "Date": "1/5/2026",
-    "Time": "10:30 AM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2058885",
     "Name": "Adriana Zimnicka",
     "Assignee": "Gabe",
@@ -75,5 +64,16 @@
     "Date": "1/30/2026",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "Any Student Tech",
+    "Room": "241A",
+    "Task": "Install PC back into her office and bring back the loaner laptop",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
   }
 ]
