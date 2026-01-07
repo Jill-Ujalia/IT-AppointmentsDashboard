@@ -1,27 +1,5 @@
 [
   {
-    "Ticket": "2042351",
-    "Name": "Brianna Hudak",
-    "Assignee": "Any Student Tech",
-    "Room": "2N",
-    "Task": "IT Support for Residency Teaching Program",
-    "Status": "In Progress",
-    "Date": "1/7",
-    "Time": "2:15 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2046491",
-    "Name": "Mya Fegaras",
-    "Assignee": "Any Student Tech",
-    "Room": "360",
-    "Task": "Troubleshoot ethernet ports",
-    "Status": "In Progress",
-    "Date": "1/7",
-    "Time": "3:30 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
@@ -44,6 +22,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2042351",
+    "Name": "Brianna Hudak",
+    "Assignee": "Jill & Ansh",
+    "Room": "2N",
+    "Task": "IT Support for Residency Teaching Program",
+    "Status": "Completed",
+    "Date": "1/7",
+    "Time": "2:15 PM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2063178",
     "Name": "Lynley Heinrich",
     "Assignee": "Any Student Tech",
@@ -52,6 +41,17 @@
     "Status": "Completed",
     "Date": "1/7",
     "Time": "3:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2046491",
+    "Name": "Mya Fegaras",
+    "Assignee": "Rainn & Ansh",
+    "Room": "360",
+    "Task": "Troubleshoot ethernet ports",
+    "Status": "Completed",
+    "Date": "1/7",
+    "Time": "3:30 PM",
     "Day": "Wednesday"
   }
 ]
