@@ -11,17 +11,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2063178",
-    "Name": "Lynley Heinrich",
-    "Assignee": "Any Student Tech",
-    "Room": "CSB 348",
-    "Task": "Monitor Issues",
-    "Status": "In Progress",
-    "Date": "1/7",
-    "Time": "3:00 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2046491",
     "Name": "Mya Fegaras",
     "Assignee": "Any Student Tech",
@@ -53,5 +42,16 @@
     "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2063178",
+    "Name": "Lynley Heinrich",
+    "Assignee": "Any Student Tech",
+    "Room": "CSB 348",
+    "Task": "Monitor Issues",
+    "Status": "Completed",
+    "Date": "1/7",
+    "Time": "3:00 PM",
+    "Day": "Wednesday"
   }
 ]
