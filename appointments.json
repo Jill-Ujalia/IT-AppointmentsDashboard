@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2055822",
-    "Name": "Ruchi Roy",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "Install VS Code and the C++ module for it.",
-    "Status": "In Progress",
-    "Date": "1/6",
-    "Time": "9:30 AM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2042351",
     "Name": "Brianna Hudak",
     "Assignee": "Any Student Tech",
@@ -19,6 +8,28 @@
     "Status": "",
     "Date": "1/7",
     "Time": "2:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2063178",
+    "Name": "Lynley Heinrich",
+    "Assignee": "Any Student Tech",
+    "Room": "CSB 348",
+    "Task": "Monitor Issues",
+    "Status": "",
+    "Date": "1/7",
+    "Time": "3:00 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2046491",
+    "Name": "Mya Fegaras",
+    "Assignee": "Any Student Tech",
+    "Room": "360",
+    "Task": "Troubleshoot ethernet ports",
+    "Status": "",
+    "Date": "1/7",
+    "Time": "3:30 PM",
     "Day": "Wednesday"
   },
   {
