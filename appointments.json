@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2042141",
-    "Name": "Varanya Chaiyaperm",
-    "Assignee": "Any Student Tech",
-    "Room": "241A",
-    "Task": "Install PC back into her office and bring back the loaner laptop",
-    "Status": "In Progress",
-    "Date": "1/8",
-    "Time": "11:30 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2043216",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
@@ -20,5 +9,16 @@
     "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2042141",
+    "Name": "Varanya Chaiyaperm",
+    "Assignee": "Any Student Tech",
+    "Room": "241A",
+    "Task": "Install PC back into her office and bring back the loaner laptop",
+    "Status": "Completed",
+    "Date": "1/8",
+    "Time": "11:30 AM",
+    "Day": "Thursday"
   }
 ]
