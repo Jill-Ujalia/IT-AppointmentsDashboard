@@ -1,14 +1,14 @@
 [
   {
-    "Ticket": "2035261",
-    "Name": "Ingrid Brauer",
+    "Ticket": "2042141",
+    "Name": "Varanya Chaiyaperm",
     "Assignee": "Any Student Tech",
-    "Room": "Remote ",
-    "Task": "SAS Renewal",
+    "Room": "241A",
+    "Task": "Install PC back into her office and bring back the loaner laptop",
     "Status": "",
-    "Date": "1/9",
-    "Time": "10:30 AM",
-    "Day": "Friday"
+    "Date": "1/8",
+    "Time": "11:30 AM",
+    "Day": "Thursday"
   },
   {
     "Ticket": "2043216",
@@ -20,38 +20,5 @@
     "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2042351",
-    "Name": "Brianna Hudak",
-    "Assignee": "Jill & Ansh",
-    "Room": "2N",
-    "Task": "IT Support for Residency Teaching Program",
-    "Status": "Completed",
-    "Date": "1/7",
-    "Time": "2:15 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2063178",
-    "Name": "Lynley Heinrich",
-    "Assignee": "Jill",
-    "Room": "CSB 348",
-    "Task": "Monitor Issues",
-    "Status": "Completed",
-    "Date": "1/7",
-    "Time": "3:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2046491",
-    "Name": "Mya Fegaras",
-    "Assignee": "Rainn & Ansh",
-    "Room": "360",
-    "Task": "Troubleshoot ethernet ports",
-    "Status": "Completed",
-    "Date": "1/7",
-    "Time": "3:30 PM",
-    "Day": "Wednesday"
   }
 ]
