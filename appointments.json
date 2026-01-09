@@ -22,6 +22,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2035261",
+    "Name": "Ingrid Brauer",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update to Windows 11",
+    "Status": "",
+    "Date": "1/23",
+    "Time": "10:30 AM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2043216",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
