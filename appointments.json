@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2067576",
-    "Name": "Jeffrey Mucksavage",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "COP Studio Reservation Request",
-    "Status": "In Progress",
-    "Date": "1/9",
-    "Time": "11:15 AM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2035261",
     "Name": "Ingrid Brauer",
     "Assignee": "Jill",
@@ -52,6 +41,17 @@
     "Status": "",
     "Date": "1/30",
     "Time": "5:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "2067576",
+    "Name": "Jeffrey Mucksavage",
+    "Assignee": "Any Student Tech",
+    "Room": "Recording Studio",
+    "Task": "COP Studio Reservation Request",
+    "Status": "Completed",
+    "Date": "1/9",
+    "Time": "11:15 AM",
     "Day": "Friday"
   }
 ]
