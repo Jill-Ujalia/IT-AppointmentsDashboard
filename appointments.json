@@ -11,10 +11,21 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2067063",
+    "Name": "Valsa Abraham",
+    "Assignee": "Any Student Tech",
+    "Room": "431",
+    "Task": "Drop off the scrubbed PC",
+    "Status": "",
+    "Date": "1/12",
+    "Time": "10:00 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "1843592",
     "Name": "Elie Abi Khalil",
     "Assignee": "Any Student Tech",
-    "Room": "333",
+    "Room": "Remote",
     "Task": "Check for eligible software updates via a remote session",
     "Status": "",
     "Date": "1/12",
