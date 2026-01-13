@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2073493",
+    "Name": "Andrew Fish",
+    "Assignee": "Any Student Tech",
+    "Room": "184J",
+    "Task": "Troubleshoot outlook app not opening",
+    "Status": "In Progress",
+    "Date": "1/13",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2067063",
     "Name": "Valsa Abraham",
     "Assignee": "Any Student Tech",
@@ -9,17 +20,6 @@
     "Date": "1/12",
     "Time": "10:00 AM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2073493",
-    "Name": "Andrew Fish",
-    "Assignee": "Any Student Tech",
-    "Room": "184J",
-    "Task": "Troubleshoot outlook app not opening",
-    "Status": "",
-    "Date": "1/13",
-    "Time": "10:00 AM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "2068715",
