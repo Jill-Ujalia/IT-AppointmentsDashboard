@@ -11,6 +11,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2074061",
+    "Name": "Deb Fox",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Assistance with 2N Walls",
+    "Status": "",
+    "Date": "1/13",
+    "Time": "12:25 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2068715",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
