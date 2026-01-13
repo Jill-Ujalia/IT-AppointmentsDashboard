@@ -22,6 +22,28 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "",
+    "Name": "",
+    "Assignee": "",
+    "Room": "",
+    "Task": "",
+    "Status": "",
+    "Date": "1/13",
+    "Time": "12:00 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2073493",
+    "Name": "Andrew Fish",
+    "Assignee": "Any Student Tech",
+    "Room": "184J",
+    "Task": "Troubleshoot outlook app not opening",
+    "Status": "",
+    "Date": "1/13",
+    "Time": "10:00 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2068715",
     "Name": "Ingrid Brauer",
     "Assignee": "Any Student Tech",
@@ -41,28 +63,6 @@
     "Status": "",
     "Date": "1/30",
     "Time": "5:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2067576",
-    "Name": "Jeffrey Mucksavage",
-    "Assignee": "Any Student Tech",
-    "Room": "Recording Studio",
-    "Task": "COP Studio Reservation Request",
-    "Status": "Completed",
-    "Date": "1/9",
-    "Time": "11:15 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2035261",
-    "Name": "Ingrid Brauer",
-    "Assignee": "Jill",
-    "Room": "Remote",
-    "Task": "SAS Renewal",
-    "Status": "Completed",
-    "Date": "1/9",
-    "Time": "12:30 PM",
     "Day": "Friday"
   }
 ]
