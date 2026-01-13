@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2074061",
+    "Name": "Deb Fox",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Assistance with 2N Walls",
+    "Status": "In Progress",
+    "Date": "1/13",
+    "Time": "12:25 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2067063",
     "Name": "Valsa Abraham",
     "Assignee": "Any Student Tech",
@@ -9,17 +20,6 @@
     "Date": "1/12",
     "Time": "10:00 AM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2074061",
-    "Name": "Deb Fox",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Assistance with 2N Walls",
-    "Status": "",
-    "Date": "1/13",
-    "Time": "12:25 PM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "2073388",
