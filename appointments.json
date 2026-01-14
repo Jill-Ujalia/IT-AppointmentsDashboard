@@ -5,10 +5,21 @@
     "Assignee": "Any Student Tech",
     "Room": "431",
     "Task": "Drop off the scrubbed PC",
-    "Status": "In Progress",
+    "Status": "",
     "Date": "1/12",
     "Time": "10:00 AM",
     "Day": "Monday"
+  },
+  {
+    "Ticket": "2076686",
+    "Name": "Angeline Mancilla",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Charger Loan",
+    "Status": "",
+    "Date": "1/14",
+    "Time": "5:00 PM",
+    "Day": "Wednesday"
   },
   {
     "Ticket": "2073388",
@@ -42,27 +53,5 @@
     "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2073493",
-    "Name": "Andrew Fish",
-    "Assignee": "Any Student Tech",
-    "Room": "184J",
-    "Task": "Troubleshoot outlook app not opening",
-    "Status": "Completed",
-    "Date": "1/13",
-    "Time": "10:00 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2074061",
-    "Name": "Deb Fox",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Assistance with 2N Walls",
-    "Status": "Completed",
-    "Date": "1/13",
-    "Time": "12:25 PM",
-    "Day": "Tuesday"
   }
 ]
