@@ -22,14 +22,14 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2077896",
-    "Name": "Lindsey McQuade",
-    "Assignee": "Rainn",
-    "Room": "Remote",
-    "Task": "Troubleshoot Zoom Update Issue",
+    "Ticket": "2079918",
+    "Name": "Rolando Perez",
+    "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "AV Assistance With Event",
     "Status": "",
     "Date": "1/15",
-    "Time": "2:00 PM",
+    "Time": "9:45 AM",
     "Day": "Thursday"
   },
   {
@@ -86,5 +86,16 @@
     "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2077896",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Rainn",
+    "Room": "Remote",
+    "Task": "Troubleshoot Zoom Update Issue",
+    "Status": "Completed",
+    "Date": "1/15",
+    "Time": "2:00 PM",
+    "Day": "Thursday"
   }
 ]
