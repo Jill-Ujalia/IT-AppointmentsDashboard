@@ -22,6 +22,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2077896",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Rainn",
+    "Room": "Remote",
+    "Task": "Troubleshoot Zoom Update Issue",
+    "Status": "",
+    "Date": "1/15",
+    "Time": "2:00 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2073388",
     "Name": "Beatrice Drambarean",
     "Assignee": "Any Student Tech",
