@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2081389",
+    "Name": "Pearl Craig",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "NVivo Installation On Office Computer",
+    "Status": "Delayed",
+    "Date": "1/16",
+    "Time": "2:30 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2067063",
     "Name": "Valsa Abraham",
     "Assignee": "Any Student Tech",
@@ -20,17 +31,6 @@
     "Date": "1/12",
     "Time": "10:00 AM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2081389",
-    "Name": "Pearl Craig",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "NVivo Installation On Office Computer",
-    "Status": "",
-    "Date": "1/16",
-    "Time": "2:30 PM",
-    "Day": "Friday"
   },
   {
     "Ticket": "2073388",
