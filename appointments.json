@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2078784",
+    "Name": "Jyotirmoy Sarker",
+    "Assignee": "Gabe",
+    "Room": "Remote",
+    "Task": "SAS Renewal",
+    "Status": "Delayed",
+    "Date": "1/15",
+    "Time": "6:00 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2067063",
     "Name": "Valsa Abraham",
     "Assignee": "Any Student Tech",
@@ -9,28 +20,6 @@
     "Date": "1/12",
     "Time": "10:00 AM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2079122",
-    "Name": "Enas Horeish",
-    "Assignee": "Any Student Tech ",
-    "Room": "ITU",
-    "Task": "Red Laptop Reloan ",
-    "Status": "",
-    "Date": "1/15",
-    "Time": "3:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2078784",
-    "Name": "Jyotirmoy Sarker",
-    "Assignee": "Gabe",
-    "Room": "Remote",
-    "Task": "SAS Renewal",
-    "Status": "",
-    "Date": "1/15",
-    "Time": "6:00 PM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2073388",
@@ -64,27 +53,5 @@
     "Date": "1/30",
     "Time": "5:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2079918",
-    "Name": "Rolando Perez",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "AV Assistance With Event",
-    "Status": "Completed",
-    "Date": "1/15",
-    "Time": "9:45 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2077896",
-    "Name": "Lindsey McQuade",
-    "Assignee": "Rainn",
-    "Room": "Remote",
-    "Task": "Troubleshoot Zoom Update Issue",
-    "Status": "Completed",
-    "Date": "1/15",
-    "Time": "2:00 PM",
-    "Day": "Thursday"
   }
 ]
