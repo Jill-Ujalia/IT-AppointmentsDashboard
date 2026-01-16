@@ -44,6 +44,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2063756",
+    "Name": "Pablo Pardo",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Lecture AV Assistance",
+    "Status": "",
+    "Date": "1/30",
+    "Time": "12:15 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2043216",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
