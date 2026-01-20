@@ -22,6 +22,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "2086367",
+    "Name": "Mohammad Al Numan",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install Citrix Workspace",
+    "Status": "",
+    "Date": "1/21",
+    "Time": "11:30 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2081807",
     "Name": "Xueye Yan",
     "Assignee": "Tony",
