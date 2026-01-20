@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2073388",
-    "Name": "Beatrice Drambarean",
-    "Assignee": "Any Student Tech",
-    "Room": "134",
-    "Task": "Resident Seminar AV Request 134-1",
-    "Status": "In Progress",
-    "Date": "1/20",
-    "Time": "12:20 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2067063",
     "Name": "Valsa Abraham",
     "Assignee": "Any Student Tech",
@@ -119,5 +108,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2073388",
+    "Name": "Beatrice Drambarean",
+    "Assignee": "Any Student Tech",
+    "Room": "134",
+    "Task": "Resident Seminar AV Request 134-1",
+    "Status": "Completed",
+    "Date": "1/20",
+    "Time": "12:20 PM",
+    "Day": "Tuesday"
   }
 ]
