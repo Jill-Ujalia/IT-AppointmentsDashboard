@@ -44,6 +44,28 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2090988",
+    "Name": "Ashanti Roberts",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Red/Yellow Laptop Return + Wireless Mouse",
+    "Status": "",
+    "Date": "1/26",
+    "Time": "5:00 PM",
+    "Day": "Monday"
+  },
+  {
+    "Ticket": "2063756",
+    "Name": "Pablo Pardo",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Lecture AV Assistance",
+    "Status": "",
+    "Date": "1/26",
+    "Time": "7:30 PM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2082519",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -53,17 +75,6 @@
     "Date": "1/28",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2063756",
-    "Name": "Pablo Pardo",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Lecture AV Assistance",
-    "Status": "",
-    "Date": "1/30",
-    "Time": "12:15 PM",
-    "Day": "Friday"
   },
   {
     "Ticket": "2043216",
@@ -129,17 +140,6 @@
     "Status": "",
     "Date": "2/25",
     "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2086367",
-    "Name": "Mohammad Al Numan",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install Citrix Workspace",
-    "Status": "Completed",
-    "Date": "1/21",
-    "Time": "11:30 AM",
     "Day": "Wednesday"
   }
 ]
