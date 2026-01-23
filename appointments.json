@@ -11,17 +11,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2068715",
-    "Name": "Ingrid Brauer",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update to Windows 11",
-    "Status": "",
-    "Date": "1/23",
-    "Time": "3:00 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2089579",
     "Name": "Tsering Tashi/Sweta Misra",
     "Assignee": "Any Student Tech",
@@ -130,5 +119,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2068715",
+    "Name": "Ingrid Brauer",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update to Windows 11",
+    "Status": "Completed",
+    "Date": "1/23",
+    "Time": "3:00 PM",
+    "Day": "Friday"
   }
 ]
