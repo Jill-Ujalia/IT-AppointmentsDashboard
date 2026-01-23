@@ -1,38 +1,5 @@
 [
   {
-    "Ticket": "2085368",
-    "Name": "Heather Ipema",
-    "Assignee": "Any Student Tech",
-    "Room": "B32/36",
-    "Task": "Examsoft Support (15mins)",
-    "Status": "In Progress",
-    "Date": "1/22",
-    "Time": "1:25 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2081807",
-    "Name": "Xueye Yan",
-    "Assignee": "Tony",
-    "Room": "Remote",
-    "Task": "PSOP User Add",
-    "Status": "",
-    "Date": "1/21",
-    "Time": "2:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2068715",
-    "Name": "Ingrid Brauer",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update to Windows 11",
-    "Status": "",
-    "Date": "1/23",
-    "Time": "10:30 AM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -42,6 +9,28 @@
     "Date": "1/23",
     "Time": "12:30 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2068715",
+    "Name": "Ingrid Brauer",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update to Windows 11",
+    "Status": "",
+    "Date": "1/23",
+    "Time": "3:00 PM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "2089579",
+    "Name": "Tsering Tashi/Sweta Misra",
+    "Assignee": "Any Student Tech",
+    "Room": "482",
+    "Task": "Reinstall PC in 482",
+    "Status": "",
+    "Date": "1/26",
+    "Time": "11:30 AM",
+    "Day": "Monday"
   },
   {
     "Ticket": "2090988",
