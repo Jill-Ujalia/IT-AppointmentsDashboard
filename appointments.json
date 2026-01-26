@@ -11,17 +11,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2096692",
-    "Name": "Ruchi Roy",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Installing R/R Studio ",
-    "Status": "",
-    "Date": "1/26",
-    "Time": "8:30 AM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2096402",
     "Name": "John Nitiss",
     "Assignee": "Rainn",
@@ -42,6 +31,17 @@
     "Date": "1/26",
     "Time": "7:30 PM",
     "Day": "Monday"
+  },
+  {
+    "Ticket": "2096692",
+    "Name": "Ruchi Roy",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Installing R/R Studio ",
+    "Status": "",
+    "Date": "1/27",
+    "Time": "8:30 AM",
+    "Day": "Tuesday"
   },
   {
     "Ticket": "2082519",
