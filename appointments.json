@@ -11,6 +11,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2096402",
+    "Name": "John Nitiss",
+    "Assignee": "Rainn",
+    "Room": "111",
+    "Task": "Ensure Connection to E311",
+    "Status": "",
+    "Date": "1/26",
+    "Time": "2:20 PM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2063756",
     "Name": "Pablo Pardo",
     "Assignee": "Any Student Tech",
