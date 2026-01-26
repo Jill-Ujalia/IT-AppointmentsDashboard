@@ -11,28 +11,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2089579",
-    "Name": "Tsering Tashi/Sweta Misra",
-    "Assignee": "Any Student Tech",
-    "Room": "482",
-    "Task": "Reinstall PC in 482",
-    "Status": "",
-    "Date": "1/26",
-    "Time": "11:30 AM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "2090988",
-    "Name": "Ashanti Roberts",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Red/Yellow Laptop Return + Wireless Mouse",
-    "Status": "",
-    "Date": "1/26",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2063756",
     "Name": "Pablo Pardo",
     "Assignee": "Any Student Tech",
@@ -121,14 +99,25 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2068715",
-    "Name": "Ingrid Brauer",
+    "Ticket": "2089579",
+    "Name": "Tsering Tashi/Sweta Misra",
     "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update to Windows 11",
+    "Room": "482",
+    "Task": "Reinstall PC in 482",
     "Status": "Completed",
-    "Date": "1/23",
-    "Time": "3:00 PM",
-    "Day": "Friday"
+    "Date": "1/26",
+    "Time": "11:30 AM",
+    "Day": "Monday"
+  },
+  {
+    "Ticket": "2090988",
+    "Name": "Ashanti Roberts",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Red/Yellow Laptop Return + Wireless Mouse",
+    "Status": "Completed",
+    "Date": "1/26",
+    "Time": "5:00 PM",
+    "Day": "Monday"
   }
 ]
