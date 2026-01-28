@@ -22,17 +22,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "1843592",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Phone Call",
-    "Status": "",
-    "Date": "1/28",
-    "Time": "11:00 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2082519",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -42,6 +31,17 @@
     "Date": "1/28",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "1843592",
+    "Name": "Elie Abi Khalil",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Phone Call",
+    "Status": "",
+    "Date": "1/29",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
   },
   {
     "Ticket": "2063756",
