@@ -11,17 +11,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "2082519",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "1/28",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "1843592",
     "Name": "Elie Abi Khalil",
     "Assignee": "Any Student Tech",
@@ -106,6 +95,17 @@
     "Task": "PharmD Interviews",
     "Status": "",
     "Date": "2/25",
+    "Time": "12:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2082519",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "1/28",
     "Time": "12:30 PM",
     "Day": "Wednesday"
   }
