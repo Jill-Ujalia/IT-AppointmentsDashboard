@@ -33,6 +33,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2063756",
+    "Name": "Pablo Pardo",
+    "Assignee": "Any Student Tech",
+    "Room": "111",
+    "Task": "Podium Training",
+    "Status": "",
+    "Date": "1/29",
+    "Time": "2:00 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2043216",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
@@ -97,16 +108,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2096692",
-    "Name": "Ruchi Roy",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Installing R/R Studio ",
-    "Status": "Completed",
-    "Date": "1/27",
-    "Time": "8:30 AM",
-    "Day": "Tuesday"
   }
 ]
