@@ -11,17 +11,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "2102977",
-    "Name": "Ashanti Roberts",
-    "Assignee": "Any Student Tech",
-    "Room": "154",
-    "Task": "Microsoft 365 Assistance",
-    "Status": "",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "1843592",
     "Name": "Elie Abi Khalil",
     "Assignee": "Any Student Tech",
@@ -41,6 +30,17 @@
     "Status": "",
     "Date": "1/29",
     "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2102977",
+    "Name": "Ashanti Roberts",
+    "Assignee": "Any Student Tech",
+    "Room": "154",
+    "Task": "Microsoft 365 Assistance",
+    "Status": "",
+    "Date": "1/29",
+    "Time": "11:10 AM",
     "Day": "Thursday"
   },
   {
