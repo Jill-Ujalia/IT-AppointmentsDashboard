@@ -1,27 +1,5 @@
 [
   {
-    "Ticket": "2085457",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Call user and obtain personal device details. Link for personal device form is in ticket",
-    "Status": "",
-    "Date": "1/29",
-    "Time": "1:40 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2063756",
-    "Name": "Pablo Pardo",
-    "Assignee": "Any Student Tech",
-    "Room": "111",
-    "Task": "Podium Training",
-    "Status": "",
-    "Date": "1/29",
-    "Time": "2:00 PM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2103580",
     "Name": "Hilary Lien",
     "Assignee": "Any Student Tech",
@@ -151,6 +129,28 @@
     "Status": "Completed",
     "Date": "1/29",
     "Time": "11:15 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2085457",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Call user and obtain personal device details. Link for personal device form is in ticket",
+    "Status": "Completed",
+    "Date": "1/29",
+    "Time": "1:40 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2063756",
+    "Name": "Pablo Pardo",
+    "Assignee": "Any Student Tech",
+    "Room": "111",
+    "Task": "Podium Training",
+    "Status": "Completed",
+    "Date": "1/29",
+    "Time": "2:00 PM",
     "Day": "Thursday"
   }
 ]
