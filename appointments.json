@@ -11,6 +11,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2102977",
+    "Name": "Ashanti Roberts",
+    "Assignee": "Any Student Tech",
+    "Room": "154",
+    "Task": "Microsoft 365 Assistance",
+    "Status": "",
+    "Date": "1/29",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "1843592",
     "Name": "Elie Abi Khalil",
     "Assignee": "Any Student Tech",
@@ -106,17 +117,6 @@
     "Task": "PharmD Interviews",
     "Status": "",
     "Date": "2/25",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2082519",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "1/28",
     "Time": "12:30 PM",
     "Day": "Wednesday"
   }
