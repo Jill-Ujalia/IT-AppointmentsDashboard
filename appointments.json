@@ -1,27 +1,5 @@
 [
   {
-    "Ticket": "2075196",
-    "Name": "Joseph Pitock",
-    "Assignee": "Josh",
-    "Room": "365",
-    "Task": "PC Install",
-    "Status": "In Progress",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2102977",
-    "Name": "Ashanti Roberts",
-    "Assignee": "Tony",
-    "Room": "154",
-    "Task": "Microsoft 365 Assistance",
-    "Status": "In Progress",
-    "Date": "1/29",
-    "Time": "11:15 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2085457",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -143,6 +121,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2075196",
+    "Name": "Joseph Pitock",
+    "Assignee": "Josh",
+    "Room": "365",
+    "Task": "PC Install",
+    "Status": "Completed",
+    "Date": "1/29",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "1843592",
     "Name": "Elie Abi Khalil",
     "Assignee": "Gaukhar",
@@ -151,6 +140,17 @@
     "Status": "Completed",
     "Date": "1/29",
     "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2102977",
+    "Name": "Ashanti Roberts",
+    "Assignee": "Tony",
+    "Room": "154",
+    "Task": "Microsoft 365 Assistance",
+    "Status": "Completed",
+    "Date": "1/29",
+    "Time": "11:15 AM",
     "Day": "Thursday"
   }
 ]
