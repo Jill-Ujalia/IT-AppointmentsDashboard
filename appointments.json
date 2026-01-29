@@ -1,5 +1,27 @@
 [
   {
+    "Ticket": "1843592",
+    "Name": "Elie Abi Khalil",
+    "Assignee": "Gaukhar",
+    "Room": "ITU",
+    "Task": "Phone Call",
+    "Status": "In Progress",
+    "Date": "1/29",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2075196",
+    "Name": "Joseph Pitock",
+    "Assignee": "Josh",
+    "Room": "365",
+    "Task": "PC Install",
+    "Status": "In Progress",
+    "Date": "1/29",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2063756",
     "Name": "Pablo Pardo",
     "Assignee": "Any Student Tech",
@@ -9,28 +31,6 @@
     "Date": "1/26",
     "Time": "7:30 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "1843592",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Phone Call",
-    "Status": "",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2075196",
-    "Name": "Joseph Pitock",
-    "Assignee": "Any Student Tech",
-    "Room": "365",
-    "Task": "PC Install",
-    "Status": "",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2102977",
