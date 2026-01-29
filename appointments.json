@@ -22,6 +22,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2085457",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Call user and obtain personal device details. Link for personal device form is in ticket",
+    "Status": "",
+    "Date": "1/29",
+    "Time": "1:40 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2063756",
     "Name": "Pablo Pardo",
     "Assignee": "Any Student Tech",
