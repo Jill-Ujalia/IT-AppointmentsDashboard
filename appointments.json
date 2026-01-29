@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "1843592",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "Gaukhar",
-    "Room": "ITU",
-    "Task": "Phone Call",
-    "Status": "In Progress",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2075196",
     "Name": "Joseph Pitock",
     "Assignee": "Josh",
@@ -130,5 +119,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "1843592",
+    "Name": "Elie Abi Khalil",
+    "Assignee": "Gaukhar",
+    "Room": "ITU",
+    "Task": "Phone Call",
+    "Status": "Completed",
+    "Date": "1/29",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
   }
 ]
