@@ -22,6 +22,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2036671",
+    "Name": "Kibum Kim",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Post-NCS",
+    "Status": "",
+    "Date": "1/30",
+    "Time": "5:00 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2043216",
     "Name": "Ibrahim Warsi",
     "Assignee": "Any Student Tech",
