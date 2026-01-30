@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2085457",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Call user and obtain personal device details. Link for personal device form is in ticket",
+    "Status": "",
+    "Date": "1/30",
+    "Time": "8:30 AM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2063756",
     "Name": "Pablo Pardo",
     "Assignee": "Any Student Tech",
@@ -86,71 +97,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2075196",
-    "Name": "Joseph Pitock",
-    "Assignee": "Josh",
-    "Room": "365",
-    "Task": "PC Install",
-    "Status": "Completed",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "1843592",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "Gaukhar",
-    "Room": "ITU",
-    "Task": "Phone Call",
-    "Status": "Completed",
-    "Date": "1/29",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2102977",
-    "Name": "Ashanti Roberts",
-    "Assignee": "Tony",
-    "Room": "154",
-    "Task": "Microsoft 365 Assistance",
-    "Status": "Completed",
-    "Date": "1/29",
-    "Time": "11:15 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2085457",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Call user and obtain personal device details. Link for personal device form is in ticket",
-    "Status": "Completed",
-    "Date": "1/29",
-    "Time": "1:40 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2063756",
-    "Name": "Pablo Pardo",
-    "Assignee": "Any Student Tech",
-    "Room": "111",
-    "Task": "Podium Training",
-    "Status": "Completed",
-    "Date": "1/29",
-    "Time": "2:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2103580",
-    "Name": "Hilary Lien",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Renew SAS",
-    "Status": "Completed",
-    "Date": "1/29",
-    "Time": "3:00 PM",
-    "Day": "Thursday"
   }
 ]
