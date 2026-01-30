@@ -11,17 +11,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "1843592",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "LM",
-    "Room": "Remote",
-    "Task": "Update PC to Windows 11",
-    "Status": "",
-    "Date": "1/30",
-    "Time": "5:00 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2036671",
     "Name": "Kibum Kim",
     "Assignee": "Any Student Tech",
@@ -129,6 +118,17 @@
     "Status": "Completed",
     "Date": "1/30",
     "Time": "12:15 PM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "1843592",
+    "Name": "Elie Abi Khalil",
+    "Assignee": "LM",
+    "Room": "Remote",
+    "Task": "Update PC to Windows 11",
+    "Status": "Completed",
+    "Date": "1/30",
+    "Time": "5:00 PM",
     "Day": "Friday"
   }
 ]
