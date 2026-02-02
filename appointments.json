@@ -33,6 +33,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2106246",
+    "Name": "Alessandra Eustaquio",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install Turning Point",
+    "Status": "",
+    "Date": "2/2",
+    "Time": "12:00 PM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2083875",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -97,38 +108,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2085457",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Call user and obtain personal device details. Link for personal device form is in ticket",
-    "Status": "Completed",
-    "Date": "1/30",
-    "Time": "8:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2063756",
-    "Name": "Pablo Pardo",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Lecture AV Assistance",
-    "Status": "Completed",
-    "Date": "1/30",
-    "Time": "12:15 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "1843592",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "LM",
-    "Room": "Remote",
-    "Task": "Update PC to Windows 11",
-    "Status": "Completed",
-    "Date": "1/30",
-    "Time": "5:00 PM",
-    "Day": "Friday"
   }
 ]
