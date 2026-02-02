@@ -110,6 +110,17 @@
     "Day": "Wednesday"
   },
   {
+    "Ticket": "2083875",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "NVivo Installation",
+    "Status": "Completed",
+    "Date": "2/2",
+    "Time": "9:00 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2106246",
     "Name": "Alessandra Eustaquio",
     "Assignee": "Any Student Tech",
