@@ -33,17 +33,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2083875",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "NVivo Installation",
-    "Status": "",
-    "Date": "2/2",
-    "Time": "2:00 PM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2108454",
     "Name": " Xueye Yan",
     "Assignee": "Any Student Tech",
@@ -110,17 +99,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2083875",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "NVivo Installation",
-    "Status": "Completed",
-    "Date": "2/2",
-    "Time": "9:00 AM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2106246",
     "Name": "Alessandra Eustaquio",
     "Assignee": "Any Student Tech",
@@ -129,6 +107,17 @@
     "Status": "Completed",
     "Date": "2/2",
     "Time": "12:00 PM",
+    "Day": "Monday"
+  },
+  {
+    "Ticket": "2083875",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "NVivo Installation",
+    "Status": "Completed",
+    "Date": "2/2",
+    "Time": "2:00 PM",
     "Day": "Monday"
   }
 ]
