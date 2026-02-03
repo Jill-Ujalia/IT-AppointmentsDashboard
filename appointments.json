@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2108454",
-    "Name": "Xueye Yan",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "SAS ",
-    "Status": "In Progress",
-    "Date": "2/3",
-    "Time": "9:00 AM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2103014",
     "Name": "Victory Ike",
     "Assignee": "Any Student Tech",
@@ -97,5 +86,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2108454",
+    "Name": "Xueye Yan",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "SAS ",
+    "Status": "Completed",
+    "Date": "2/3",
+    "Time": "9:00 AM",
+    "Day": "Tuesday"
   }
 ]
