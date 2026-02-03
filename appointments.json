@@ -34,7 +34,7 @@
   },
   {
     "Ticket": "2108454",
-    "Name": " Xueye Yan",
+    "Name": "Xueye Yan",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "SAS ",
@@ -97,27 +97,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2106246",
-    "Name": "Alessandra Eustaquio",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install Turning Point",
-    "Status": "Completed",
-    "Date": "2/2",
-    "Time": "12:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "2083875",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "NVivo Installation",
-    "Status": "Completed",
-    "Date": "2/2",
-    "Time": "2:00 PM",
-    "Day": "Monday"
   }
 ]
