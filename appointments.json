@@ -11,6 +11,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2116652",
+    "Name": "Surrey Walton",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update EndNote on Client's Work Computer",
+    "Status": "",
+    "Date": "2/6",
+    "Time": "2:00 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2085368",
     "Name": "Heather Ipema",
     "Assignee": "Any Student Tech",
@@ -42,27 +53,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2085368",
-    "Name": "Heather Ipema",
-    "Assignee": "Any Student Tech",
-    "Room": "B32/36",
-    "Task": "Examsoft Support (15mins)",
-    "Status": "Completed",
-    "Date": "2/5",
-    "Time": "1:25 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2112726",
-    "Name": "Jasmeen Kaur",
-    "Assignee": "Tony",
-    "Room": "Remote",
-    "Task": "Phone Call for Remote Access",
-    "Status": "Completed",
-    "Date": "2/5",
-    "Time": "4:00 PM",
-    "Day": "Thursday"
   }
 ]
