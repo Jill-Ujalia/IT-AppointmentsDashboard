@@ -1,22 +1,11 @@
 [
   {
-    "Ticket": "2082520",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "2/6",
-    "Time": "12:30 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2116652",
     "Name": "Surrey Walton",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Update EndNote on Client's Work Computer",
-    "Status": "",
+    "Status": "In Progress",
     "Date": "2/6",
     "Time": "2:00 PM",
     "Day": "Friday"
@@ -53,5 +42,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2082520",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "2/6",
+    "Time": "12:30 PM",
+    "Day": "Friday"
   }
 ]
