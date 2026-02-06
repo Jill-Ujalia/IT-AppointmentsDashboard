@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2116652",
-    "Name": "Surrey Walton",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update EndNote on Client's Work Computer",
-    "Status": "In Progress",
-    "Date": "2/6",
-    "Time": "2:00 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2085368",
     "Name": "Heather Ipema",
     "Assignee": "Any Student Tech",
@@ -52,6 +41,17 @@
     "Status": "Completed",
     "Date": "2/6",
     "Time": "12:30 PM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "2116652",
+    "Name": "Surrey Walton",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update EndNote on Client's Work Computer",
+    "Status": "Completed",
+    "Date": "2/6",
+    "Time": "2:00 PM",
     "Day": "Friday"
   }
 ]
