@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2117951",
+    "Name": "Taylor Huang",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install EndNote",
+    "Status": "",
+    "Date": "2/9",
+    "Time": "4:30 PM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2085368",
     "Name": "Heather Ipema",
     "Assignee": "Any Student Tech",
@@ -31,27 +42,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2082520",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "2/6",
-    "Time": "12:30 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2116652",
-    "Name": "Surrey Walton",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update EndNote on Client's Work Computer",
-    "Status": "Completed",
-    "Date": "2/6",
-    "Time": "2:00 PM",
-    "Day": "Friday"
   }
 ]
