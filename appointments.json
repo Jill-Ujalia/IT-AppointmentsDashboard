@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2098835",
+    "Name": "Annika Pickard",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install NVIVO",
+    "Status": "",
+    "Date": "2/20",
+    "Time": "9:00 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2117951",
     "Name": "Taylor Huang",
     "Assignee": "Any Student Tech",
@@ -42,16 +53,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2098835",
-    "Name": "Annika Pickard",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install NVIVO",
-    "Status": "",
-    "Date": "",
-    "Time": "",
-    "Day": ""
   }
 ]
