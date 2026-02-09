@@ -8,18 +8,7 @@
     "Status": "",
     "Date": "2/10",
     "Time": "9:00 AM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "2117951",
-    "Name": "Taylor Huang",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install EndNote",
-    "Status": "",
-    "Date": "2/9",
-    "Time": "4:30 PM",
-    "Day": "Monday"
+    "Day": "Tuesday"
   },
   {
     "Ticket": "2085368",
@@ -53,5 +42,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2117951",
+    "Name": "Taylor Huang",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install EndNote",
+    "Status": "Completed",
+    "Date": "2/9",
+    "Time": "4:30 PM",
+    "Day": "Monday"
   }
 ]
