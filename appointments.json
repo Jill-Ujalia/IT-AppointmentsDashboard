@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2118729",
-    "Name": "Alexander Mankin",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Help export outlook data to local storage",
-    "Status": "In Progress",
-    "Date": "2/10",
-    "Time": "1:00 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2085368",
     "Name": "Heather Ipema",
     "Assignee": "Any Student Tech",
@@ -63,6 +52,17 @@
     "Status": "Completed",
     "Date": "2/10",
     "Time": "9:00 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2118729",
+    "Name": "Alexander Mankin",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Help export outlook data to local storage",
+    "Status": "Completed",
+    "Date": "2/10",
+    "Time": "1:00 PM",
     "Day": "Tuesday"
   }
 ]
