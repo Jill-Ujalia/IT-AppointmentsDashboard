@@ -53,16 +53,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2123076",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Downloading Rstudio on lab desktop",
-    "Status": "Completed",
-    "Date": "2/11",
-    "Time": "1:00 PM",
-    "Day": "Wednesday"
   }
 ]
