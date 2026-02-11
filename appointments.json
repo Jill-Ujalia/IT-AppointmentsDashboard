@@ -44,25 +44,14 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2098835",
-    "Name": "Annika Pickard",
+    "Ticket": "2123076",
+    "Name": "Elie Abi Khalil",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
-    "Task": "Install NVIVO",
-    "Status": "Completed",
-    "Date": "2/10",
-    "Time": "9:00 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2118729",
-    "Name": "Alexander Mankin",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Help export outlook data to local storage",
-    "Status": "Completed",
-    "Date": "2/10",
-    "Time": "1:00 PM",
-    "Day": "Tuesday"
+    "Task": "Downloading Rstudio on lab desktop",
+    "Status": "",
+    "Date": "",
+    "Time": "",
+    "Day": ""
   }
 ]
