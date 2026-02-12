@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2119469",
-    "Name": "Hilary Lien",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Complete uninstall of Box Sync on Client's Office Desktop",
-    "Status": "In Progress",
-    "Date": "2/12",
-    "Time": "11:30 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2125134",
     "Name": "Maryanne Aguanunu",
     "Assignee": "Any Student Tech",
@@ -85,6 +74,17 @@
     "Status": "Completed",
     "Date": "2/12",
     "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2119469",
+    "Name": "Hilary Lien",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Complete uninstall of Box Sync on Client's Office Desktop",
+    "Status": "Completed",
+    "Date": "2/12",
+    "Time": "11:30 AM",
     "Day": "Thursday"
   },
   {
