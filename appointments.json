@@ -1,27 +1,5 @@
 [
   {
-    "Ticket": "2123863",
-    "Name": "Kathy Cleary",
-    "Assignee": "Any (1-2) Student Techs",
-    "Room": "PSOP 281C",
-    "Task": "Remove all computers in office",
-    "Status": "",
-    "Date": "2/12",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2125159",
-    "Name": "Selin Sonmez",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Purple/Green Loaner Drop Off",
-    "Status": "",
-    "Date": "2/12",
-    "Time": "11:30 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2119469",
     "Name": "Hilary Lien",
     "Assignee": "Any Student Tech",
@@ -86,5 +64,27 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2123863",
+    "Name": "Kathy Cleary",
+    "Assignee": "Any (1-2) Student Techs",
+    "Room": "PSOP 281C",
+    "Task": "Remove all computers in office",
+    "Status": "Completed",
+    "Date": "2/12",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2125159",
+    "Name": "Selin Sonmez",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Purple/Green Loaner Drop Off",
+    "Status": "Completed",
+    "Date": "2/12",
+    "Time": "11:30 AM",
+    "Day": "Thursday"
   }
 ]
