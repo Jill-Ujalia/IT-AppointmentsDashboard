@@ -33,8 +33,19 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2125442",
+    "Name": "Alex Sainvilier",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Purple/Green Loaner Drop Off",
+    "Status": "",
+    "Date": "2/12",
+    "Time": "3:00 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2036671",
-    "Name": "Kibum Kim",
+    "Name": "",
     "Assignee": "Any Student Tech",
     "Room": "ITU",
     "Task": "Data transfer",
