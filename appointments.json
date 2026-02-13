@@ -22,17 +22,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2036671",
-    "Name": "Kibum Kim",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Data transfer",
-    "Status": "",
-    "Date": "2/13",
-    "Time": "8:00 AM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2082521",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -55,47 +44,14 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2123863",
-    "Name": "Kathy Cleary",
-    "Assignee": "Any (1-2) Student Techs",
-    "Room": "PSOP 281C",
-    "Task": "Remove all computers in office",
-    "Status": "Completed",
-    "Date": "2/12",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2119469",
-    "Name": "Hilary Lien",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Complete uninstall of Box Sync on Client's Office Desktop",
-    "Status": "Completed",
-    "Date": "2/12",
-    "Time": "11:30 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2125159",
-    "Name": "Selin Sonmez",
+    "Ticket": "2036671",
+    "Name": "Kibum Kim",
     "Assignee": "Any Student Tech",
     "Room": "ITU",
-    "Task": "Purple/Green Loaner Drop Off",
+    "Task": "Data transfer",
     "Status": "Completed",
-    "Date": "2/12",
-    "Time": "11:30 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2085368",
-    "Name": "Heather Ipema",
-    "Assignee": "Any Student Tech",
-    "Room": "B32/36",
-    "Task": "Examsoft Support (15mins)",
-    "Status": "Completed",
-    "Date": "2/12",
-    "Time": "1:25 PM",
-    "Day": "Thursday"
+    "Date": "2/13",
+    "Time": "8:00 AM",
+    "Day": "Friday"
   }
 ]
