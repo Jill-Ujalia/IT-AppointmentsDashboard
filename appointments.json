@@ -33,6 +33,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2130004",
+    "Name": "Alison Reeve'",
+    "Assignee": "Any Student Tech",
+    "Room": "111",
+    "Task": "Hybrid Panel",
+    "Status": "",
+    "Date": "2/20",
+    "Time": "12:20 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2082521",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -40,7 +51,7 @@
     "Task": "PharmD Interviews",
     "Status": "",
     "Date": "2/20",
-    "Time": "12:30 PM",
+    "Time": "12:20 PM",
     "Day": "Friday"
   },
   {
@@ -53,16 +64,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2036671",
-    "Name": "Kibum Kim",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Data transfer",
-    "Status": "Completed",
-    "Date": "2/13",
-    "Time": "8:00 AM",
-    "Day": "Friday"
   }
 ]
