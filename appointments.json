@@ -44,6 +44,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2133791",
+    "Name": "Sherry Krsticevic",
+    "Assignee": "Any Student Tech",
+    "Room": "B32",
+    "Task": "Assist setting up laptop for the event ",
+    "Status": "",
+    "Date": "2/22",
+    "Time": "11:00 PM",
+    "Day": "Sunday"
+  },
+  {
     "Ticket": "2082522",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -53,16 +64,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2124419",
-    "Name": "Dongshin Yang",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3318",
-    "Task": "Troubleshoot PC (Won't Boot)",
-    "Status": "Completed",
-    "Date": "2/16",
-    "Time": "3:00 PM",
-    "Day": "Monday"
   }
 ]
