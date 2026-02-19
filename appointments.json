@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2133674",
+    "Name": "Mary Kopale",
+    "Assignee": "Any Student Tech",
+    "Room": "184A",
+    "Task": "Update Adobe Acrobat",
+    "Status": "In Progress",
+    "Date": "2/19",
+    "Time": "11:00 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2125442",
     "Name": "Alex Sainvilier",
     "Assignee": "Any Student Tech",
@@ -8,17 +19,6 @@
     "Status": "",
     "Date": "2/12",
     "Time": "3:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2133674",
-    "Name": "Mary Kopale",
-    "Assignee": "Any Student Tech",
-    "Room": "184A",
-    "Task": "Update Adobe Acrobat",
-    "Status": "",
-    "Date": "2/19",
-    "Time": "11:00 AM",
     "Day": "Thursday"
   },
   {
