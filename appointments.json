@@ -22,17 +22,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2082521",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "",
-    "Date": "2/20",
-    "Time": "12:30 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2036671",
     "Name": "Kibum Kim",
     "Assignee": "Any Student Tech",
@@ -74,6 +63,17 @@
     "Status": "Completed",
     "Date": "2/20",
     "Time": "12:20 PM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "2082521",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "PharmD Interviews",
+    "Status": "Completed",
+    "Date": "2/20",
+    "Time": "12:30 PM",
     "Day": "Friday"
   }
 ]
