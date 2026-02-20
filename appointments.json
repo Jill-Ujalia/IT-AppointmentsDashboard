@@ -44,6 +44,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2036671",
+    "Name": "Kibum Kim",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Initiate Remote session to install printer driver and install and activate Endnote. Check and see if his Mplus license arrived for his laptop. If not, no worries",
+    "Status": "",
+    "Date": "2/20",
+    "Time": "4:30 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2133791",
     "Name": "Sherry Krsticevic",
     "Assignee": "Any Student Tech",
@@ -64,38 +75,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2133674",
-    "Name": "Mary Kopale",
-    "Assignee": "Any Student Tech",
-    "Room": "184A",
-    "Task": "Update Adobe Acrobat",
-    "Status": "Completed",
-    "Date": "2/19",
-    "Time": "11:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2124419",
-    "Name": "Dongshin Yang",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3318",
-    "Task": "Desktop Pickup",
-    "Status": "Completed",
-    "Date": "2/19",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2046491",
-    "Name": "Mya Fegaras",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Ethernet Ports Not Connected to Internet",
-    "Status": "Completed",
-    "Date": "2/19",
-    "Time": "4:00 PM",
-    "Day": "Thursday"
   }
 ]
