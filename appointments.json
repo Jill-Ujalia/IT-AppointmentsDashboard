@@ -22,17 +22,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2130004",
-    "Name": "Alison Reeve'",
-    "Assignee": "Any Student Tech",
-    "Room": "111",
-    "Task": "Hybrid Panel",
-    "Status": "",
-    "Date": "2/20",
-    "Time": "12:20 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2082521",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -75,5 +64,16 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2130004",
+    "Name": "Alison Reeve'",
+    "Assignee": "Any Student Tech",
+    "Room": "111",
+    "Task": "Hybrid Panel",
+    "Status": "Completed",
+    "Date": "2/20",
+    "Time": "12:20 PM",
+    "Day": "Friday"
   }
 ]
