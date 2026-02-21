@@ -22,17 +22,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2036671",
-    "Name": "Kibum Kim",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Initiate Remote session to install printer driver and install and activate Endnote. Check and see if his Mplus license arrived for his laptop. If not, no worries",
-    "Status": "",
-    "Date": "2/20",
-    "Time": "4:30 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2133791",
     "Name": "Sherry Krsticevic",
     "Assignee": "Any Student Tech",
@@ -53,27 +42,5 @@
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2130004",
-    "Name": "Alison Reeve'",
-    "Assignee": "Any Student Tech",
-    "Room": "111",
-    "Task": "Hybrid Panel",
-    "Status": "Completed",
-    "Date": "2/20",
-    "Time": "12:20 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2082521",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "2/20",
-    "Time": "12:30 PM",
-    "Day": "Friday"
   }
 ]
