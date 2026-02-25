@@ -27,20 +27,9 @@
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "PharmD Interviews",
-    "Status": "",
+    "Status": "Completed",
     "Date": "2/25",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2133791",
-    "Name": "Sherry Krsticevic",
-    "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Assist setting up laptop for the event ",
-    "Status": "Completed",
-    "Date": "2/24",
-    "Time": "11:15 AM",
-    "Day": "Tuesday"
   }
 ]
