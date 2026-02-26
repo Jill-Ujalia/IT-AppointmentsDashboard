@@ -22,14 +22,14 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2082522",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "PharmD Interviews",
-    "Status": "Completed",
-    "Date": "2/25",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
+    "Ticket": "",
+    "Name": "Jill",
+    "Assignee": "Himanshu",
+    "Room": "134-1",
+    "Task": "Test wifi 3 Times using a loaner laptop",
+    "Status": "",
+    "Date": "2/26",
+    "Time": "9:30 AM",
+    "Day": "Thursday"
   }
 ]
