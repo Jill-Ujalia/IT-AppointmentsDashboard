@@ -14,6 +14,17 @@
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "2/26",
+    "Time": "1:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
     "Room": "134-1",
     "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
     "Status": "",
