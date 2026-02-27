@@ -11,17 +11,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B32/B36",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "2/27",
-    "Time": "1:20 PM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2127650",
     "Name": "Valsa Abraham/Mallique Qader",
     "Assignee": "Gabe",
@@ -52,6 +41,17 @@
     "Status": "",
     "Date": "3/4",
     "Time": "11:30 AM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2148256",
+    "Name": "Jamie Benken",
+    "Assignee": "Any Student Tech",
+    "Room": "B8",
+    "Task": "Assist with setting up wireless mic and clicker",
+    "Status": "",
+    "Date": "3/4",
+    "Time": "1:25 PM",
     "Day": "Wednesday"
   },
   {
@@ -129,6 +129,17 @@
     "Status": "Completed",
     "Date": "2/27",
     "Time": "11:30 AM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "B32/B36",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "2/27",
+    "Time": "1:20 PM",
     "Day": "Friday"
   }
 ]
