@@ -14,50 +14,6 @@
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "2/26",
-    "Time": "1:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "2/27",
-    "Time": "8:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "2North",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "2/27",
-    "Time": "9:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "2/27",
-    "Time": "11:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
     "Room": "B32/B36",
     "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
     "Status": "",
@@ -130,5 +86,38 @@
     "Date": "3/10",
     "Time": "1:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "2/27",
+    "Time": "8:30 AM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "2North",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "2/27",
+    "Time": "9:30 AM",
+    "Day": "Friday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "B32",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "2/27",
+    "Time": "11:30 AM",
+    "Day": "Friday"
   }
 ]
