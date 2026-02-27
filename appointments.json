@@ -22,6 +22,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2127650",
+    "Name": "Valsa Abraham/Mallique Qader",
+    "Assignee": "Gabe",
+    "Room": "ITR",
+    "Task": "Setup Conference Room PC",
+    "Status": "",
+    "Date": "2/27",
+    "Time": "2:00 PM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2142810",
     "Name": "Rob Didomenico",
     "Assignee": "Any Student Tech",
