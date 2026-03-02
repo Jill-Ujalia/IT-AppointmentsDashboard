@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2082524",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
+    "Status": "",
+    "Date": "1/2",
+    "Time": "12:30 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2142810",
     "Name": "Rob Didomenico",
     "Assignee": "Any Student Tech",
@@ -88,58 +99,36 @@
     "Day": "Tuesday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
+    "Ticket": "2082524",
+    "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "2/27",
-    "Time": "8:30 AM",
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
+    "Status": "",
+    "Date": "3/12",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2082524",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
+    "Status": "",
+    "Date": "3/20",
+    "Time": "12:30 PM",
     "Day": "Friday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
+    "Ticket": "2082524",
+    "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
-    "Room": "2North",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "2/27",
-    "Time": "9:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B32",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "2/27",
-    "Time": "11:30 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B32/B36",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "2/27",
-    "Time": "1:20 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2127650",
-    "Name": "Valsa Abraham/Mallique Qader",
-    "Assignee": "Gabe",
-    "Room": "412B",
-    "Task": "Setup Conference Room PC",
-    "Status": "Completed",
-    "Date": "2/27",
-    "Time": "2:00 PM",
-    "Day": "Friday"
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
+    "Status": "",
+    "Date": "3/23",
+    "Time": "12:30 PM",
+    "Day": "Monday"
   }
 ]
