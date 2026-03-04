@@ -44,6 +44,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2148256",
+    "Name": "Marcin",
+    "Assignee": "Any Student Tech",
+    "Room": "B8",
+    "Task": "Please fully test Lav clip on mic; Mic sometimes does not work",
+    "Status": "",
+    "Date": "3/5",
+    "Time": "10:00 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2151281",
     "Name": "Enrique Moreno",
     "Assignee": "Any Student Tech",
