@@ -163,16 +163,5 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2148256",
-    "Name": "Marcin",
-    "Assignee": "Any Student Tech",
-    "Room": "B8",
-    "Task": "Please fully test Lav clip on mic; Mic sometimes does not work",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "10:00 AM",
-    "Day": "Thursday"
   }
 ]
