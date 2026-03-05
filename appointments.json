@@ -44,17 +44,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2156159",
-    "Name": "Jin Han",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Update Zoom",
-    "Status": "",
-    "Date": "3/4",
-    "Time": "12:00 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2142810",
     "Name": "Rob Didomenico",
     "Assignee": "Any Student Tech",
@@ -74,6 +63,17 @@
     "Status": "",
     "Date": "3/5",
     "Time": "11:35 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2156159",
+    "Name": "Jin Han",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Update Zoom",
+    "Status": "",
+    "Date": "3/5",
+    "Time": "12:00 PM",
     "Day": "Thursday"
   },
   {
