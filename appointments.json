@@ -157,17 +157,6 @@
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "10:35 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
     "Room": "134-2",
     "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
     "Status": "Completed",
