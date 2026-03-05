@@ -44,17 +44,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2148256",
-    "Name": "Marcin",
-    "Assignee": "Any Student Tech",
-    "Room": "B8",
-    "Task": "Please fully test Lav clip on mic; Mic sometimes does not work",
-    "Status": "",
-    "Date": "3/5",
-    "Time": "10:00 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2151281",
     "Name": "Enrique Moreno",
     "Assignee": "Any Student Tech",
@@ -176,36 +165,14 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/4",
-    "Time": "8:35 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2148256",
-    "Name": "Jamie Benken",
+    "Name": "Marcin",
     "Assignee": "Any Student Tech",
     "Room": "B8",
-    "Task": "Assist with setting up wireless mic and clicker",
+    "Task": "Please fully test Lav clip on mic; Mic sometimes does not work",
     "Status": "Completed",
-    "Date": "3/4",
-    "Time": "1:25 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/4",
-    "Time": "1:35 PM",
-    "Day": "Wednesday"
+    "Date": "3/5",
+    "Time": "10:00 AM",
+    "Day": "Thursday"
   }
 ]
