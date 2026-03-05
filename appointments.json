@@ -33,17 +33,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2144135",
-    "Name": "Alcina Tejada",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Connect 134-2 to E210",
-    "Status": "",
-    "Date": "3/5",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
@@ -162,6 +151,17 @@
     "Status": "Completed",
     "Date": "3/5",
     "Time": "11:35 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2144135",
+    "Name": "Alcina Tejada",
+    "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Connect 134-2 to E210",
+    "Status": "Completed",
+    "Date": "3/5",
+    "Time": "12:30 PM",
     "Day": "Thursday"
   }
 ]
