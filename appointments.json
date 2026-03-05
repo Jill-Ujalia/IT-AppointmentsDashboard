@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2156540",
+    "Name": "Pearl Craig",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "NVIVO Troubleshooting",
+    "Status": "",
+    "Date": "3/6",
+    "Time": "10:00 AM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2142810",
     "Name": "Rob Didomenico",
     "Assignee": "Any Student Tech",
