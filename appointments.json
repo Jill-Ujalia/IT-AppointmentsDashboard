@@ -14,28 +14,6 @@
     "Ticket": "2142810",
     "Name": "Rob Didomenico",
     "Assignee": "Any Student Tech",
-    "Room": "2North",
-    "Task": "Assist making sure that Poll Everywhere is working when starting presentation",
-    "Status": "",
-    "Date": "3/4",
-    "Time": "1:30 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/5",
-    "Time": "1:35 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2142810",
-    "Name": "Rob Didomenico",
-    "Assignee": "Any Student Tech",
     "Room": "B36",
     "Task": "Assist making sure that Poll Everywhere is working when starting presentation",
     "Status": "",
@@ -162,6 +140,17 @@
     "Status": "Completed",
     "Date": "3/5",
     "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "3/5",
+    "Time": "1:35 PM",
     "Day": "Thursday"
   }
 ]
