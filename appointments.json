@@ -11,17 +11,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "2156540",
-    "Name": "Pearl Craig",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "NVIVO Troubleshooting",
-    "Status": "",
-    "Date": "3/6",
-    "Time": "10:00 AM",
-    "Day": "Friday"
-  },
-  {
     "Ticket": "2149700",
     "Name": "Mohammad Al Numan",
     "Assignee": "Any Student Tech",
@@ -88,91 +77,14 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "8:35 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "9:35 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2151281",
-    "Name": "Enrique Moreno",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3074",
-    "Task": "Take at a look at room setup and test connection to projector",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "10:30 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "10:40 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "11:35 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2156159",
-    "Name": "Jin Han",
+    "Ticket": "2156540",
+    "Name": "Pearl Craig",
     "Assignee": "Any Student Tech",
     "Room": "Remote",
-    "Task": "Update Zoom",
+    "Task": "NVIVO Troubleshooting",
     "Status": "Completed",
-    "Date": "3/5",
-    "Time": "12:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2144135",
-    "Name": "Alcina Tejada",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Connect 134-2 to E210",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/5",
-    "Time": "1:35 PM",
-    "Day": "Thursday"
+    "Date": "3/6",
+    "Time": "10:00 AM",
+    "Day": "Friday"
   }
 ]
