@@ -55,17 +55,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "2149460",
-    "Name": "Valsa Abraham",
-    "Assignee": "Any Student Tech",
-    "Room": "412",
-    "Task": "Drop off Surplus PC",
-    "Status": "",
-    "Date": "3/10",
-    "Time": "9:00 AM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
@@ -141,5 +130,16 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
+  },
+  {
+    "Ticket": "2149460",
+    "Name": "Valsa Abraham",
+    "Assignee": "Any Student Tech",
+    "Room": "412",
+    "Task": "Drop off Surplus PC",
+    "Status": "Completed",
+    "Date": "3/10",
+    "Time": "9:00 AM",
+    "Day": "Tuesday"
   }
 ]
