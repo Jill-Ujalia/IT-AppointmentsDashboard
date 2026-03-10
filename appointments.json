@@ -11,6 +11,28 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "2N",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "In Progress",
+    "Date": "3/10",
+    "Time": "8:35 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2152659",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assist with setting up Remote Desktop for work",
+    "Status": "",
+    "Date": "3/6",
+    "Time": "9:00 AM",
+    "Day": "Friday"
+  },
+  {
     "Ticket": "2149700",
     "Name": "Mohammad Al Numan",
     "Assignee": "Any Student Tech",
@@ -33,6 +55,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2149460",
+    "Name": "Valsa Abraham",
+    "Assignee": "Any Student Tech",
+    "Room": "412",
+    "Task": "Drop off Surplus PC",
+    "Status": "",
+    "Date": "3/10",
+    "Time": "9:00 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2142810",
     "Name": "Rob Didomenico",
     "Assignee": "Any Student Tech",
@@ -42,6 +75,17 @@
     "Date": "3/10",
     "Time": "1:30 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2158559",
+    "Name": "Leslyn Hanakahi",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Investigate Outlook Problems (see ticket)",
+    "Status": "",
+    "Date": "3/11",
+    "Time": "2:00 PM",
+    "Day": "Wednesday"
   },
   {
     "Ticket": "2082524",
@@ -75,16 +119,5 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "2156540",
-    "Name": "Pearl Craig",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "NVIVO Troubleshooting",
-    "Status": "Completed",
-    "Date": "3/6",
-    "Time": "10:00 AM",
-    "Day": "Friday"
   }
 ]
