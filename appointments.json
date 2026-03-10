@@ -11,17 +11,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "2N",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "In Progress",
-    "Date": "3/10",
-    "Time": "8:35 AM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -130,6 +119,17 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "2N",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "3/10",
+    "Time": "8:35 AM",
+    "Day": "Tuesday"
   },
   {
     "Ticket": "2149460",
