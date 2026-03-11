@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Diya",
+    "Room": "B36",
+    "Task": "Test wifi in 3 different spots",
+    "Status": "In Progress",
+    "Date": "3/11",
+    "Time": "8:35 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -53,17 +64,6 @@
     "Date": "3/10",
     "Time": "3:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Diya",
-    "Room": "B36",
-    "Task": "Test wifi in 3 different spots",
-    "Status": "",
-    "Date": "3/11",
-    "Time": "8:35 AM",
-    "Day": "Wednesday"
   },
   {
     "Ticket": "2162265",
