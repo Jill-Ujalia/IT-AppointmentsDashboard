@@ -55,6 +55,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "2162265",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assist with NVivo connection issue",
+    "Status": "",
+    "Date": "3/11",
+    "Time": "10:00 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -86,60 +97,5 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "2N",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/10",
-    "Time": "8:35 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2149460",
-    "Name": "Valsa Abraham",
-    "Assignee": "Any Student Tech",
-    "Room": "412",
-    "Task": "Drop off Surplus PC",
-    "Status": "Completed",
-    "Date": "3/10",
-    "Time": "9:00 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/10",
-    "Time": "10:35 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2142810",
-    "Name": "Rob Didomenico",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Assist making sure that Poll Everywhere is working when starting presentation",
-    "Status": "Completed",
-    "Date": "3/10",
-    "Time": "1:30 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/10",
-    "Time": "2:35 PM",
-    "Day": "Tuesday"
   }
 ]
