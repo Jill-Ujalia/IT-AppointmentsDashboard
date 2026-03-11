@@ -55,17 +55,6 @@
     "Day": "Tuesday"
   },
   {
-    "Ticket": "2162265",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assist with NVivo connection issue",
-    "Status": "",
-    "Date": "3/11",
-    "Time": "10:00 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2165066",
     "Name": "Beatrice Drambarean",
     "Assignee": "Any Student Tech",
@@ -118,6 +107,17 @@
     "Status": "Completed",
     "Date": "3/11",
     "Time": "8:35 AM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2162265",
+    "Name": "Michael Pham",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assist with NVivo connection issue",
+    "Status": "Completed",
+    "Date": "3/11",
+    "Time": "10:00 AM",
     "Day": "Wednesday"
   }
 ]
