@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "",
+    "Name": "Bryan Lampkin",
+    "Assignee": "Jill",
+    "Room": "360",
+    "Task": "Setup PC",
+    "Status": "In Progress",
+    "Date": "3/12",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -53,17 +64,6 @@
     "Date": "3/10",
     "Time": "3:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Bryan Lampkin",
-    "Assignee": "Jill",
-    "Room": "360",
-    "Task": "Setup PC",
-    "Status": "",
-    "Date": "3/12",
-    "Time": "10:30 AM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "",
