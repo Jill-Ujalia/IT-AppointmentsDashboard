@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2082524",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
+    "Status": "In Progress",
+    "Date": "3/12",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -53,28 +64,6 @@
     "Date": "3/10",
     "Time": "3:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2165066",
-    "Name": "Beatrice Drambarean",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "3/12 | Luke Stickler Resident Seminar Coverage Request",
-    "Status": "",
-    "Date": "3/12",
-    "Time": "12:15 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2082524",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assistance with PharmD Interview",
-    "Status": "",
-    "Date": "3/12",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2166429",
@@ -129,6 +118,17 @@
     "Status": "Completed",
     "Date": "3/12",
     "Time": "11:15 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "2165066",
+    "Name": "Beatrice Drambarean",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "3/12 | Luke Stickler Resident Seminar Coverage Request",
+    "Status": "Completed",
+    "Date": "3/12",
+    "Time": "12:15 PM",
     "Day": "Thursday"
   }
 ]
