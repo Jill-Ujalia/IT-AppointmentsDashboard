@@ -77,6 +77,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "3/12",
+    "Time": "11:35 PM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -97,27 +108,5 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Diya",
-    "Room": "B36",
-    "Task": "Test wifi in 3 different spots",
-    "Status": "Completed",
-    "Date": "3/11",
-    "Time": "8:35 AM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2162265",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assist with NVivo connection issue",
-    "Status": "Completed",
-    "Date": "3/11",
-    "Time": "10:00 AM",
-    "Day": "Wednesday"
   }
 ]
