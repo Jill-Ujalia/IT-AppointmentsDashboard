@@ -55,6 +55,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "",
+    "Name": "Bryan Lamkin",
+    "Assignee": "Jill",
+    "Room": "360",
+    "Task": "Setup PC",
+    "Status": "",
+    "Date": "3/12",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2165066",
     "Name": "Beatrice Drambarean",
     "Assignee": "Any Student Tech",
