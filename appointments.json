@@ -11,17 +11,6 @@
     "Day": "Thursday"
   },
   {
-    "Ticket": "",
-    "Name": "Bryan Lampkin",
-    "Assignee": "Jill",
-    "Room": "360",
-    "Task": "Setup PC",
-    "Status": "Delayed",
-    "Date": "3/12",
-    "Time": "10:30 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -64,17 +53,6 @@
     "Date": "3/10",
     "Time": "3:00 PM",
     "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/12",
-    "Time": "11:15 AM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2165066",
@@ -130,5 +108,27 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Bryan Lampkin",
+    "Assignee": "Jill",
+    "Room": "360",
+    "Task": "Setup PC",
+    "Status": "Completed",
+    "Date": "3/12",
+    "Time": "10:30 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "3/12",
+    "Time": "11:15 AM",
+    "Day": "Thursday"
   }
 ]
