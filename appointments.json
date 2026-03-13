@@ -77,6 +77,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2165041",
+    "Name": "Jimmy Orjala",
+    "Assignee": "Any Student Tech",
+    "Room": "MBRB 3170",
+    "Task": "Troubleshoot ethernet on computer",
+    "Status": "",
+    "Date": "3/16",
+    "Time": "8:00 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2168170",
     "Name": "Sunday Osamika",
     "Assignee": "Any Student Tech",
@@ -119,38 +130,5 @@
     "Date": "4/17",
     "Time": "4:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Bryan Lampkin",
-    "Assignee": "Jill",
-    "Room": "360",
-    "Task": "Setup PC",
-    "Status": "Completed",
-    "Date": "3/12",
-    "Time": "10:30 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/12",
-    "Time": "11:15 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2165066",
-    "Name": "Beatrice Drambarean",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "3/12 | Luke Stickler Resident Seminar Coverage Request",
-    "Status": "Completed",
-    "Date": "3/12",
-    "Time": "12:15 PM",
-    "Day": "Thursday"
   }
 ]
