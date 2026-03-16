@@ -22,17 +22,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "2082524",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assistance with PharmD Interview",
-    "Status": "In Progress",
-    "Date": "3/12",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
