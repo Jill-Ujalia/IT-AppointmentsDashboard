@@ -1,49 +1,5 @@
 [
   {
-    "Ticket": "2152659",
-    "Name": "Michael Pham",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assist with setting up Remote Desktop for work",
-    "Status": "",
-    "Date": "3/6",
-    "Time": "9:00 AM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2149700",
-    "Name": "Mohammad Al Numan",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "EndNote Troubleshooting",
-    "Status": "",
-    "Date": "3/6",
-    "Time": "2:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2142810",
-    "Name": "Rob Didomenico",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Assist making sure that Poll Everywhere is working when starting presentation",
-    "Status": "",
-    "Date": "3/9",
-    "Time": "2:30 PM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "2119469",
-    "Name": "Hilary Lien",
-    "Assignee": "Rainn",
-    "Room": "Remote",
-    "Task": "Remote session to troubleshoot box issue",
-    "Status": "",
-    "Date": "3/10",
-    "Time": "3:00 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2166429",
     "Name": "Victory Ike",
     "Assignee": "Any Student Tech",
