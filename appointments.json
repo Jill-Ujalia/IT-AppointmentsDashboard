@@ -11,6 +11,17 @@
     "Day": "Thursday"
   },
   {
+    "Ticket": "2165041",
+    "Name": "Jimmy Orjala",
+    "Assignee": "Any Student Tech",
+    "Room": "MBRB 3170",
+    "Task": "Troubleshoot ethernet on computer",
+    "Status": "Delayed",
+    "Date": "3/16",
+    "Time": "8:00 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -75,17 +86,6 @@
     "Date": "3/12",
     "Time": "5:00 PM",
     "Day": "Thursday"
-  },
-  {
-    "Ticket": "2165041",
-    "Name": "Jimmy Orjala",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3170",
-    "Task": "Troubleshoot ethernet on computer",
-    "Status": "",
-    "Date": "3/16",
-    "Time": "8:00 AM",
-    "Day": "Monday"
   },
   {
     "Ticket": "2168170",
