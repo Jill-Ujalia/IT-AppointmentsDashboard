@@ -1,27 +1,5 @@
 [
   {
-    "Ticket": "2135283",
-    "Name": "Please Ask for a Name",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "RedGreen Charger Return",
-    "Status": "Delayed",
-    "Date": "2/19",
-    "Time": "5:00 PM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "2165041",
-    "Name": "Jimmy Orjala",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3170",
-    "Task": "Troubleshoot ethernet on computer",
-    "Status": "Delayed",
-    "Date": "3/16",
-    "Time": "8:00 AM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2152659",
     "Name": "Michael Pham",
     "Assignee": "Any Student Tech",
@@ -130,6 +108,17 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2165041",
+    "Name": "Jimmy Orjala",
+    "Assignee": "Any Student Tech",
+    "Room": "MBRB 3170",
+    "Task": "Troubleshoot ethernet on computer",
+    "Status": "Completed",
+    "Date": "3/16",
+    "Time": "8:00 AM",
+    "Day": "Monday"
   },
   {
     "Ticket": "",
