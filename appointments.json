@@ -44,7 +44,7 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "673670390",
+    "Ticket": "2170237",
     "Name": "Hayat Onyuksel",
     "Assignee": "Amy student tech",
     "Room": "Remote",
@@ -53,27 +53,5 @@
     "Date": "",
     "Time": "",
     "Day": ""
-  },
-  {
-    "Ticket": "2165041",
-    "Name": "Jimmy Orjala",
-    "Assignee": "Any Student Tech",
-    "Room": "MBRB 3170",
-    "Task": "Troubleshoot ethernet on computer",
-    "Status": "Completed",
-    "Date": "3/16",
-    "Time": "8:00 AM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Ansh",
-    "Room": "134-1",
-    "Task": "Wifi Testing",
-    "Status": "Completed",
-    "Date": "3/16",
-    "Time": "8:35 AM",
-    "Day": "Monday"
   }
 ]
