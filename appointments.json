@@ -33,6 +33,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2174430",
+    "Name": "Keyonte Smoot",
+    "Assignee": "Openers",
+    "Room": "B32",
+    "Task": "Unlock B32 before 7:30 AM",
+    "Status": "",
+    "Date": "3/23",
+    "Time": "7:30 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -42,6 +53,17 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
+  },
+  {
+    "Ticket": "2175390",
+    "Name": "Ashley Bellario",
+    "Assignee": "Closers",
+    "Room": "B32, B36, 2N",
+    "Task": "Leave mentioned classrooms open",
+    "Status": "",
+    "Date": "4/10",
+    "Time": "9:30 PM",
+    "Day": "Friday"
   },
   {
     "Ticket": "2167814",
