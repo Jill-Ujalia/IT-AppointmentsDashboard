@@ -11,17 +11,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/19",
-    "Time": "1:15 PM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2177550",
     "Name": "Taylor Whitton",
     "Assignee": "Any Student Tech",
