@@ -36,6 +36,50 @@
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
+    "Room": "B36",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "3/19",
+    "Time": "10:15 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "3/19",
+    "Time": "10:15 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "3/19",
+    "Time": "11:15 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-2",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "3/19",
+    "Time": "1:15 PM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
     "Room": "134-1",
     "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
     "Status": "",
@@ -55,28 +99,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/21",
-    "Time": "10:15 AM",
-    "Day": "Saturday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/22",
-    "Time": "10:15 AM",
-    "Day": "Sunday"
-  },
-  {
     "Ticket": "2174430",
     "Name": "Keyonte Smoot",
     "Assignee": "Openers",
@@ -85,17 +107,6 @@
     "Status": "",
     "Date": "3/23",
     "Time": "7:30 AM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/23",
-    "Time": "11:15 AM",
     "Day": "Monday"
   },
   {
@@ -108,17 +119,6 @@
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/24",
-    "Time": "1:15 PM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "2174411",
