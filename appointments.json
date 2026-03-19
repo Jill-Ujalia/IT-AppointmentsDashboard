@@ -11,17 +11,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "2176335",
-    "Name": "Steve Lee",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install Endnote Style File",
-    "Status": "",
-    "Date": "3/19",
-    "Time": "10:00 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "",
     "Name": "Tony",
     "Assignee": "Any Student Tech",
@@ -119,5 +108,16 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2176335",
+    "Name": "Steve Lee",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Install Endnote Style File",
+    "Status": "Completed",
+    "Date": "3/19",
+    "Time": "10:00 AM",
+    "Day": "Thursday"
   }
 ]
