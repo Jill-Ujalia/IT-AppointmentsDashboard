@@ -55,6 +55,28 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2178777",
+    "Name": "Keri Kim",
+    "Assignee": "Any Student Tech ",
+    "Room": "176",
+    "Task": "studio reservation",
+    "Status": "",
+    "Date": "3/24",
+    "Time": "12:00 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2178776",
+    "Name": "Keri Kim ",
+    "Assignee": "Any Student Tech ",
+    "Room": "176",
+    "Task": "studio reservation",
+    "Status": "",
+    "Date": "3/25",
+    "Time": "12:00 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2174411",
     "Name": "Paul Choh",
     "Assignee": "Closers",
@@ -97,27 +119,5 @@
     "Date": "",
     "Time": "",
     "Day": ""
-  },
-  {
-    "Ticket": "2176335",
-    "Name": "Steve Lee",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Install Endnote Style File",
-    "Status": "Completed",
-    "Date": "3/19",
-    "Time": "10:00 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/19",
-    "Time": "11:15 AM",
-    "Day": "Thursday"
   }
 ]
