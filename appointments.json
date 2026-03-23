@@ -33,17 +33,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2180376",
-    "Name": "Hilary Lien",
-    "Assignee": "Jill",
-    "Room": "270",
-    "Task": "Room Setup",
-    "Status": "",
-    "Date": "3/23",
-    "Time": "10:25 AM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -129,6 +118,17 @@
     "Status": "Completed",
     "Date": "3/23",
     "Time": "7:30 AM",
+    "Day": "Monday"
+  },
+  {
+    "Ticket": "2180376",
+    "Name": "Hilary Lien",
+    "Assignee": "Jill",
+    "Room": "270",
+    "Task": "Room Setup",
+    "Status": "Completed",
+    "Date": "3/23",
+    "Time": "10:25 AM",
     "Day": "Monday"
   }
 ]
