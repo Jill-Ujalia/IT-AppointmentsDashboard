@@ -33,17 +33,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2174430",
-    "Name": "Keyonte Smoot",
-    "Assignee": "Openers",
-    "Room": "B32",
-    "Task": "Unlock B32 before 7:30 AM",
-    "Status": "",
-    "Date": "3/23",
-    "Time": "7:30 AM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2180376",
     "Name": "Hilary Lien",
     "Assignee": "Jill",
@@ -130,5 +119,16 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2174430",
+    "Name": "Keyonte Smoot",
+    "Assignee": "Openers",
+    "Room": "B32",
+    "Task": "Unlock B32 before 7:30 AM",
+    "Status": "Completed",
+    "Date": "3/23",
+    "Time": "7:30 AM",
+    "Day": "Monday"
   }
 ]
