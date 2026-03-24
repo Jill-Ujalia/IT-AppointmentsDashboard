@@ -22,17 +22,6 @@
     "Day": "Tuesday"
   },
   {
-    "Ticket": "2168170",
-    "Name": "Sunday Osamika",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Drop off GRN/GRY Loaner Charger",
-    "Status": "",
-    "Date": "3/16",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2177550",
     "Name": "Taylor Whitton",
     "Assignee": "Any Student Tech",
@@ -53,6 +42,17 @@
     "Date": "3/20",
     "Time": "12:30 PM",
     "Day": "Friday"
+  },
+  {
+    "Ticket": "2168170",
+    "Name": "Sunday Osamika",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Drop off GRN/GRY Loaner Charger",
+    "Status": "",
+    "Date": "3/24",
+    "Time": "5:00 PM",
+    "Day": "Tuesday"
   },
   {
     "Ticket": "2184629",
