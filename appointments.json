@@ -5,7 +5,7 @@
     "Assignee": "Any Student Tech",
     "Room": "Remote",
     "Task": "Assistance with PharmD Interview",
-    "Status": "In Progress",
+    "Status": "Delayed",
     "Date": "3/23",
     "Time": "12:30 PM",
     "Day": "Monday"
@@ -20,6 +20,17 @@
     "Date": "3/24",
     "Time": "12:00 PM",
     "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2168170",
+    "Name": "Sunday Osamika",
+    "Assignee": "Any Student Tech",
+    "Room": "ITU",
+    "Task": "Drop off GRN/GRY Loaner Charger",
+    "Status": "",
+    "Date": "3/16",
+    "Time": "5:00 PM",
+    "Day": "Monday"
   },
   {
     "Ticket": "2177550",
@@ -42,17 +53,6 @@
     "Date": "3/20",
     "Time": "12:30 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2168170",
-    "Name": "Sunday Osamika",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Drop off GRN/GRY Loaner Charger",
-    "Status": "",
-    "Date": "3/24",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "2184629",
