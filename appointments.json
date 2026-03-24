@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2178777",
+    "Name": "Keri Kim",
+    "Assignee": "Any Student Tech ",
+    "Room": "176",
+    "Task": "studio reservation",
+    "Status": "Delayed",
+    "Date": "3/24",
+    "Time": "12:00 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2082524",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -42,28 +53,6 @@
     "Date": "3/20",
     "Time": "12:30 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2184114",
-    "Name": "Mary Kopale",
-    "Assignee": "Any Student Tech",
-    "Room": "2N",
-    "Task": "Assist with setting up zoom and conference call with Rockford",
-    "Status": "",
-    "Date": "3/24",
-    "Time": "12:00 PM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2178777",
-    "Name": "Keri Kim",
-    "Assignee": "Any Student Tech ",
-    "Room": "176",
-    "Task": "studio reservation",
-    "Status": "",
-    "Date": "3/24",
-    "Time": "12:00 PM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "2184629",
@@ -130,5 +119,16 @@
     "Date": "",
     "Time": "",
     "Day": ""
+  },
+  {
+    "Ticket": "2184114",
+    "Name": "Mary Kopale",
+    "Assignee": "Any Student Tech",
+    "Room": "2N",
+    "Task": "Assist with setting up zoom and conference call with Rockford",
+    "Status": "Completed",
+    "Date": "3/24",
+    "Time": "12:00 PM",
+    "Day": "Tuesday"
   }
 ]
