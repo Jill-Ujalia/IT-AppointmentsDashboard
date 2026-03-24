@@ -44,6 +44,17 @@
     "Day": "Friday"
   },
   {
+    "Ticket": "2184114",
+    "Name": "Mary Kopale",
+    "Assignee": "Any Student Tech",
+    "Room": "2N",
+    "Task": "Assist with setting up zoom and conference call with Rockford",
+    "Status": "",
+    "Date": "3/24",
+    "Time": "12:00 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2178777",
     "Name": "Keri Kim",
     "Assignee": "Any Student Tech ",
@@ -108,27 +119,5 @@
     "Date": "",
     "Time": "",
     "Day": ""
-  },
-  {
-    "Ticket": "2174430",
-    "Name": "Keyonte Smoot",
-    "Assignee": "Openers",
-    "Room": "B32",
-    "Task": "Unlock B32 before 7:30 AM",
-    "Status": "Completed",
-    "Date": "3/23",
-    "Time": "7:30 AM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "2180376",
-    "Name": "Hilary Lien",
-    "Assignee": "Jill",
-    "Room": "270",
-    "Task": "Room Setup",
-    "Status": "Completed",
-    "Date": "3/23",
-    "Time": "10:25 AM",
-    "Day": "Monday"
   }
 ]
