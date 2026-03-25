@@ -11,17 +11,6 @@
     "Day": "Monday"
   },
   {
-    "Ticket": "2178777",
-    "Name": "Keri Kim",
-    "Assignee": "Any Student Tech ",
-    "Room": "176",
-    "Task": "studio reservation",
-    "Status": "Delayed",
-    "Date": "3/24",
-    "Time": "12:00 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2168170",
     "Name": "Sunday Osamika",
     "Assignee": "Any Student Tech",
@@ -108,16 +97,5 @@
     "Date": "4/17",
     "Time": "4:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "2178778",
-    "Name": "Keri Kim",
-    "Assignee": "Any Student Tech ",
-    "Room": "177",
-    "Task": "studio reservation",
-    "Status": "Completed",
-    "Date": "3/25",
-    "Time": "12:00 PM",
-    "Day": "Wednesday"
   }
 ]
