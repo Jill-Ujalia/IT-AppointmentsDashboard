@@ -22,17 +22,6 @@
     "Day": "Tuesday"
   },
   {
-    "Ticket": "2186152",
-    "Name": "Elie Abi Khalil",
-    "Assignee": "Any Student Tech",
-    "Room": "351",
-    "Task": "Assist with re-installing Tapestation software",
-    "Status": "",
-    "Date": "3/25",
-    "Time": "3:00 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2174411",
     "Name": "Paul Choh",
     "Assignee": "Closers",
@@ -107,6 +96,17 @@
     "Status": "",
     "Date": "5/20",
     "Time": "12:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2186152",
+    "Name": "Elie Abi Khalil",
+    "Assignee": "Any Student Tech",
+    "Room": "351",
+    "Task": "Assist with re-installing Tapestation software",
+    "Status": "Completed",
+    "Date": "3/25",
+    "Time": "3:00 PM",
     "Day": "Wednesday"
   }
 ]
