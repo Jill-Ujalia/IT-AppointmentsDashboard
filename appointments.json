@@ -11,17 +11,6 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2184629",
-    "Name": "Paul Choh",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return Orange/Green Projector",
-    "Status": "",
-    "Date": "3/24",
-    "Time": "5:00 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2174411",
     "Name": "Paul Choh",
     "Assignee": "Closers",
@@ -31,17 +20,6 @@
     "Date": "3/25",
     "Time": "9:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2185395",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assistance with PharmD Interview",
-    "Status": "",
-    "Date": "3/26",
-    "Time": "12:30 PM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2185395",
@@ -99,14 +77,14 @@
     "Day": "Wednesday"
   },
   {
-    "Ticket": "2186152",
-    "Name": "Elie Abi Khalil",
+    "Ticket": "2185395",
+    "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
-    "Room": "351",
-    "Task": "Assist with re-installing Tapestation software",
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
     "Status": "Completed",
-    "Date": "3/25",
-    "Time": "3:00 PM",
-    "Day": "Wednesday"
+    "Date": "3/26",
+    "Time": "12:30 PM",
+    "Day": "Thursday"
   }
 ]
