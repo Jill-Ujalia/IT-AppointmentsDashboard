@@ -22,28 +22,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2177550",
-    "Name": "Taylor Whitton",
-    "Assignee": "Any Student Tech",
-    "Room": "ITU",
-    "Task": "Return Type-C Charger",
-    "Status": "",
-    "Date": "3/30",
-    "Time": "5:00 PM",
-    "Day": "Monday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "3/31",
-    "Time": "2:25 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2185395",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
@@ -129,6 +107,17 @@
     "Status": "Completed",
     "Date": "3/31",
     "Time": "11:15 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Any Student Tech",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "3/31",
+    "Time": "2:25 PM",
     "Day": "Tuesday"
   }
 ]
