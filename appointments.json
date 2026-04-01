@@ -11,6 +11,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Ansh",
+    "Room": "B36",
+    "Task": "Wifi Testing",
+    "Status": "In Progress",
+    "Date": "4/1",
+    "Time": "8:30 AM",
+    "Day": "Wednesday"
+  },
+  {
     "Ticket": "2190780",
     "Name": "Christina Petrykiw",
     "Assignee": "Any Student Tech",
@@ -75,49 +86,5 @@
     "Date": "5/20",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "2N",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/31",
-    "Time": "8:25 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/31",
-    "Time": "10:25 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2194803",
-    "Name": "Marcy Kalata",
-    "Assignee": "Jill",
-    "Room": "Remote",
-    "Task": "Update Windows and Dell Command",
-    "Status": "Completed",
-    "Date": "3/31",
-    "Time": "11:15 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "3/31",
-    "Time": "2:25 PM",
-    "Day": "Tuesday"
   }
 ]
