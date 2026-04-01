@@ -11,17 +11,6 @@
     "Day": "Tuesday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Ansh",
-    "Room": "B36",
-    "Task": "Wifi Testing",
-    "Status": "In Progress",
-    "Date": "4/1",
-    "Time": "8:30 AM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2190780",
     "Name": "Christina Petrykiw",
     "Assignee": "Any Student Tech",
@@ -85,6 +74,17 @@
     "Status": "",
     "Date": "5/20",
     "Time": "12:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Ansh",
+    "Room": "B36",
+    "Task": "Wifi Testing",
+    "Status": "Completed",
+    "Date": "4/1",
+    "Time": "8:30 AM",
     "Day": "Wednesday"
   }
 ]
