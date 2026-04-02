@@ -11,28 +11,6 @@
     "Day": "Tuesday"
   },
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "B36",
-    "Task": "Test wifi in 3 different spots with a loaner laptop",
-    "Status": "In Progress",
-    "Date": "4/2",
-    "Time": "10:25 AM",
-    "Day": "Thursday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "134-2",
-    "Task": "Test wifi in 3 different spots with a loaner laptop",
-    "Status": "In Progress",
-    "Date": "4/2",
-    "Time": "10:25 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2190780",
     "Name": "Christina Petrykiw",
     "Assignee": "Any Student Tech",
@@ -140,6 +118,28 @@
     "Status": "Completed",
     "Date": "4/2",
     "Time": "9:25 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "B36",
+    "Task": "Test wifi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "4/2",
+    "Time": "10:25 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "134-2",
+    "Task": "Test wifi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "4/2",
+    "Time": "10:25 AM",
     "Day": "Thursday"
   }
 ]
