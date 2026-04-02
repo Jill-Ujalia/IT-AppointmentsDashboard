@@ -1,36 +1,14 @@
 [
   {
-    "Ticket": "2193883",
-    "Name": "Ezra Gussin",
+    "Ticket": "2204610",
+    "Name": "Stephanie Crawford",
     "Assignee": "Any Student Tech",
-    "Room": "161",
-    "Task": "Pick-up PC and install more space and install SAS",
-    "Status": "In Progress",
-    "Date": "3/31",
-    "Time": "9:30 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "2190780",
-    "Name": "Christina Petrykiw",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Start Remote session and check and see if Cisco Jabber is installed on laptop. If not, install it. If so, create a shortcut for user to find it",
+    "Room": "258",
+    "Task": "Equipment Offboarding",
     "Status": "",
-    "Date": "3/27",
-    "Time": "2:00 PM",
+    "Date": "4/3",
+    "Time": "12:00 PM",
     "Day": "Friday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "B36",
-    "Task": "Wifi Testing",
-    "Status": "",
-    "Date": "4/1",
-    "Time": "1:30 PM",
-    "Day": "Wednesday"
   },
   {
     "Ticket": "2185395",
