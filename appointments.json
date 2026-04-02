@@ -11,6 +11,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Himanshu",
+    "Room": "134-1",
+    "Task": "Test wifi in 3 different spots with a loaner laptop",
+    "Status": "In Progress",
+    "Date": "4/2",
+    "Time": "11:25 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2190780",
     "Name": "Christina Petrykiw",
     "Assignee": "Any Student Tech",
@@ -31,17 +42,6 @@
     "Date": "4/1",
     "Time": "1:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Himanshu",
-    "Room": "134-1",
-    "Task": "Test wifi in 3 different spots with a loaner laptop",
-    "Status": "",
-    "Date": "4/2",
-    "Time": "11:25 AM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "2185395",
