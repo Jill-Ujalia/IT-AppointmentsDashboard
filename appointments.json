@@ -128,6 +128,17 @@
     "Task": "Test wifi in 3 different spots with a loaner laptop",
     "Status": "Completed",
     "Date": "4/2",
+    "Time": "8:25 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "134-1",
+    "Task": "Test wifi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "4/2",
     "Time": "9:25 AM",
     "Day": "Thursday"
   }
