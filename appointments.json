@@ -11,17 +11,6 @@
     "Day": "Friday"
   },
   {
-    "Ticket": "2185395",
-    "Name": "Daniel Dicesare",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assistance with PharmD Interview",
-    "Status": "",
-    "Date": "4/8",
-    "Time": "12:30 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2206098",
     "Name": "Charles McPherson",
     "Assignee": "Any Student Tech",
@@ -95,6 +84,17 @@
     "Task": "Assistance with PharmD Interview",
     "Status": "",
     "Date": "5/20",
+    "Time": "12:30 PM",
+    "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2185395",
+    "Name": "Daniel Dicesare",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assistance with PharmD Interview",
+    "Status": "Completed",
+    "Date": "4/8",
     "Time": "12:30 PM",
     "Day": "Wednesday"
   }
