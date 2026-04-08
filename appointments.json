@@ -29,8 +29,19 @@
     "Task": "Transferring setup to new office",
     "Status": "",
     "Date": "4/8",
-    "Time": "1:00 PM",
+    "Time": "2:00 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2211207",
+    "Name": "Jennifer Pham",
+    "Assignee": "Tony",
+    "Room": "ITU",
+    "Task": "Map printer to laptop",
+    "Status": "",
+    "Date": "4/10",
+    "Time": "2:00 PM",
+    "Day": "Friday"
   },
   {
     "Ticket": "2175390",
@@ -86,38 +97,5 @@
     "Date": "5/20",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "2N",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "4/7",
-    "Time": "8:25 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "134-2",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "4/7",
-    "Time": "10:25 AM",
-    "Day": "Tuesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Any Student Tech",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "4/7",
-    "Time": "2:25 PM",
-    "Day": "Tuesday"
   }
 ]
