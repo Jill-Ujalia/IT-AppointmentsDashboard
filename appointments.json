@@ -1,38 +1,5 @@
 [
   {
-    "Ticket": "2204610",
-    "Name": "Stephanie Crawford",
-    "Assignee": "Any Student Tech",
-    "Room": "258",
-    "Task": "Equipment Offboarding",
-    "Status": "",
-    "Date": "4/3",
-    "Time": "2:00 PM",
-    "Day": "Friday"
-  },
-  {
-    "Ticket": "2206098",
-    "Name": "Charles McPherson",
-    "Assignee": "Any Student Tech",
-    "Room": "154",
-    "Task": "Transferring setup to new office",
-    "Status": "",
-    "Date": "4/8",
-    "Time": "2:00 PM",
-    "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2212724",
-    "Name": "Jamie Benken",
-    "Assignee": "Any Student Tech",
-    "Room": "B8",
-    "Task": "Replace missing clicker",
-    "Status": "",
-    "Date": "4/8",
-    "Time": "5:00 PM",
-    "Day": "Wednesday"
-  },
-  {
     "Ticket": "2211207",
     "Name": "Jennifer Pham",
     "Assignee": "Tony",
@@ -40,7 +7,7 @@
     "Task": "Map printer to laptop",
     "Status": "",
     "Date": "4/10",
-    "Time": "2:00 PM",
+    "Time": "4:00 PM",
     "Day": "Friday"
   },
   {
@@ -66,9 +33,20 @@
     "Day": "Saturday"
   },
   {
+    "Ticket": "2214587",
+    "Name": "Krisha Dhall",
+    "Assignee": "Rainn",
+    "Room": "134-1",
+    "Task": "PA System Training",
+    "Status": "",
+    "Date": "4/13",
+    "Time": "2:30 PM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2167814",
     "Name": "Krisha Dhall",
-    "Assignee": "Any Student Tech",
+    "Assignee": "Rainn",
     "Room": "134-1",
     "Task": "PA System Loan",
     "Status": "",
