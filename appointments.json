@@ -44,6 +44,17 @@
     "Day": "Monday"
   },
   {
+    "Ticket": "2205020",
+    "Name": "Angela Kong",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Assistance with updating stata license",
+    "Status": "",
+    "Date": "4/14",
+    "Time": "12:00 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2167814",
     "Name": "Krisha Dhall",
     "Assignee": "Rainn",
@@ -75,16 +86,5 @@
     "Date": "5/20",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "",
-    "Name": "Tony ",
-    "Assignee": "Goha ",
-    "Room": "134-1 ",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "Completed",
-    "Date": "4/9",
-    "Time": "8:25 AM",
-    "Day": "Thursday"
   }
 ]
