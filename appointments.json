@@ -33,17 +33,6 @@
     "Day": "Saturday"
   },
   {
-    "Ticket": "2214587",
-    "Name": "Krisha Dhall",
-    "Assignee": "Rainn",
-    "Room": "134-1",
-    "Task": "PA System Training",
-    "Status": "",
-    "Date": "4/13",
-    "Time": "2:30 PM",
-    "Day": "Monday"
-  },
-  {
     "Ticket": "2205020",
     "Name": "Angela Kong",
     "Assignee": "Any Student Tech",
@@ -64,6 +53,17 @@
     "Date": "4/15",
     "Time": "11:00 AM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2181566",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Any Student Tech",
+    "Room": "Phone Call",
+    "Task": "Troubleshoot monitor issue via phone call",
+    "Status": "",
+    "Date": "4/16",
+    "Time": "9:30 AM",
+    "Day": "Thursday"
   },
   {
     "Ticket": "2167814",
@@ -97,5 +97,16 @@
     "Date": "5/20",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "2214587",
+    "Name": "Krisha Dhall",
+    "Assignee": "Rainn",
+    "Room": "134-1",
+    "Task": "PA System Training",
+    "Status": "Completed",
+    "Date": "4/13",
+    "Time": "2:30 PM",
+    "Day": "Monday"
   }
 ]
