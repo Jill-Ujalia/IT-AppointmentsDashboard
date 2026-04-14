@@ -1,5 +1,16 @@
 [
   {
+    "Ticket": "2205020",
+    "Name": "Angela Kong",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Box not syncing",
+    "Status": "In Progress",
+    "Date": "4/14",
+    "Time": "12:00 PM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2211207",
     "Name": "Jennifer Pham",
     "Assignee": "Tony",
@@ -31,17 +42,6 @@
     "Date": "4/11",
     "Time": "9:00 AM",
     "Day": "Saturday"
-  },
-  {
-    "Ticket": "2205020",
-    "Name": "Angela Kong",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Assistance with updating stata license",
-    "Status": "",
-    "Date": "4/14",
-    "Time": "12:00 PM",
-    "Day": "Tuesday"
   },
   {
     "Ticket": "",
