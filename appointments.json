@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "2205020",
-    "Name": "Angela Kong",
-    "Assignee": "Any Student Tech",
-    "Room": "Remote",
-    "Task": "Box not syncing",
-    "Status": "In Progress",
-    "Date": "4/14",
-    "Time": "12:00 PM",
-    "Day": "Tuesday"
-  },
-  {
     "Ticket": "2211207",
     "Name": "Jennifer Pham",
     "Assignee": "Tony",
@@ -118,6 +107,17 @@
     "Status": "Completed",
     "Date": "4/14",
     "Time": "8:25 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "2205020",
+    "Name": "Angela Kong",
+    "Assignee": "Any Student Tech",
+    "Room": "Remote",
+    "Task": "Box not syncing",
+    "Status": "Completed",
+    "Date": "4/14",
+    "Time": "12:00 PM",
     "Day": "Tuesday"
   }
 ]
