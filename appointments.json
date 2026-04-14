@@ -33,6 +33,28 @@
     "Day": "Saturday"
   },
   {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "2N",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "4/14",
+    "Time": "8:25 AM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "134-2",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "4/14",
+    "Time": "10:25 AM",
+    "Day": "Tuesday"
+  },
+  {
     "Ticket": "2205020",
     "Name": "Angela Kong",
     "Assignee": "Any Student Tech",
@@ -41,6 +63,17 @@
     "Status": "",
     "Date": "4/14",
     "Time": "12:00 PM",
+    "Day": "Tuesday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "",
+    "Date": "4/14",
+    "Time": "2:25 PM",
     "Day": "Tuesday"
   },
   {
@@ -97,16 +130,5 @@
     "Date": "5/20",
     "Time": "12:30 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2214587",
-    "Name": "Krisha Dhall",
-    "Assignee": "Rainn",
-    "Room": "134-1",
-    "Task": "PA System Training",
-    "Status": "Completed",
-    "Date": "4/13",
-    "Time": "2:30 PM",
-    "Day": "Monday"
   }
 ]
