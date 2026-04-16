@@ -1,13 +1,13 @@
 [
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "134-1 ",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Ticket": "2181566",
+    "Name": "Lindsey McQuade",
+    "Assignee": "Any Student Tech",
+    "Room": "Phone Call",
+    "Task": "Troubleshoot monitor issue via phone call",
     "Status": "In Progress",
     "Date": "4/16",
-    "Time": "9:25 AM",
+    "Time": "9:30 AM",
     "Day": "Thursday"
   },
   {
@@ -75,17 +75,6 @@
     "Date": "4/15",
     "Time": "5:00 PM",
     "Day": "Wednesday"
-  },
-  {
-    "Ticket": "2181566",
-    "Name": "Lindsey McQuade",
-    "Assignee": "Any Student Tech",
-    "Room": "Phone Call",
-    "Task": "Troubleshoot monitor issue via phone call",
-    "Status": "",
-    "Date": "4/16",
-    "Time": "9:30 AM",
-    "Day": "Thursday"
   },
   {
     "Ticket": "",
@@ -163,5 +152,16 @@
     "Date": "5/20",
     "Time": "12:30 PM",
     "Day": "Wednesday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "134-1 ",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "4/16",
+    "Time": "9:25 AM",
+    "Day": "Thursday"
   }
 ]
