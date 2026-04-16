@@ -1,16 +1,5 @@
 [
   {
-    "Ticket": "",
-    "Name": "Tony",
-    "Assignee": "Goha",
-    "Room": "134-1",
-    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
-    "Status": "In Progress",
-    "Date": "4/16",
-    "Time": "11:25 AM",
-    "Day": "Thursday"
-  },
-  {
     "Ticket": "2211207",
     "Name": "Jennifer Pham",
     "Assignee": "Tony",
@@ -162,6 +151,17 @@
     "Status": "Completed",
     "Date": "4/16",
     "Time": "10:25 AM",
+    "Day": "Thursday"
+  },
+  {
+    "Ticket": "",
+    "Name": "Tony",
+    "Assignee": "Goha",
+    "Room": "134-1",
+    "Task": "Test Wi-Fi in 3 different spots with a loaner laptop",
+    "Status": "Completed",
+    "Date": "4/16",
+    "Time": "11:25 AM",
     "Day": "Thursday"
   }
 ]
