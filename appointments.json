@@ -99,6 +99,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "2237595",
+    "Name": "Ruchi Roy",
+    "Assignee": "Any Student Tech",
+    "Room": "474",
+    "Task": "Troubleshoot cable from monitor to laptop",
+    "Status": "",
+    "Date": "4/27",
+    "Time": "9:00 AM",
+    "Day": "Monday"
+  },
+  {
     "Ticket": "2063734",
     "Name": "Cathy Ami",
     "Assignee": "Any Student Tech",
