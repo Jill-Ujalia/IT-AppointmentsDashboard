@@ -132,6 +132,17 @@
     "Day": "Tuesday"
   },
   {
+    "Ticket": "2244075",
+    "Name": "Drew Posen",
+    "Assignee": "Any Student Tech",
+    "Room": "CSB 318",
+    "Task": "Workstation/Computer Won't Power On",
+    "Status": "",
+    "Date": "4/30",
+    "Time": "10:15 AM",
+    "Day": "Thursday"
+  },
+  {
     "Ticket": "2185395",
     "Name": "Daniel Dicesare",
     "Assignee": "Any Student Tech",
